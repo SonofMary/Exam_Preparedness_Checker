@@ -2,23 +2,27 @@ import React from 'react'
 
 
 export const fetchExams = async () => {
-
-
   
-  const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/subjects/allSubjects`);
+  const apiUrl = import.meta.env.VITE_API_URL_BACKEND || 'http://localhost:3000'
+  console.log("Fetching from:", `${apiUrl}/subjects/allSubjects`)
+  
+  const res = await fetch(`${apiUrl}/subjects/allSubjects`);
 
   if (!res.ok) {
-    throw new Error("Failed to fetch exams");
+    console.error("Fetch error:", res.status, res.statusText)
+    throw new Error(`Failed to fetch exams: ${res.status} ${res.statusText}`);
   }
 
   return res.json();
 };
 
 export const fetchExamTopics = async(examType, subject ) => {
-    const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/allTopics/${examType}/${subject}`)
+    const apiUrl = import.meta.env.VITE_API_URL_BACKEND || 'http://localhost:3000'
+    const res = await fetch(`${apiUrl}/allTopics/${examType}/${subject}`)
 
     if(!res.ok) {
-        throw new Error("Failed to fetch exams")
+        console.error("Fetch error:", res.status, res.statusText)
+        throw new Error(`Failed to fetch topics: ${res.status} ${res.statusText}`)
     }
 
     return res.json()
@@ -26,7 +30,8 @@ export const fetchExamTopics = async(examType, subject ) => {
 
 export const fetchExamTopicQuestions = async(examType, subject, topic) => {
     try {
-       const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/topics/test/${examType}/${subject}/${topic}`) 
+       const apiUrl = import.meta.env.VITE_API_URL_BACKEND || 'http://localhost:3000'
+       const res = await fetch(`${apiUrl}/topics/test/${examType}/${subject}/${topic}`) 
 
        if(!res.ok) {
         throw new Error("failed to fetch exams")
@@ -42,8 +47,9 @@ export const fetchExamTopicQuestions = async(examType, subject, topic) => {
 }
 
 export const getResults = async (examType, subject, topic, submittedData) => {
+    const apiUrl = import.meta.env.VITE_API_URL_BACKEND || 'http://localhost:3000'
     const res = await fetch(
-      `${import.meta.env.VITE_API_URL_BACKEND}/topics/result/${examType}/${subject}/${topic}`,
+      `${apiUrl}/topics/result/${examType}/${subject}/${topic}`,
       {
         method: "POST",
         headers: {
