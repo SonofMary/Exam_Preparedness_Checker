@@ -3,10 +3,10 @@ const FS = require("fs")
 const path = require('path');
 const JSON5 = require('json5')
 
-require("dotenv")
+require("dotenv").config()
 
-const OPENROUTER_API_KEY = "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"
-
+const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY
+ 
 
  function parseAIJSON(aiText) {
   if (!aiText || typeof aiText !== "string") {
