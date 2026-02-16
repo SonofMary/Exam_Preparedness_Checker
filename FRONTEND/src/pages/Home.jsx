@@ -18,7 +18,7 @@ export const Home = () => {
 const {isLoading, error, data} = useQuery({
     queryKey: ["exams"],
     queryFn: async ()=>{ 
-        const res = await fetch(`${apiUrl}/subjects/allSubjects`)
+        const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/subjects/allSubjects`)
         if (!res.ok) {
             throw new Error('Network response was not ok');
           }

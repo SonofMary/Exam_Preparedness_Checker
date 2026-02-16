@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import { Home } from './pages/home'
+import { Home } from './pages/Home'
 import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom'
 import { ExamTypeDetails } from './pages/ExamTypeDetails'
 import { SubjectPageDetails } from './pages/SubjectPageDetails'
@@ -10,6 +10,7 @@ import { TopicQuestions } from './pages/TopicQuestions'
 import { createContext } from 'react'
 import { ExamProvider } from './context/ExamContext'
 import { Results } from './pages/Results'
+
 
 
 function App() {

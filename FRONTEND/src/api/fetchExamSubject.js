@@ -2,8 +2,10 @@ import React from 'react'
 
 
 export const fetchExams = async () => {
+
+
   
-  const res = await fetch("http://localhost:3000/subjects/allSubjects");
+  const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/subjects/allSubjects`);
 
   if (!res.ok) {
     throw new Error("Failed to fetch exams");
@@ -13,7 +15,7 @@ export const fetchExams = async () => {
 };
 
 export const fetchExamTopics = async(examType, subject ) => {
-    const res = await fetch(`http:localhost:3000/allTopics/${examType}/${subject}`)
+    const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/allTopics/${examType}/${subject}`)
 
     if(!res.ok) {
         throw new Error("Failed to fetch exams")
@@ -24,7 +26,7 @@ export const fetchExamTopics = async(examType, subject ) => {
 
 export const fetchExamTopicQuestions = async(examType, subject, topic) => {
     try {
-       const res = await fetch(`http://localhost:3000/topics/test/${examType}/${subject}/${topic}`) 
+       const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/topics/test/${examType}/${subject}/${topic}`) 
 
        if(!res.ok) {
         throw new Error("failed to fetch exams")
@@ -41,7 +43,7 @@ export const fetchExamTopicQuestions = async(examType, subject, topic) => {
 
 export const getResults = async (examType, subject, topic, submittedData) => {
     const res = await fetch(
-      `http://localhost:3000/topics/result/${examType}/${subject}/${topic}`,
+      `${import.meta.env.VITE_API_URL_BACKEND}/topics/result/${examType}/${subject}/${topic}`,
       {
         method: "POST",
         headers: {

@@ -130,7 +130,7 @@ let response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
   })
 });
 
-console.log("api key", OPENROUTER_API_KEY)
+// console.log("api key", OPENROUTER_API_KEY)
 // Extract the assistant message with reasoning_details and save it to the response variable
 const result = await response.json();
 console.log("RESULT>>>>>", result)
@@ -368,7 +368,7 @@ Instructions:
 ]
 `
 
-    console.log("API key present:", !!OPENROUTER_API_KEY)
+    // console.log("API key present:", !!OPENROUTER_API_KEY)
     
     // API call with error handling
     let response;
