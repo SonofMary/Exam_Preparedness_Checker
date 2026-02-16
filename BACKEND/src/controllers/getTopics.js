@@ -6,7 +6,10 @@ const JSON5 = require('json5')
 require("dotenv").config()
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY
- console.log("OPENROUTER_API_KEY:", OPENROUTER_API_KEY)
+
+// Get the correct data path - handles both local and production
+const DATA_PATH = path.resolve(__dirname, '../data');
+console.log("Data path:", DATA_PATH)
 
  function parseAIJSON(aiText) {
   if (!aiText || typeof aiText !== "string") {
@@ -47,7 +50,10 @@ const cleanFileNames  = (files) => {
 const getTopics = (req, res) => {
     const {subject, exam} = req.params;
 
-    const syllabus = JSON.parse(FS.readFileSync(path.join(__dirname, `../data/syllabus/${exam}/${subject}.json`), 'utf-8')); 
+    try {
+        const syllabusPath = path.join(DATA_PATH, `syllabus/${exam}/${subject}.json`);
+        console.log("Loading syllabus from:", syllabusPath)
+        const syllabus = JSON.parse(FS.readFileSync(syllabusPath, 'utf-8')); 
 
     const topics = syllabus.sections.map((section) =>  (
         {
@@ -61,6 +67,10 @@ const getTopics = (req, res) => {
     return res.status(200).json({
         data: topics
     })
+    } catch (error) {
+        console.error("Error in getTopics:", error)
+        return res.status(500).json({ error: error.message })
+    }
 
 
 //A FUNCTION TO GET ALL TOPICS FOR EACH SUBJECT SELECTED
@@ -256,11 +266,11 @@ return res.status(200).json({
 const getSubjectsAvailable = async (req, res) => {
   try {
     const jambDir = path.join(__dirname, "../data/syllabus/jamb");
-    // const waecDir = path.join(__dirname, "../data/syllabus/waec");
+    const waecDir = path.join(__dirname, "../data/syllabus/waec");
 
     const [filesJamb, filesWaec] = await Promise.all([
       fs.readdir(jambDir),
-      // fs.readdir(waecDir)
+      fs.readdir(waecDir)
     ]);
 
     const readSubject = async (basePath, subject) => {
@@ -319,13 +329,8 @@ const getResultsForATopic = async (req, res) => {
     // Read files with error handling
     let syllabus, questions;
     try {
-      const syllabusPath = path.join(DATA_PATH, `syllabus/${exam}/${subject}.json`);
-      const questionsPath = path.join(DATA_PATH, `questions/${exam}/${subject}.json`);
-      console.log("Loading syllabus from:", syllabusPath)
-      console.log("Loading questions from:", questionsPath)
-      
-      syllabus = JSON.parse(FS.readFileSync(syllabusPath, 'utf-8'));
-      questions = JSON.parse(FS.readFileSync(questionsPath, 'utf-8'));
+      syllabus = JSON.parse(FS.readFileSync(path.join(__dirname, `../data/syllabus/${exam}/${subject}.json`), 'utf-8'));
+      questions = JSON.parse(FS.readFileSync(path.join(__dirname, `../data/questions/${exam}/${subject}.json`), 'utf-8'));
     } catch (fileError) {
       console.error("File reading error:", fileError);
       return res.status(500).json({ error: "Failed to read data files", details: fileError.message });

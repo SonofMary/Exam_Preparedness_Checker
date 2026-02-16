@@ -1,0 +1,1100 @@
+{
+  "subject": "Biology",
+  "exam": ["WAEC"],
+  "sections": [
+    {
+      "id": "A",
+      "title": "Variety of Organisms",
+      "description": "Study of living organisms, their characteristics, classification, evolution and adaptations.",
+      "topics": [
+        {
+          "id": "A1",
+          "title": "Living Organisms",
+          "subtopics": [
+            {
+              "title": "Characteristics of Living Things",
+              "key_points": [
+                "Movement",
+                "Respiration",
+                "Nutrition",
+                "Irritability",
+                "Growth",
+                "Excretion",
+                "Reproduction"
+              ],
+              "objectives": [
+                "Differentiate between living and non-living things",
+                "Identify life processes in organisms"
+              ]
+            },
+            {
+              "title": "Cell Structure and Functions",
+              "key_points": [
+                "Plant cell structure",
+                "Animal cell structure",
+                "Functions of cell organelles: cell wall, cell membrane, nucleus, cytoplasm, mitochondria, lysosomes, chloroplasts, endoplasmic reticulum, ribosomes, centrosomes, Golgi bodies, chromosomes"
+              ],
+              "objectives": [
+                "Identify parts of plant and animal cells",
+                "Relate structure of organelles to their functions",
+                "Compare plant and animal cells"
+              ]
+            },
+            {
+              "title": "Levels of Organization",
+              "key_points": [
+                "Cell",
+                "Tissue",
+                "Organ",
+                "System",
+                "Organism"
+              ],
+              "examples": [
+                "Amoeba, Euglena, Paramecium (cell)",
+                "Hydra (tissue)",
+                "Onion bulb, rhizome, heart (organ)",
+                "Reproductive system, excretory system (system)",
+                "Chlamydomonas (organism)"
+              ],
+              "objectives": [
+                "Trace the hierarchy of organization in living organisms",
+                "Explain the significance of different levels including volume/surface area ratio"
+              ]
+            },
+            {
+              "title": "Forms in which Living Cells Exist",
+              "key_points": [
+                "Single and free-living: Amoeba, Paramecium, Euglena, Chlamydomonas",
+                "Colony: Volvox",
+                "Filament: Spirogyra",
+                "Part of a living organism: Cheek cells, onion root tip cells, epidermis of fleshy leaves"
+              ],
+              "objectives": [
+                "Describe the structure in relation to forms of existence",
+                "Illustrate dependence and interdependence",
+                "Distinguish groups of cells that form tissues from colonies or filaments"
+              ]
+            },
+            {
+              "title": "Cell and its Environment",
+              "key_points": [
+                "Diffusion",
+                "Osmosis (haemolysis, plasmolysis, turgidity, crenation)",
+                "Active transport"
+              ],
+              "objectives": [
+                "Explain the significance of these processes as factors affecting cell activities"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "A2",
+          "title": "Classification of Living Things",
+          "subtopics": [
+            {
+              "title": "Living and Non-living Things",
+              "key_points": [
+                "Examples of each group",
+                "Viruses as link"
+              ]
+            },
+            {
+              "title": "Kingdoms",
+              "key_points": [
+                "Monera (Prokaryotes: bacteria, blue-green algae)",
+                "Protoctista (Protista: Chlamydomonas, Amoeba; phyla: Rhizopoda, Zoomastigina, Apicomplexa, Ciliophora, Euglenophyta, Oomycota, Chlorophyta, Rhodophyta, Phaeophyta)",
+                "Fungi (moulds, mushrooms, Rhizopus; phyla: Zygomycota, Ascomycota, Basidiomycota)",
+                "Plantae (mosses, ferns, pines, oil palms, yam; divisions: Bryophyta (Hepaticae, Musci), Lycopodophyta, Filicinophyta, Coniferophyta, Cycadophyta, Angiospermophyta (Monocotyledoneae, Dicotyledoneae))",
+                "Animalia (corals, worms, insects, snails, fishes, frogs, snakes, monkeys, cows; external features: cockroach, butterfly, Tilapia, toad/frog, lizard, domestic fowl/pigeon)"
+              ]
+            },
+            {
+              "title": "Differences between Plants and Animals"
+            }
+          ],
+          "objectives": [
+            "Classify objects into living and non-living",
+            "Classify living things into kingdoms and major phyla/divisions",
+            "Illustrate differentiation and specialization in organisms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Form and Functions",
+      "description": "Structure, function and physiology of different parts of organisms.",
+      "topics": [
+        {
+          "id": "B1",
+          "title": "Properties and Functions of the Living Cell",
+          "subtopics": [
+            {
+              "title": "Nutrition",
+              "types": [
+                "Autotrophic (photosynthesis)",
+                "Heterotrophic (holozoic)"
+              ],
+              "key_points": [
+                "Nutrition in Euglena, Chlamydomonas, Spirogyra",
+                "Nutrition in Amoeba, Paramecium"
+              ]
+            },
+            {
+              "title": "Cellular Respiration",
+              "key_points": [
+                "Aerobic respiration (glycolysis, Kreb's cycle, ATP role)",
+                "Anaerobic respiration (energy release, importance in food processing)"
+              ]
+            },
+            {
+              "title": "Excretion",
+              "key_points": [
+                "In single-celled aquatic organisms (diffusion by body surface, contractile vacuole)",
+                "Waste products of metabolism (carbon dioxide, water, ammonia)"
+              ]
+            },
+            {
+              "title": "Growth",
+              "key_points": [
+                "Basis of growth (mitosis, enlargement, differentiation)",
+                "Aspects of growth (increase in dry weight, size, length, number of cells)",
+                "Regions of fastest growth in plants (root tip, shoot tip)",
+                "Influence of growth hormones and auxins",
+                "Growth curvatures (tropisms)",
+                "Development (enlargement, differentiation, primary and secondary growth)"
+              ]
+            },
+            {
+              "title": "Movement",
+              "key_points": [
+                "Organelles for movement (cilia, flagella)",
+                "Cyclosis"
+              ]
+            },
+            {
+              "title": "Reproduction",
+              "types": [
+                "Asexual (fission, budding, vegetative propagation)",
+                "Sexual (conjugation, gametogenesis, fertilization)"
+              ],
+              "key_points": [
+                "Fission in Paramecium",
+                "Budding in yeast, Chlamydomonas",
+                "Conjugation in Paramecium, Spirogyra",
+                "Meiosis"
+              ]
+            }
+          ],
+          "objectives": [
+            "Describe processes occurring within living cells",
+            "Explain the importance of anaerobic respiration in food processing"
+          ]
+        },
+        {
+          "id": "B2",
+          "title": "Tissues and Supporting Systems",
+          "subtopics": [
+            {
+              "title": "Skeleton and Supporting Systems in Animals",
+              "key_points": [
+                "Biological significance",
+                "Skeletal materials (bone, cartilage, chitin)",
+                "Types of skeleton (exoskeleton, endoskeleton, hydrostatic)",
+                "Bones of the vertebral column, girdles, long bones of the appendicular skeleton",
+                "Mechanism of support in animals",
+                "Functions of skeleton in animals (protection, support, locomotion, respiratory movement)"
+              ]
+            },
+            {
+              "title": "Supporting Tissues in Plants",
+              "key_points": [
+                "Main features of supporting tissues (turgid parenchyma, collenchyma, xylem, sclerenchyma)",
+                "Functions (strength, rigidity, flexibility, resilience)",
+                "T.S. of stem and root (epidermis, cortex, stele)"
+              ]
+            }
+          ],
+          "objectives": [
+            "Explain how functions are performed",
+            "Describe the relationship of skeleton and muscles during movement"
+          ]
+        },
+        {
+          "id": "B3",
+          "title": "Transport System",
+          "subtopics": [
+            {
+              "title": "Need for Transport",
+              "key_points": [
+                "Surface area/volume ratio",
+                "Substances have to move greater distances",
+                "Media (cytoplasm, cell sap, latex, body fluid)"
+              ]
+            },
+            {
+              "title": "Transport in Animals",
+              "key_points": [
+                "Structure of the heart, arteries, veins and capillaries",
+                "Composition and function of blood and lymph",
+                "Materials for transport (excretory products, gases, digested food, other nutrients)",
+                "General circulatory system, open systems in invertebrates"
+              ]
+            },
+            {
+              "title": "Transport in Plants",
+              "key_points": [
+                "Uptake and movement of water and mineral salts (eosin experiment)",
+                "Translocation (pressure flow hypothesis, cytoplasmic streaming, ringing experiment)",
+                "Transpiration (types, environmental factors, rate determination)",
+                "Movement of water to the apex (root pressure, transpiration, cohesion-tension, adhesion, water potential gradient)"
+              ]
+            }
+          ],
+          "objectives": [
+            "Describe source of materials and forms transported"
+          ]
+        },
+        {
+          "id": "B4",
+          "title": "Respiratory System",
+          "subtopics": [
+            {
+              "title": "Body Surface: Cutaneous, Gills and Lungs",
+              "key_points": [
+                "Characteristics of respiratory surfaces",
+                "Respiratory organs of insects"
+              ]
+            },
+            {
+              "title": "Mechanisms of Gaseous Exchange",
+              "examples": [
+                "Fish (Tilapia)",
+                "Toad",
+                "Mammals (rat)",
+                "Plants (opening/closing of stomata)"
+              ]
+            }
+          ],
+          "objectives": [
+            "Describe respiratory movements"
+          ]
+        },
+        {
+          "id": "B5",
+          "title": "Excretory Systems and Mechanisms",
+          "subtopics": [
+            {
+              "title": "Types of Excretory Systems",
+              "key_points": [
+                "Kidney, stomata, lenticels",
+                "Excretory organs of small mammal (rat)"
+              ]
+            },
+            {
+              "title": "Regulation of Internal Environment (Homeostasis)",
+              "key_points": [
+                "Kidney (structure, functions, conditions affecting, excretory products: urea, water, salts, uric acid)",
+                "Liver (functions, diseases: hepatitis, cancer, gall stones)",
+                "Skin (structure, function, mammalian skin)"
+              ]
+            }
+          ],
+          "objectives": [
+            "Explain the concept of excretion in plants"
+          ]
+        },
+        {
+          "id": "B6",
+          "title": "Hormonal Coordination",
+          "subtopics": [
+            {
+              "title": "Animal Hormones",
+              "key_points": [
+                "Site of secretion, functions, effects of over and under-secretion (pituitary, thyroid, adrenal, pancreas, gonads)",
+                "Metamorphosis of toad (thyroxine)"
+              ]
+            },
+            {
+              "title": "Plant Hormones",
+              "key_points": [
+                "Auxins (effects on lateral bud development, leaf fall, adventitious roots, crop harvesting, growth, weed control)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "B7",
+          "title": "Nervous Coordination",
+          "subtopics": [
+            {
+              "title": "Central Nervous System",
+              "key_points": [
+                "Components",
+                "Parts of the brain and their functions (cerebrum, cerebellum, medulla oblongata, hypothalamus)",
+                "Structure and function of the spinal cord"
+              ]
+            },
+            {
+              "title": "Peripheral Nervous System",
+              "key_points": [
+                "Somatic Nervous System",
+                "Autonomic Nervous System (sympathetic, parasympathetic functions)",
+                "Structure and functions of the neurone",
+                "Classification of neurones (afferent, efferent, intermediate)"
+              ]
+            },
+            {
+              "title": "Types of Nervous Actions",
+              "key_points": [
+                "Reflex arc",
+                "Reflex and voluntary actions",
+                "Differences",
+                "Conditioned reflex (salivation, driving, walking, swimming)"
+              ]
+            }
+          ],
+          "objectives": [
+            "Locate position of brain and spinal cord in dissected vertebrate",
+            "Identify regions of the brain"
+          ]
+        },
+        {
+          "id": "B8",
+          "title": "Sense Organs",
+          "subtopics": [
+            {
+              "title": "Eye",
+              "key_points": [
+                "Structure and function",
+                "Defects and corrections"
+              ]
+            },
+            {
+              "title": "Ear",
+              "key_points": [
+                "Structure and function"
+              ]
+            },
+            {
+              "title": "Nose",
+              "key_points": [
+                "Perception of smell (sensory cells, olfactory lobes)"
+              ]
+            },
+            {
+              "title": "Tongue",
+              "key_points": [
+                "Areas associated with tastes, taste buds, association with smell"
+              ]
+            },
+            {
+              "title": "Skin",
+              "key_points": [
+                "Function as sensory organ"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "B9",
+          "title": "Reproduction",
+          "subtopics": [
+            {
+              "title": "Reproductive System of Mammals",
+              "key_points": [
+                "Structure and function of male and female reproductive systems",
+                "Differences between male and female reproductive organs",
+                "Structure of the gametes (sperm and ovum)",
+                "Fertilization, development of the embryo and birth",
+                "Birth control",
+                "Secondary sexual characteristics, prenatal/antenatal care"
+              ]
+            },
+            {
+              "title": "Metamorphosis in Insects",
+              "key_points": [
+                "Life histories of butterfly, cockroach, housefly",
+                "Complete and incomplete metamorphosis"
+              ]
+            },
+            {
+              "title": "Comparison of Reproduction in Fish, Amphibian, Reptile, Bird and Mammal",
+              "key_points": [
+                "Method of fertilization, number of eggs, parental care"
+              ]
+            },
+            {
+              "title": "Reproduction in Flowering Plants",
+              "key_points": [
+                "Arrangements of floral parts of a named insect-pollinated flower and a named wind-pollinated flower",
+                "Structure and function of the male and female parts of a flower",
+                "Pollination in Plants (types, features of cross-pollinated and self-pollinated flowers, agents of pollination, kinds of placentation)",
+                "Process of development of zygote (fertilization)",
+                "Types of fruits (classification), structure of fruits",
+                "Dispersal of fruits and seeds (agents)",
+                "Floral formula"
+              ]
+            },
+            {
+              "title": "Courtship Behaviour in Animals",
+              "key_points": [
+                "Pairing",
+                "Display (e.g. peacocks)",
+                "Territoriality",
+                "Seasonal migration associated with breeding (herrings, eels, birds)"
+              ]
+            },
+            {
+              "title": "Adaptive Features in a Developing Animal",
+              "key_points": [
+                "Yolk in egg of fish, toad and birds for nourishment",
+                "Placenta in animals"
+              ]
+            },
+            {
+              "title": "Germination of Seeds",
+              "key_points": [
+                "Essential factors which affect developing embryo",
+                "Types of germination"
+              ]
+            }
+          ],
+          "objectives": [
+            "Explain different methods of birth control",
+            "Relate features of flower to agents of pollination",
+            "Observe pollen grains germinated in sucrose solution"
+          ]
+        },
+        {
+          "id": "B10",
+          "title": "Nutrition",
+          "subtopics": [
+            {
+              "title": "Plant Nutrition",
+              "key_points": [
+                "Photosynthesis (process, equation, light/dark reactions, materials/conditions, evidence)",
+                "Mineral nutrition (macro and micro-nutrients, sources)"
+              ]
+            },
+            {
+              "title": "Animal Nutrition",
+              "key_points": [
+                "Food substances; classes and sources",
+                "Balanced diet and its importance",
+                "Food tests",
+                "Digestive enzymes (classes, characteristics and functions)",
+                "Modes of Nutrition (autotrophic, heterotrophic: holozoic, parasitic, symbiotic, saprophytic, chemosynthetic, carnivorous plants)",
+                "Alimentary System (tracts of different animals, description and function of parts)",
+                "Dental Formula",
+                "Feeding in protozoa and mammals",
+                "Feeding habits (carnivorous, herbivorous, omnivorous, modifications and mechanisms)"
+              ]
+            },
+            {
+              "title": "Nitrogen Cycle",
+              "key_points": [
+                "Roles of bacteria, root nodules in leguminous plants"
+              ]
+            }
+          ],
+          "objectives": [
+            "Relate the idea of balanced diet to diet",
+            "Explain malnutrition effects"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Ecology",
+      "description": "Study of organisms and their interactions with the environment.",
+      "topics": [
+        {
+          "id": "C1",
+          "title": "Ecosystem",
+          "subtopics": [
+            {
+              "title": "Components of the Ecosystem",
+              "key_points": [
+                "Environment, biosphere, habitat, population, biotic community, ecosystem",
+                "Biotic and abiotic"
+              ]
+            },
+            {
+              "title": "Ecological Factors",
+              "key_points": [
+                "Aquatic and terrestrial ecosystems"
+              ]
+            },
+            {
+              "title": "Simple Measurement of Ecological Factors",
+              "key_points": [
+                "Physical factors (climatic, topographic, gaseous)",
+                "Edaphic factors (chemical/physical composition, moisture, texture)",
+                "Humidity, temperature, wind speed, rainfall, light intensity"
+              ]
+            },
+            {
+              "title": "Lithosphere, Hydrosphere, Atmosphere, Niche"
+            }
+          ],
+          "objectives": [
+            "Explain importance of ecological factors to population"
+          ]
+        },
+        {
+          "id": "C2",
+          "title": "Food Webs and Trophic Levels",
+          "subtopics": [
+            {
+              "title": "Autotrophs and Heterotrophs",
+              "key_points": [
+                "Producers (autotrophs)",
+                "Consumers (heterotrophs)",
+                "Decomposers"
+              ]
+            },
+            {
+              "title": "Food Chain and Food Web",
+              "key_points": [
+                "Food/Energy relationship in aquatic and terrestrial environment"
+              ]
+            },
+            {
+              "title": "Energy Flow",
+              "key_points": [
+                "Non-cyclic nature",
+                "Pyramid of energy and numbers",
+                "Energy loss in biosphere",
+                "Solar radiation (intake and loss at earth's surface)",
+                "Laws of thermodynamics"
+              ]
+            },
+            {
+              "title": "Decomposition in Nature",
+              "key_points": [
+                "Micro and macro-decomposers",
+                "Gaseous products",
+                "Role of decomposers"
+              ]
+            }
+          ],
+          "objectives": [
+            "Classify organisms as producers, consumers, decomposers",
+            "Explain pyramid differences"
+          ]
+        },
+        {
+          "id": "C3",
+          "title": "Ecological Management",
+          "subtopics": [
+            {
+              "title": "Biological Associations",
+              "types": [
+                "Parasitism",
+                "Symbiosis",
+                "Commensalism",
+                "Saprophytism"
+              ]
+            },
+            {
+              "title": "Adaptation of Organisms to Habitats"
+            },
+            {
+              "title": "Pollution of the Atmosphere",
+              "key_points": [
+                "Nature, names, sources and effects of air pollutants",
+                "Effect of noise"
+              ]
+            },
+            {
+              "title": "Water and Soil Pollution",
+              "key_points": [
+                "Type and effects of pollutants"
+              ]
+            },
+            {
+              "title": "Tolerance",
+              "key_points": [
+                "Minimum and maximum range"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C4",
+          "title": "Ecology of Population",
+          "subtopics": [
+            {
+              "title": "Ecological Succession",
+              "key_points": [
+                "Structural changes in species composition, variety or diversity and increase in numbers",
+                "General characteristics and outcomes of succession",
+                "Primary succession",
+                "Succession in terrestrial and aquatic habitats",
+                "Secondary succession, climax of the succession: characteristic of a stable ecosystem"
+              ]
+            },
+            {
+              "title": "Factors that Affect Population Size",
+              "key_points": [
+                "Natality, mortality, emigration, immigration, food shortage, predation, competition and diseases"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C5",
+          "title": "Population Studies by Sampling",
+          "key_points": [
+            "Population size",
+            "Dominance",
+            "Density"
+          ]
+        },
+        {
+          "id": "C6",
+          "title": "Nutrient Cycling in Nature",
+          "subtopics": [
+            {
+              "title": "Carbon Cycle",
+              "key_points": [
+                "Process of carbon cycle",
+                "Importance of carbon in nature"
+              ]
+            },
+            {
+              "title": "Water Cycle",
+              "key_points": [
+                "Importance of water cycle",
+                "Importance of water to living organisms"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C7",
+          "title": "Preservation and Storage of Foods"
+        },
+        {
+          "id": "C8",
+          "title": "The Life of Selected Insects",
+          "key_points": [
+            "Weevils and cotton stainers",
+            "Control of pests"
+          ]
+        },
+        {
+          "id": "C9",
+          "title": "Microorganisms: Man and Health",
+          "subtopics": [
+            {
+              "title": "Carriers of Microorganisms"
+            },
+            {
+              "title": "Microorganisms in Action",
+              "key_points": [
+                "Beneficial effects in nature, medicine and industries",
+                "Harmful effects, diseases (cholera, measles, malaria, ring worm)"
+              ]
+            },
+            {
+              "title": "Towards Better Health",
+              "key_points": [
+                "Methods of controlling harmful microorganisms",
+                "Ways of controlling the vectors"
+              ]
+            },
+            {
+              "title": "Public Health",
+              "key_points": [
+                "Refuse and sewage disposal",
+                "Immunization, vaccination and inoculation"
+              ]
+            },
+            {
+              "title": "Microorganisms Around Us",
+              "key_points": [
+                "Microorganisms in air and water",
+                "Groups of microorganisms (bacteria, viruses, algae, protozoa, fungi)"
+              ]
+            },
+            {
+              "title": "Microorganisms in Our Bodies and Food"
+            },
+            {
+              "title": "Food Hygiene and Health Organization"
+            }
+          ]
+        },
+        {
+          "id": "C10",
+          "title": "Conservation of Natural Resources",
+          "key_points": [
+            "Resources to be conserved (soil, water, wildlife, forest and minerals)",
+            "Ways of ensuring conservation"
+          ]
+        },
+        {
+          "id": "C11",
+          "title": "Relevance of Biology to Agriculture",
+          "subtopics": [
+            {
+              "title": "Classification of Plants Based on Life Cycle"
+            },
+            {
+              "title": "Effects of Agricultural Practices on Ecology",
+              "key_points": [
+                "Bush burning",
+                "Tillage",
+                "Fertilizer",
+                "Herbicide/pesticide",
+                "Different farming methods"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C12",
+          "title": "Habitats",
+          "subtopics": [
+            {
+              "title": "Aquatic Habitat",
+              "key_points": [
+                "Marine, estuarine, fresh water",
+                "Characteristics of habitat",
+                "Distribution of plants and animals in the habitat",
+                "Adaptive features of plants and animals in the habitat"
+              ]
+            },
+            {
+              "title": "Terrestrial Habitat",
+              "key_points": [
+                "Marsh, forest, grass land, arid land",
+                "Characteristics of habitat",
+                "Distribution of plants and animals in habitat"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C13",
+          "title": "Balance in Nature",
+          "key_points": [
+            "Dynamic equilibrium population and population density"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "title": "Heredity and Variation",
+      "description": "Study of variation, genetics and inheritance in organisms.",
+      "topics": [
+        {
+          "id": "D1",
+          "title": "Variation",
+          "types": [
+            "Continuous variation",
+            "Discontinuous variation"
+          ],
+          "subtopics": [
+            {
+              "title": "Morphological Variations",
+              "key_points": [
+                "Size, height and weight",
+                "Colour (skin, eye, hair coat of animals)",
+                "Finger prints"
+              ]
+            },
+            {
+              "title": "Physiological Variations",
+              "key_points": [
+                "Ability to roll tongue",
+                "Ability to taste phenylthiocarbamide (PTC)",
+                "Blood groups (ABO) classification"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "title": "Genetics",
+          "key_points": [
+            "Genetic terminologies",
+            "Transmission and expression of characteristics in organisms",
+            "Hereditary variation",
+            "Mendel's work in genetics (experiments, Mendelian traits, Mendelian laws)",
+            "Chromosomes (structure, process of transmission)",
+            "Probability in genetics (hybrid formation)",
+            "Linkage, sex determination and sex linked characters"
+          ]
+        },
+        {
+          "id": "D3",
+          "title": "Application of the Principles of Heredity",
+          "subtopics": [
+            {
+              "title": "Agriculture"
+            },
+            {
+              "title": "Medicine"
+            },
+            {
+              "title": "Crime Detection"
+            },
+            {
+              "title": "Blood Transfusion"
+            },
+            {
+              "title": "Determination of Paternity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "title": "Evolution",
+      "description": "Theories, evidence and processes of evolution.",
+      "topics": [
+        {
+          "id": "E1",
+          "title": "Adaptation for Survival",
+          "subtopics": [
+            {
+              "title": "Behavioural Adaptations in Social Animals",
+              "examples": [
+                "Termites",
+                "Bees"
+              ]
+            },
+            {
+              "title": "Factors that Bring About Competition"
+            },
+            {
+              "title": "Intra and Inter-species Competition"
+            },
+            {
+              "title": "Relationship Between Competition and Succession"
+            },
+            {
+              "title": "Structural Adaptation For",
+              "key_points": [
+                "Obtaining food",
+                "Protection and defense",
+                "Securing mates for reproduction",
+                "Regulating body temperature",
+                "Conserving water"
+              ]
+            },
+            {
+              "title": "Adaptive Colouration",
+              "key_points": [
+                "Plants and animals",
+                "Colouration and their functions"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E2",
+          "title": "Theories of Evolution",
+          "theories": [
+            "Lamarck",
+            "Darwin",
+            "Modern evolutionary theory"
+          ]
+        },
+        {
+          "id": "E3",
+          "title": "Evidence of Evolution",
+          "evidence": [
+            "Fossil records",
+            "Comparative biochemistry",
+            "Geographical distribution",
+            "Comparative anatomy and physiology",
+            "Adaptive radiation",
+            "Comparative embryology",
+            "Systematics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "title": "Country-Specific Topics",
+      "description": "Additional topics specific to certain countries.",
+      "topics": [
+        {
+          "id": "F1",
+          "title": "Section B - Ghana Only",
+          "subtopics": [
+            {
+              "title": "Introducing Biology",
+              "key_points": [
+                "Biology as a science of life",
+                "Procedure for biological work",
+                "Importance of Biology",
+                "Body symmetry, sectioning and orientation",
+                "The microscope",
+                "Biological drawings"
+              ]
+            },
+            {
+              "title": "Cell Biology",
+              "key_points": [
+                "Movement of substances into and out of cells (endocytosis, exocytosis)",
+                "Nucleic acids",
+                "DNA structure and replication, RNA transcription",
+                "Protein synthesis",
+                "Cell cycle"
+              ]
+            },
+            {
+              "title": "Life Processes in Living Things",
+              "key_points": [
+                "Amoeba, Paramecium, and Euglena",
+                "Spirogyra and Rhizopus",
+                "Mosses and ferns"
+              ]
+            },
+            {
+              "title": "Diversity of Living Things",
+              "key_points": [
+                "Characteristics of some of the orders of Class Insecta",
+                "Identification of organisms using biological keys"
+              ]
+            },
+            {
+              "title": "Interactions in Nature",
+              "key_points": [
+                "Soil"
+              ]
+            },
+            {
+              "title": "Mammalian Anatomy and Physiology",
+              "key_points": [
+                "Dissection of a small mammal",
+                "Transport (structure of the mammalian heart)",
+                "Cellular respiration",
+                "Movement (muscles, skeletal tissues)",
+                "Reproduction (secondary sexual characteristics, prenatal/antenatal care)"
+              ]
+            },
+            {
+              "title": "Plant Structure and Physiology",
+              "key_points": [
+                "Morphology of monocotyledonous and dicotyledonous plants",
+                "Transport (guttation)",
+                "Reproduction (floral formula)"
+              ]
+            },
+            {
+              "title": "Humans and their Environment",
+              "key_points": [
+                "Integrated water resources management",
+                "Health and hygiene (drug abuse, community health, first aid)"
+              ]
+            },
+            {
+              "title": "Evolution",
+              "key_points": [
+                "Recombinant DNA Technology"
+              ]
+            },
+            {
+              "title": "Biology and Industry",
+              "key_points": [
+                "Biology and water industry (contamination of water, identification of polluted water, waste water treatment)",
+                "Biology and fishing industry (fish stock management, fish farming)",
+                "Biology and food industry (food additives)",
+                "Biology and agriculture",
+                "Biotechnology",
+                "Biological fuel generation"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "F2",
+          "title": "Section C - Nigeria, Sierra Leone, The Gambia and Liberia",
+          "subtopics": [
+            {
+              "title": "Concept of Living",
+              "key_points": [
+                "Cell theory",
+                "Irritability as a basic characteristic of protoplasm (types of responses: taxis and nastism, environmental factors)"
+              ]
+            },
+            {
+              "title": "Excretory Systems",
+              "key_points": [
+                "Diseases of the kidney (nephritis, kidney stone, diuresis)",
+                "Diseases of the liver (infective hepatitis, cancer, gall stones)"
+              ]
+            },
+            {
+              "title": "Sense Organs",
+              "key_points": [
+                "Nose",
+                "Tongue",
+                "The skin"
+              ]
+            },
+            {
+              "title": "Reproduction",
+              "key_points": [
+                "Courtship behaviour in animals",
+                "Metamorphosis and life history of housefly",
+                "Adaptive features in a developing animal (yolk, placenta)",
+                "Germination of seeds (essential factors, types)"
+              ]
+            },
+            {
+              "title": "Plant and Animal Nutrition",
+              "key_points": [
+                "Nitrogen cycle",
+                "Modes of nutrition (autotrophic, chemosynthetic, carnivorous plants)"
+              ]
+            },
+            {
+              "title": "Basic Ecological Concepts",
+              "key_points": [
+                "Ecological components (lithosphere, hydrosphere, atmosphere, niche)",
+                "Population studies by sampling (population size, dominance, density)",
+                "Energy transformation in nature (energy loss, solar radiation)"
+              ]
+            },
+            {
+              "title": "Nutrient Cycling in Nature (carbon cycle, water cycle)"
+            },
+            {
+              "title": "Ecological Management (tolerance, minimum and maximum range)"
+            },
+            {
+              "title": "Habitats (aquatic, terrestrial)"
+            },
+            {
+              "title": "Balance in Nature"
+            },
+            {
+              "title": "Relevance of Biology to Agriculture"
+            },
+            {
+              "title": "Microorganisms: Man and His Health (microorganisms around us, in bodies and food, public health)"
+            },
+            {
+              "title": "Application of Variations (crime detection, blood transfusion, determination of paternity)"
+            },
+            {
+              "title": "Evolution (adaptation for survival, structural adaptation, adaptive colouration)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

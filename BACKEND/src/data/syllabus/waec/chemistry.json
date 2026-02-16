@@ -1,0 +1,1873 @@
+{
+  "subject": "Chemistry",
+  "exam": ["WAEC"],
+  "sections": [
+    {
+      "id": "A",
+      "title": "Introduction and Basics",
+      "description": "Fundamental concepts, measurements, and scientific methods in chemistry.",
+      "topics": [
+        {
+          "id": "A1",
+          "title": "Introduction to Chemistry",
+          "subtopics": [
+            {
+              "title": "Measurement of Physical Quantities",
+              "key_points": [
+                "Measurement of mass, length, time, temperature and volume",
+                "Appropriate SI units and significant figures",
+                "Precision and accuracy in measurement"
+              ],
+              "objectives": [
+                "Measure physical quantities accurately using SI units",
+                "Understand precision and accuracy in scientific measurements"
+              ]
+            },
+            {
+              "title": "Scientific Methods",
+              "key_points": [
+                "Observation, hypothesis, experimentation, formulation of laws and theories"
+              ],
+              "objectives": [
+                "Outline and apply the scientific method in problem-solving"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Atomic Structure and Periodic Chemistry",
+      "description": "Structure of atoms, periodic table, and properties of elements.",
+      "topics": [
+        {
+          "id": "B1",
+          "title": "Structure of the Atom",
+          "subtopics": [
+            {
+              "title": "Gross Features of the Atom",
+              "key_points": [
+                "Dalton's atomic theory and limitations",
+                "J.J. Thompson's experiment and Bohr's model",
+                "Rutherford's alpha scattering experiment"
+              ],
+              "objectives": [
+                "Describe historical models of the atom",
+                "Explain evidence for atomic structure"
+              ]
+            },
+            {
+              "title": "Atomic Number, Mass Number, Isotopes",
+              "key_points": [
+                "Atomic number/proton number, number of neutrons, isotopes, atomic mass, mass number",
+                "Meaning and representation in symbols of atoms and sub-atomic particles",
+                "Relative atomic mass (Ar) and relative molecular mass (Mr) based on Carbon-12 scale",
+                "Atomic mass as weighted average of isotopes (e.g., chlorine)",
+                "Definition of atomic mass unit"
+              ],
+              "objectives": [
+                "Calculate relative atomic masses",
+                "Represent atoms using symbols"
+              ]
+            },
+            {
+              "title": "Characteristics and Nature of Matter",
+              "key_points": [
+                "Atoms, molecules and ions",
+                "Particles as building blocks of matter"
+              ],
+              "objectives": [
+                "Differentiate between atoms, molecules, and ions"
+              ]
+            },
+            {
+              "title": "Particulate Nature of Matter",
+              "key_points": [
+                "Physical changes: melting of solids, magnetization of iron, dissolution of salt",
+                "Chemical changes: burning of wood, rusting of iron, decay of leaves"
+              ],
+              "objectives": [
+                "Distinguish between physical and chemical changes with examples"
+              ]
+            },
+            {
+              "title": "Electron Configuration",
+              "key_points": [
+                "Detailed electron configurations (s, p, d) for first thirty elements",
+                "Orbitals: origin of s, p, d as sub-energy levels; shapes of s and p",
+                "Rules: Aufbau Principle, Hund's Rule, Pauli Exclusion Principle",
+                "Abbreviated and detailed configurations in s, p, d"
+              ],
+              "objectives": [
+                "Write electron configurations for elements",
+                "Apply rules for filling electrons in orbitals"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "B2",
+          "title": "Standard Separation Techniques for Mixtures",
+          "subtopics": [
+            {
+              "title": "Classification of Mixtures",
+              "key_points": [
+                "Solid-solid, solid-liquid, liquid-liquid, gas-gas with examples"
+              ],
+              "objectives": [
+                "Classify mixtures based on components"
+              ]
+            },
+            {
+              "title": "Separation Techniques",
+              "key_points": [
+                "Crystallization, distillation, precipitation, magnetization, chromatography, sublimation"
+              ],
+              "objectives": [
+                "Describe various separation methods"
+              ]
+            },
+            {
+              "title": "Criteria for Purity",
+              "key_points": [
+                "Boiling point for liquids, melting point for solids"
+              ],
+              "objectives": [
+                "Determine purity using boiling and melting points"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "B3",
+          "title": "Periodic Chemistry",
+          "subtopics": [
+            {
+              "title": "Periodicity of the Elements",
+              "key_points": [
+                "Electron configurations leading to group and period classifications"
+              ],
+              "objectives": [
+                "Explain periodicity based on electron configurations"
+              ]
+            },
+            {
+              "title": "Different Categories of Elements",
+              "key_points": [
+                "Metals, semi-metals, non-metals, halogens",
+                "Alkali metals, alkaline earth metals, transition metals"
+              ],
+              "objectives": [
+                "Classify elements in the periodic table"
+              ]
+            },
+            {
+              "title": "Periodic Law",
+              "key_points": [
+                "Explanation of the periodic law",
+                "Trends: atomic size, ionic size, ionization energy, electron affinity, electronegativity",
+                "Discrepancies for Be, B, O, N"
+              ],
+              "objectives": [
+                "Describe trends in periodic properties"
+              ]
+            },
+            {
+              "title": "Periodic Gradation in Third Period (Na - Ar)",
+              "key_points": [
+                "Progression from metallic to non-metallic character",
+                "Ionic to covalent bonding in compounds"
+              ],
+              "objectives": [
+                "Explain gradation in properties across the period"
+              ]
+            },
+            {
+              "title": "Reactions Between Acids and Metals, Oxides, Trioxocarbonates (IV)",
+              "key_points": [
+                "Period three metals (Na, Mg, Al)",
+                "Period four metals (K, Ca)",
+                "Chemical equations",
+                "pH of solutions of metallic oxides and trioxocarbonates"
+              ],
+              "objectives": [
+                "Write balanced equations for reactions",
+                "Determine pH of solutions"
+              ]
+            },
+            {
+              "title": "Periodic Gradation of Elements in Group Seven (Halogens: F, Cl, Br, I)",
+              "key_points": [
+                "Recognition of group variations and anomalies",
+                "Physical states, melting and boiling points",
+                "Variable oxidation states",
+                "Redox properties, displacement reactions",
+                "Reaction with water and alkali (balanced equations)"
+              ],
+              "objectives": [
+                "Describe properties and reactions of halogens"
+              ]
+            },
+            {
+              "title": "Elements of the First Transition Series (21Sc – 30Zn)",
+              "key_points": [
+                "Electron configurations, physical properties, chemical reactivity",
+                "Physical: states, metallic, magnetic",
+                "Reactivity with air, water, acids; comparison with s-block (Li, Na, Be, Mg)",
+                "Other properties: variable oxidation states, coloured compounds, complex formation, catalytic abilities, paramagnetism, hardness"
+              ],
+              "objectives": [
+                "Compare transition metals with s-block elements",
+                "Explain properties due to d-electrons"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Chemical Bonding and Stoichiometry",
+      "description": "Types of bonds, stoichiometry, and chemical reactions.",
+      "topics": [
+        {
+          "id": "C1",
+          "title": "Chemical Bonds",
+          "subtopics": [
+            {
+              "title": "Interatomic Bonding",
+              "key_points": [
+                "Meaning of chemical bonding",
+                "Lewis dot structure for simple ionic and covalent compounds"
+              ],
+              "objectives": [
+                "Draw Lewis structures for compounds"
+              ]
+            },
+            {
+              "title": "Formation of Ionic Bonds and Compounds",
+              "key_points": [
+                "Formation of stable compounds from ions",
+                "Factors: ionization energy, electron affinity, electronegativity difference"
+              ],
+              "objectives": [
+                "Explain factors influencing ionic bond formation"
+              ]
+            },
+            {
+              "title": "Properties of Ionic Compounds",
+              "key_points": [
+                "Solubility in polar/non-polar solvents, electrical conductivity, hardness, melting point"
+              ],
+              "objectives": [
+                "Describe properties of ionic compounds"
+              ]
+            },
+            {
+              "title": "Naming of Ionic Compounds",
+              "key_points": [
+                "IUPAC system for simple ionic compounds"
+              ],
+              "objectives": [
+                "Name ionic compounds using IUPAC"
+              ]
+            },
+            {
+              "title": "Formation of Covalent Bonds and Compounds",
+              "key_points": [
+                "Factors: electron affinity, ionization energy, atomic size, electronegativity"
+              ],
+              "objectives": [
+                "Explain factors for covalent bond formation"
+              ]
+            },
+            {
+              "title": "Properties of Covalent Compounds",
+              "key_points": [
+                "Solubility in polar/non-polar solvents, melting point, boiling point, electrical conductivity"
+              ],
+              "objectives": [
+                "Describe properties of covalent compounds"
+              ]
+            },
+            {
+              "title": "Coordinate (Dative) Covalent Bonding",
+              "key_points": [
+                "Formation and difference from pure covalent bonds"
+              ],
+              "objectives": [
+                "Distinguish coordinate from covalent bonding"
+              ]
+            },
+            {
+              "title": "Shapes of Molecular Compounds",
+              "key_points": [
+                "Linear, planar, tetrahedral e.g. BeCl2, BF3, CH4, NH3, CO2"
+              ],
+              "objectives": [
+                "Determine shapes of molecules"
+              ]
+            },
+            {
+              "title": "Metallic Bonding",
+              "key_points": [
+                "Factors: atomic radius, ionization energy, valence electrons"
+              ],
+              "objectives": [
+                "Explain metallic bond formation"
+              ]
+            },
+            {
+              "title": "Properties of Metals",
+              "key_points": [
+                "Heat and electrical conductivity, malleability, lustre, ductility, sonority, hardness"
+              ],
+              "objectives": [
+                "Relate properties to metallic bonding"
+              ]
+            },
+            {
+              "title": "Intermolecular Bonding",
+              "key_points": [
+                "Relative physical properties of polar and non-polar compounds"
+              ],
+              "objectives": [
+                "Compare polar and non-polar compounds"
+              ]
+            },
+            {
+              "title": "Intermolecular Forces in Covalent Compounds",
+              "key_points": [
+                "Dipole-dipole, induced dipole-dipole, induced dipole-induced dipole (van der Waals forces)"
+              ],
+              "objectives": [
+                "Explain types of intermolecular forces"
+              ]
+            },
+            {
+              "title": "Hydrogen Bonding",
+              "key_points": [
+                "Variation in boiling points of H2O and H2S"
+              ],
+              "objectives": [
+                "Explain hydrogen bonding effects"
+              ]
+            },
+            {
+              "title": "van der Waals Forces",
+              "key_points": [
+                "Variation in melting/boiling points of noble gases, halogens, alkanes"
+              ],
+              "objectives": [
+                "Explain van der Waals forces in series"
+              ]
+            },
+            {
+              "title": "Comparison of All Bond Types",
+              "key_points": [],
+              "objectives": [
+                "Compare ionic, covalent, metallic, intermolecular bonds"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "C2",
+          "title": "Stoichiometry and Chemical Reactions",
+          "subtopics": [
+            {
+              "title": "Symbols, Formulae and Equations",
+              "key_points": [
+                "Symbols of first 30 elements and common elements"
+              ],
+              "objectives": [
+                "Use chemical symbols correctly"
+              ]
+            },
+            {
+              "title": "Chemical Symbols",
+              "key_points": [],
+              "objectives": [
+                "Recall chemical symbols"
+              ]
+            },
+            {
+              "title": "Empirical and Molecular Formulae",
+              "key_points": [
+                "Calculations involving formulae, mass/volume relationships, stoichiometry, % composition"
+              ],
+              "objectives": [
+                "Determine empirical/molecular formulae",
+                "Perform stoichiometric calculations"
+              ]
+            },
+            {
+              "title": "Chemical Equations and IUPAC Names",
+              "key_points": [
+                "Combustion (hydrocarbons), synthesis, displacement, decomposition, ionic reactions"
+              ],
+              "objectives": [
+                "Write and balance chemical equations",
+                "Name compounds using IUPAC"
+              ]
+            },
+            {
+              "title": "Laws of Chemical Combination",
+              "key_points": [
+                "Conservation of mass, constant composition, multiple proportions",
+                "Explanation and balancing equations",
+                "Experimental illustration of conservation of mass"
+              ],
+              "objectives": [
+                "Apply laws to balance equations"
+              ]
+            },
+            {
+              "title": "Amount of Substance",
+              "key_points": [
+                "Mass/volume measurements",
+                "Mole as unit, Avogadro's constant",
+                "Molar quantities and uses",
+                "Moles of electrons, atoms, molecules, formula units"
+              ],
+              "objectives": [
+                "Use mole concept in calculations"
+              ]
+            },
+            {
+              "title": "Mole Ratios",
+              "key_points": [
+                "Determining stoichiometry, number of entities, mass, concentration, volume, % yield"
+              ],
+              "objectives": [
+                "Calculate using mole ratios"
+              ]
+            },
+            {
+              "title": "Solutions",
+              "key_points": [
+                "Concept of solution, solvent, solute",
+                "Dilute vs concentrated",
+                "Basic, acidic, neutral solutions"
+              ],
+              "objectives": [
+                "Prepare and classify solutions"
+              ]
+            },
+            {
+              "title": "Concentration Terms",
+              "key_points": [
+                "Mass (g dm-3), molar (mol dm-3) concentration"
+              ],
+              "objectives": [
+                "Express concentration in different units"
+              ]
+            },
+            {
+              "title": "Standard Solutions",
+              "key_points": [
+                "Preparation of primary standards e.g. Na2CO3, (COOH)2.2H2O",
+                "Primary, secondary standard, standard solution"
+              ],
+              "objectives": [
+                "Prepare standard solutions"
+              ]
+            },
+            {
+              "title": "Preparation of Solutions from Liquid Solutes by Dilution",
+              "key_points": [
+                "Dilution factor"
+              ],
+              "objectives": [
+                "Calculate dilution factors"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "title": "States of Matter and Energy Changes",
+      "description": "Kinetic theory, gas laws, energy in chemical processes.",
+      "topics": [
+        {
+          "id": "D1",
+          "title": "States of Matter",
+          "subtopics": [
+            {
+              "title": "Kinetic Theory of Matter",
+              "key_points": [
+                "Postulates of kinetic theory",
+                "Use to explain melting, boiling, evaporation, dissolution, Brownian motion, diffusion"
+              ],
+              "objectives": [
+                "Apply kinetic theory to state changes"
+              ]
+            },
+            {
+              "title": "Changes of State of Matter",
+              "key_points": [
+                "Explanation in terms of particle movement",
+                "Randomness decreases from gas to liquid to solid",
+                "Illustrations with water, iodine, sulphur, naphthalene",
+                "Brownian motion experiments: pollen in water, smoke, dusty room"
+              ],
+              "objectives": [
+                "Demonstrate state changes and Brownian motion"
+              ]
+            },
+            {
+              "title": "Diffusion",
+              "key_points": [
+                "Demonstration of gas diffusion",
+                "Relationship between speed and mass of particles",
+                "Demonstration of solute diffusion in liquids"
+              ],
+              "objectives": [
+                "Explain diffusion using kinetic theory"
+              ]
+            },
+            {
+              "title": "Gases",
+              "key_points": [
+                "Characteristics: arrangement, density, shape, compressibility",
+                "Gas laws: Charles, Boyle, Dalton partial pressure, Graham diffusion, Avogadro",
+                "Ideal gas equation PV=nRT",
+                "Qualitative explanation using kinetic model",
+                "Mathematical relations, ideal vs real gases, deviation factors",
+                "Preparation of H2, NH3, CO2; purification, collection",
+                "Physical and chemical properties of gases"
+              ],
+              "objectives": [
+                "Apply gas laws in calculations",
+                "Prepare and test gases"
+              ]
+            },
+            {
+              "title": "Liquids",
+              "key_points": [
+                "Characteristics: arrangement, shape, volume, compressibility, density, viscosity"
+              ],
+              "objectives": [
+                "Describe liquid properties"
+              ]
+            },
+            {
+              "title": "Vapour and Gases",
+              "key_points": [
+                "Vapour, vapour pressure, saturated vapour pressure, boiling, evaporation",
+                "Distinction from gas",
+                "Effect of vapour pressure on boiling points",
+                "Boiling at reduced pressure"
+              ],
+              "objectives": [
+                "Explain vapour pressure and boiling"
+              ]
+            },
+            {
+              "title": "Solids",
+              "key_points": [
+                "Ionic, metallic, covalent network, molecular solids with examples",
+                "Arrangement of particles in solids"
+              ],
+              "objectives": [
+                "Classify solids by bonding"
+              ]
+            },
+            {
+              "title": "Types and Structures",
+              "key_points": [
+                "Relate properties to interatomic/intermolecular bonding",
+                "Types of bonds in graphite, differences in properties"
+              ],
+              "objectives": [
+                "Explain solid properties based on bonding"
+              ]
+            },
+            {
+              "title": "Properties of Solids",
+              "key_points": [],
+              "objectives": [
+                "Describe general properties of solids"
+              ]
+            },
+            {
+              "title": "Structures, Properties and Uses of Diamond and Graphite",
+              "key_points": [
+                "Uses related to structure",
+                "Use of iodine in everyday life"
+              ],
+              "objectives": [
+                "Compare diamond and graphite"
+              ]
+            },
+            {
+              "title": "Determination of Melting Points of Covalent Solids",
+              "key_points": [
+                "Melting points as purity indicator e.g. benzoic acid, oxalic acid, ethanamide"
+              ],
+              "objectives": [
+                "Use melting points to assess purity"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "title": "Energy and Energy Changes",
+          "subtopics": [
+            {
+              "title": "Energy and Enthalpy",
+              "key_points": [
+                "Explanation of energy and enthalpy",
+                "Energy changes in chemical processes"
+              ],
+              "objectives": [
+                "Define energy and enthalpy terms"
+              ]
+            },
+            {
+              "title": "Description, Definition and Illustrations of Energy Changes and Effects",
+              "key_points": [
+                "Exothermic and endothermic processes",
+                "Total energy as sum of forms (kinetic, potential, etc.)",
+                "Enthalpy changes in combustion, dissolution, neutralization"
+              ],
+              "objectives": [
+                "Classify processes as exo/endothermic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "title": "Acids, Bases, Salts and Solubility",
+      "description": "Properties, reactions, and solubility of substances.",
+      "topics": [
+        {
+          "id": "E1",
+          "title": "Acids, Bases and Salts",
+          "subtopics": [
+            {
+              "title": "Definitions of Acids and Bases",
+              "key_points": [
+                "Arrhenius: H3O+ and OH- ions in water",
+                "Effects on indicators, metals (Zn, Fe), carbonates, bicarbonates"
+              ],
+              "objectives": [
+                "Define acids and bases using Arrhenius concept"
+              ]
+            },
+            {
+              "title": "Physical and Chemical Properties of Acids and Bases",
+              "key_points": [
+                "Conductivity, taste, litmus/indicators, feel",
+                "Balanced equations for reactions"
+              ],
+              "objectives": [
+                "Describe properties in aqueous solutions"
+              ]
+            },
+            {
+              "title": "Acids, Bases and Salts as Electrolytes",
+              "key_points": [
+                "Electrolytes/non-electrolytes, strong/weak electrolytes",
+                "Evidence from conductivity, enthalpy of neutralization"
+              ],
+              "objectives": [
+                "Classify as electrolytes"
+              ]
+            },
+            {
+              "title": "Classification of Acids and Bases",
+              "key_points": [
+                "Strength of acids/bases, strong/weak classification",
+                "Extent of dissociation, conductivity",
+                "Weak acids/bases as equilibrium systems"
+              ],
+              "objectives": [
+                "Classify into strong/weak"
+              ]
+            },
+            {
+              "title": "Concept of pH",
+              "key_points": [
+                "Definition, pH scale",
+                "Measurement using pH meter, colorimetry, universal indicator",
+                "Significance in everyday life (acid rain, soil, blood, urine)"
+              ],
+              "objectives": [
+                "Measure and interpret pH values"
+              ]
+            },
+            {
+              "title": "Salts",
+              "key_points": [
+                "Meaning of salts",
+                "Types: normal, acidic, basic, double, complex"
+              ],
+              "objectives": [
+                "Define and classify salts"
+              ]
+            },
+            {
+              "title": "Laboratory and Industrial Preparation of Salts",
+              "key_points": [
+                "Description of production",
+                "Mining impure NaCl, conversion to granulated salt",
+                "Preparation of NaOH, Cl2, H2"
+              ],
+              "objectives": [
+                "Describe preparation methods"
+              ]
+            },
+            {
+              "title": "Uses",
+              "key_points": [],
+              "objectives": [
+                "List uses of salts"
+              ]
+            },
+            {
+              "title": "Hydrolysis of Salt",
+              "key_points": [
+                "How salts form acidic/alkaline/neutral solutions",
+                "Salts e.g. NH4Cl, AlCl3, Na2CO3, CH3COONa as equilibrium systems",
+                "Effects of charge density on hydrolysis"
+              ],
+              "objectives": [
+                "Explain salt hydrolysis"
+              ]
+            },
+            {
+              "title": "Deliquescent, Efflorescent and Hygroscopic Compounds",
+              "key_points": [
+                "Use of hygroscopic compounds as drying agents"
+              ],
+              "objectives": [
+                "Distinguish deliquescent, efflorescent, hygroscopic"
+              ]
+            },
+            {
+              "title": "Acid-Base Indicators",
+              "key_points": [
+                "How indicators work (weak organic acids/bases, dyes)",
+                "Colour dependent on acid/base forms",
+                "Working pH ranges of methyl orange, phenolphthalein"
+              ],
+              "objectives": [
+                "Explain indicator function"
+              ]
+            },
+            {
+              "title": "Acid-Base Titration",
+              "key_points": [
+                "Use of apparatus",
+                "How indicators work in titrations",
+                "Titrations with HCl, HNO3, H2SO4, NaOH, KOH, Ca(OH)2, CO3^2-, HCO3-",
+                "Weak acid/strong base, strong acid/weak base, strong/strong using indicators",
+                "Quantitative determinations: concentrations, mole ratio, purity, water of crystallization, composition"
+              ],
+              "objectives": [
+                "Perform and calculate from titrations"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E2",
+          "title": "Solubility of Substances",
+          "subtopics": [
+            {
+              "title": "General Principles",
+              "key_points": [
+                "Meaning of solubility",
+                "Saturated/unsaturated solutions",
+                "Saturated solution as equilibrium",
+                "Solubility in mol dm-3, g dm-3",
+                "Solubility curves and uses",
+                "Effect of temperature",
+                "Relationship with crystallization",
+                "Crystallization/recrystallization for purification",
+                "Knowledge of soluble/insoluble salts",
+                "Calculations on solubility",
+                "Generalization on solubility of salts, applications to qualitative analysis (Pb2+, Ca2+, Al3+, Cu2+, Fe2+, Fe3+, Cl-, Br-, I-, SO4^2-, S^2-, CO3^2-, Zn2+, NH4+, SO3^2-)",
+                "Explanation of solubility rules"
+              ],
+              "objectives": [
+                "Calculate solubility, use curves"
+              ]
+            },
+            {
+              "title": "Practical Application of Solubility",
+              "key_points": [],
+              "objectives": [
+                "Apply solubility in analysis"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "title": "Chemical Kinetics, Equilibrium, Redox Reactions",
+      "description": "Rates, equilibrium, oxidation-reduction processes.",
+      "topics": [
+        {
+          "id": "F1",
+          "title": "Chemical Kinetics and Equilibrium Systems",
+          "subtopics": [
+            {
+              "title": "Rate of Reactions",
+              "key_points": [
+                "Definition of reaction rate",
+                "Observable changes: colour, mass, temperature, pH, precipitate"
+              ],
+              "objectives": [
+                "Measure and define reaction rates"
+              ]
+            },
+            {
+              "title": "Factors Affecting Rates",
+              "key_points": [
+                "Physical state, concentration/pressure, temperature, catalysts, light, particle size, nature of reactants",
+                "Experimental demonstration for each"
+              ],
+              "objectives": [
+                "Explain factors influencing rates"
+              ]
+            },
+            {
+              "title": "Theories of Reaction Rates",
+              "key_points": [
+                "Collision and transition state theories (qualitative)",
+                "Factors: temperature, concentration",
+                "Effective collision, activation energy, energy profile"
+              ],
+              "objectives": [
+                "Explain theories qualitatively"
+              ]
+            },
+            {
+              "title": "Analysis and Interpretation of Graphs",
+              "key_points": [
+                "Drawing graphs and charts"
+              ],
+              "objectives": [
+                "Interpret rate graphs"
+              ]
+            },
+            {
+              "title": "Equilibrium",
+              "key_points": [
+                "General Principle",
+                "Reversible/irreversible reactions, dynamic equilibrium",
+                "Equilibrium constant K constant at constant temperature",
+                "Experiment to demonstrate reversible reactions"
+              ],
+              "objectives": [
+                "Explain equilibrium concepts"
+              ]
+            },
+            {
+              "title": "Le Chatelier's Principle",
+              "key_points": [
+                "Predicting effects of concentration, temperature, pressure/volume changes"
+              ],
+              "objectives": [
+                "Apply Le Chatelier's principle"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "F2",
+          "title": "Redox Reactions",
+          "subtopics": [
+            {
+              "title": "Oxidation and Reduction Process",
+              "key_points": [
+                "Oxidation/reduction in terms of oxygen/hydrogen addition/removal, electron loss/gain, change in oxidation states",
+                "Determination of oxidation numbers"
+              ],
+              "objectives": [
+                "Identify oxidation and reduction"
+              ]
+            },
+            {
+              "title": "Oxidizing and Reducing Agents",
+              "key_points": [
+                "Description in terms of oxygen/hydrogen, electrons, oxidation states"
+              ],
+              "objectives": [
+                "Identify oxidizing/reducing agents"
+              ]
+            },
+            {
+              "title": "Redox Equations",
+              "key_points": [
+                "Balancing by ion-electron or oxidation state change, half-reactions and overall"
+              ],
+              "objectives": [
+                "Balance redox equations"
+              ]
+            },
+            {
+              "title": "Electrochemical Cells",
+              "key_points": [
+                "Definition/explanation",
+                "Standard electrode potential: hydrogen electrode, E°, measurement",
+                "Only metal/metal ion systems"
+              ],
+              "objectives": [
+                "Describe electrochemical cells"
+              ]
+            },
+            {
+              "title": "Drawing of Cell Diagram and Writing Cell Notation",
+              "key_points": [],
+              "objectives": [
+                "Draw and notate cells"
+              ]
+            },
+            {
+              "title": "e.m.f of Cells",
+              "key_points": [
+                "Combination of half-cells",
+                "Magnitude and sign of e.m.f"
+              ],
+              "objectives": [
+                "Calculate cell e.m.f"
+              ]
+            },
+            {
+              "title": "Application of Electrochemical Cells",
+              "key_points": [
+                "Primary vs secondary cells",
+                "Daniell cell, lead acid battery, dry cells, fuel cells as energy generators from chemical reactions"
+              ],
+              "objectives": [
+                "Describe applications"
+              ]
+            },
+            {
+              "title": "Electrolysis",
+              "key_points": [
+                "Definition",
+                "Electrolytic vs electrochemical cells, weak/strong electrolytes"
+              ],
+              "objectives": [
+                "Distinguish electrolysis from cells"
+              ]
+            },
+            {
+              "title": "Electrolytic Cells",
+              "key_points": [],
+              "objectives": [
+                "Describe electrolytic cells"
+              ]
+            },
+            {
+              "title": "Principles of Electrolysis",
+              "key_points": [
+                "Mechanism of electrolysis"
+              ],
+              "objectives": [
+                "Explain electrolysis principles"
+              ]
+            },
+            {
+              "title": "Factors Influencing Discharge of Species",
+              "key_points": [
+                "Limit to molten PbBr2, NaCl; dilute NaCl, concentrated NaCl, CuSO4(aq), dilute H2SO4, NaOH(aq), CaCl2(aq) using Pt/graphite/copper electrodes"
+              ],
+              "objectives": [
+                "Predict discharged species"
+              ]
+            },
+            {
+              "title": "Faraday's Laws",
+              "key_points": [
+                "Calculations using 1F=96500 C, mole ratios, mass, gas volume, entities, charges using half/overall reactions"
+              ],
+              "objectives": [
+                "Apply Faraday's laws in calculations"
+              ]
+            },
+            {
+              "title": "Practical Application",
+              "key_points": [
+                "Electroplating, extraction/purification of metals"
+              ],
+              "objectives": [
+                "Describe practical uses"
+              ]
+            },
+            {
+              "title": "Corrosion of Metals",
+              "key_points": [
+                "Corrosion as redox process",
+                "Rusting of iron, economic costs",
+                "Prevention: relative electrode potentials, galvanizing, sacrificial/cathodic protection, non-redox (painting, greasing)"
+              ],
+              "objectives": [
+                "Explain corrosion and prevention"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "title": "Organic Chemistry",
+      "description": "Carbon compounds, their classification, properties, and reactions.",
+      "topics": [
+        {
+          "id": "G1",
+          "title": "Chemistry of Carbon Compounds",
+          "subtopics": [
+            {
+              "title": "Classification",
+              "key_points": [
+                "Straight chain, branched chain, aromatic, alicyclic compounds"
+              ],
+              "objectives": [
+                "Classify organic compounds"
+              ]
+            },
+            {
+              "title": "Functional Group",
+              "key_points": [
+                "Systematic nomenclature for alkanes, alkenes, alkynes, hydroxyl (aliphatic/aromatic), alkanoic acids, alkyl alkanoates, amines"
+              ],
+              "objectives": [
+                "Name compounds with functional groups"
+              ]
+            },
+            {
+              "title": "Separation and Purification of Organic Compounds",
+              "key_points": [
+                "Distillation, crystallization, drying, chromatography"
+              ],
+              "objectives": [
+                "Describe purification methods"
+              ]
+            },
+            {
+              "title": "Petroleum/Crude Oil",
+              "key_points": [
+                "Composition, classification",
+                "Fractional distillation, major products",
+                "Cracking, reforming",
+                "Petro-chemicals: sources, uses as starting materials",
+                "Quality of petrol, octane number importance"
+              ],
+              "objectives": [
+                "Explain petroleum processing"
+              ]
+            },
+            {
+              "title": "Determination of Empirical and Molecular Formulae and Molecular Structures",
+              "key_points": [],
+              "objectives": [
+                "Determine formulae and structures"
+              ]
+            },
+            {
+              "title": "General Properties of Organic Compounds",
+              "key_points": [
+                "Homologous series: gradation in physical properties, effects of active groups on inert alkane"
+              ],
+              "objectives": [
+                "Explain homologous series properties"
+              ]
+            },
+            {
+              "title": "Isomerism",
+              "key_points": [
+                "Limited to compounds with max 5 carbons",
+                "Structural vs geometric/stereo isomerism"
+              ],
+              "objectives": [
+                "Distinguish types of isomerism"
+              ]
+            },
+            {
+              "title": "Alkanes",
+              "key_points": [
+                "Sources, properties: laboratory/industrial preparations",
+                "Nomenclature, structure",
+                "Reactivity: combustion, substitution, cracking",
+                "Uses as fuels, starting materials",
+                "Haloalkanes uses, pollution effects"
+              ],
+              "objectives": [
+                "Describe alkane reactions and uses"
+              ]
+            },
+            {
+              "title": "Alkenes",
+              "key_points": [
+                "Sources, properties: lab preparation, nomenclature, structure",
+                "Addition: halogens, Br2 water, H halides, acidified water",
+                "Oxidation: hydroxylation with KMnO4",
+                "Polymerization",
+                "Lab detection with Br2/water, Br2/CCl4, KMnO4(aq)"
+              ],
+              "objectives": [
+                "Describe alkene reactions"
+              ]
+            },
+            {
+              "title": "Alkynes",
+              "key_points": [
+                "Sources, properties, uses: nomenclature, structure",
+                "Industrial production of ethyne",
+                "Distinguishing terminal/non-terminal alkynes",
+                "Test to distinguish alkane/alkene/alkyne",
+                "Reactions: halogenation, combustion, hydration, hydrogenation"
+              ],
+              "objectives": [
+                "Describe alkyne properties and reactions"
+              ]
+            },
+            {
+              "title": "Benzene",
+              "key_points": [
+                "Structure, physical properties: resonance, stability to substitution"
+              ],
+              "objectives": [
+                "Explain benzene stability"
+              ]
+            },
+            {
+              "title": "Chemical Properties",
+              "key_points": [
+                "Addition: hydrogenation, halogenation (mechanism not required)",
+                "Compare with alkenes"
+              ],
+              "objectives": [
+                "Contrast benzene and alkene reactions"
+              ]
+            },
+            {
+              "title": "Alkanols",
+              "key_points": [
+                "Sources, nomenclature, structure: lab preparation (hydration of alkenes), industrial/local production of ethanol, harmful impurities, purification",
+                "Recognition of mono-, di-, triols"
+              ],
+              "objectives": [
+                "Prepare and name alkanols"
+              ]
+            },
+            {
+              "title": "Classification",
+              "key_points": [
+                "Primary, secondary, tertiary alkanols"
+              ],
+              "objectives": [
+                "Classify alkanols"
+              ]
+            },
+            {
+              "title": "Physical Properties",
+              "key_points": [
+                "Boiling point, solubility in water, hydrogen bonding"
+              ],
+              "objectives": [
+                "Explain physical properties"
+              ]
+            },
+            {
+              "title": "Chemical Properties",
+              "key_points": [
+                "Reactions with Na, alkanoic acids (esterification), conc. H2SO4",
+                "Oxidation by KMnO4(aq), K2Cr2O7(aq), I2 in NaOH(aq)"
+              ],
+              "objectives": [
+                "Describe chemical reactions"
+              ]
+            },
+            {
+              "title": "Laboratory Test",
+              "key_points": [
+                "Lab test for ethanol"
+              ],
+              "objectives": [
+                "Perform test for ethanol"
+              ]
+            },
+            {
+              "title": "Uses",
+              "key_points": [],
+              "objectives": [
+                "List uses of alkanols"
+              ]
+            },
+            {
+              "title": "Alkanoic Acids",
+              "key_points": [
+                "Sources, nomenclature, structure: recognition of mono/dioic acids"
+              ],
+              "objectives": [
+                "Name and structure alkanoic acids"
+              ]
+            },
+            {
+              "title": "Physical Properties",
+              "key_points": [
+                "Boiling point, solubility in water, hydrogen bonding"
+              ],
+              "objectives": [
+                "Explain physical properties"
+              ]
+            },
+            {
+              "title": "Chemical Properties",
+              "key_points": [
+                "Acid properties: reactions with H2O, NaOH, NH3, NaHCO3, Zn, Mg"
+              ],
+              "objectives": [
+                "Describe acid reactions"
+              ]
+            },
+            {
+              "title": "Laboratory Test",
+              "key_points": [
+                "Reaction with NaHCO3, Na2CO3"
+              ],
+              "objectives": [
+                "Test for alkanoic acids"
+              ]
+            },
+            {
+              "title": "Uses",
+              "key_points": [
+                "Ethanoic acid - vinegar, phenyl methanoic (benzoic) acid"
+              ],
+              "objectives": [
+                "List uses of specific acids"
+              ]
+            },
+            {
+              "title": "Alkanoates as Derivatives of Alkanoic Acids",
+              "key_points": [
+                "Sources, nomenclature, preparation, structure: from alkanoic acids"
+              ],
+              "objectives": [
+                "Prepare esters"
+              ]
+            },
+            {
+              "title": "Physical Properties",
+              "key_points": [
+                "Solubility, boiling/melting point"
+              ],
+              "objectives": [
+                "Describe physical properties"
+              ]
+            },
+            {
+              "title": "Chemical Properties",
+              "key_points": [
+                "Hydrolysis of alkyl alkanoates (mechanism not required)"
+              ],
+              "objectives": [
+                "Describe hydrolysis"
+              ]
+            },
+            {
+              "title": "Uses",
+              "key_points": [
+                "Production of soap, flavouring, plasticizers, solvents, perfumes"
+              ],
+              "objectives": [
+                "List uses of esters"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H",
+      "title": "Chemistry, Industry and Environment",
+      "description": "Industrial applications, environmental impact.",
+      "topics": [
+        {
+          "id": "H1",
+          "title": "Chemical Industry",
+          "subtopics": [
+            {
+              "title": "Natural Resources in Candidate's Country",
+              "key_points": [],
+              "objectives": [
+                "Identify local resources"
+              ]
+            },
+            {
+              "title": "Chemical Industries and Raw Materials",
+              "key_points": [],
+              "objectives": [
+                "List industries and materials"
+              ]
+            },
+            {
+              "title": "Distinction Between Fine and Heavy Chemicals",
+              "key_points": [],
+              "objectives": [
+                "Differentiate fine/heavy chemicals"
+              ]
+            },
+            {
+              "title": "Factors Determining Location of Industries",
+              "key_points": [],
+              "objectives": [
+                "Explain location factors"
+              ]
+            },
+            {
+              "title": "Effect of Industries on Community",
+              "key_points": [],
+              "objectives": [
+                "Discuss industrial impacts"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "H2",
+          "title": "Pollution: Air, Water and Soil",
+          "subtopics": [
+            {
+              "title": "Pollution",
+              "key_points": [
+                "Sources, effects, control",
+                "Greenhouse effect, ozone depletion",
+                "Biodegradable/non-biodegradable pollutants"
+              ],
+              "objectives": [
+                "Explain pollution types and control"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "H3",
+          "title": "Biotechnology",
+          "subtopics": [
+            {
+              "title": "Food Processing, Fermentation",
+              "key_points": [
+                "Production of gari, bread, alcoholic beverages e.g. local gin"
+              ],
+              "objectives": [
+                "Describe biotechnological processes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "title": "Basic Biochemistry and Synthetic Polymers",
+      "description": "Biochemical molecules and polymers.",
+      "topics": [
+        {
+          "id": "I1",
+          "title": "Proteins",
+          "subtopics": [
+            {
+              "title": "Sources and Properties",
+              "key_points": [
+                "Proteins as polymers of amino acids linked by peptide/amide linkage",
+                "Physical properties e.g. solubility"
+              ],
+              "objectives": [
+                "Describe protein structure and properties"
+              ]
+            },
+            {
+              "title": "Chemical Properties",
+              "key_points": [
+                "Hydrolysis of proteins",
+                "Lab tests: Ninhydrin, Biuret, Millons"
+              ],
+              "objectives": [
+                "Perform tests for proteins"
+              ]
+            },
+            {
+              "title": "Uses of Protein",
+              "key_points": [],
+              "objectives": [
+                "List uses of proteins"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "I2",
+          "title": "Amino Acids",
+          "subtopics": [
+            {
+              "title": "Nomenclature and General Structure",
+              "key_points": [],
+              "objectives": [
+                "Name and structure amino acids"
+              ]
+            },
+            {
+              "title": "Difunctional Nature of Amino Acids",
+              "key_points": [],
+              "objectives": [
+                "Explain amphoteric nature"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "I3",
+          "title": "Fats/Oils",
+          "subtopics": [
+            {
+              "title": "Sources and Properties",
+              "key_points": [
+                "From animals/plants",
+                "Physical: solubility",
+                "Chemical: acidic/alkaline hydrolysis, hydrogenation, test for fats/oil"
+              ],
+              "objectives": [
+                "Describe properties"
+              ]
+            },
+            {
+              "title": "General Structure of Fats/Oils",
+              "key_points": [
+                "Mono-, di-, tri-esters of propane-1,2,3-triol (glycerol)"
+              ],
+              "objectives": [
+                "Draw structures"
+              ]
+            },
+            {
+              "title": "Preparation of Soap",
+              "key_points": [
+                "Saponification from fats/oils"
+              ],
+              "objectives": [
+                "Prepare soap"
+              ]
+            },
+            {
+              "title": "Uses of Fats/Oils",
+              "key_points": [
+                "Comparison of soapless detergents, action on soft/hard water"
+              ],
+              "objectives": [
+                "List uses, compare detergents"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "I4",
+          "title": "Carbohydrates",
+          "subtopics": [
+            {
+              "title": "Sources and Nomenclature",
+              "key_points": [
+                "Classes: monosaccharides, disaccharides, polysaccharides",
+                "Name and components of classes"
+              ],
+              "objectives": [
+                "Classify carbohydrates"
+              ]
+            },
+            {
+              "title": "Properties",
+              "key_points": [
+                "Physical: solubility of sugars",
+                "Chemical: hydrolysis of disaccharides",
+                "Test for reducing sugars: sugar strips, Fehling's, Benedict's, Tollen's"
+              ],
+              "objectives": [
+                "Perform tests for sugars"
+              ]
+            },
+            {
+              "title": "Carbohydrate as Examples of Polymer",
+              "key_points": [
+                "Starch as polymer of glucose units",
+                "Condensation of monosaccharides to di-/polysaccharides"
+              ],
+              "objectives": [
+                "Explain polymerization in carbohydrates"
+              ]
+            },
+            {
+              "title": "Uses",
+              "key_points": [],
+              "objectives": [
+                "List uses of carbohydrates"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "I5",
+          "title": "Synthetic Polymers",
+          "subtopics": [
+            {
+              "title": "Properties",
+              "key_points": [
+                "Monomers, polymers, polymerization",
+                "Addition/condensation polymerization",
+                "Classification/preparation based on monomers/comonomers",
+                "Thermoplastics, thermosets",
+                "Modification of properties",
+                "Plastics, resins",
+                "Chemical tests on plastics: heat, acids, alkalis"
+              ],
+              "objectives": [
+                "Define and classify polymers"
+              ]
+            },
+            {
+              "title": "Uses of Polymers",
+              "key_points": [],
+              "objectives": [
+                "List uses of synthetic polymers"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "J",
+      "title": "Practicals",
+      "description": "Laboratory skills and analysis.",
+      "topics": [
+        {
+          "id": "J1",
+          "title": "General Skills and Principles",
+          "subtopics": [
+            {
+              "title": "Measurement of Mass and Volume",
+              "key_points": [],
+              "objectives": [
+                "Measure mass and volume accurately"
+              ]
+            },
+            {
+              "title": "Preparation and Dilution of Standard Solutions",
+              "key_points": [],
+              "objectives": [
+                "Prepare standard solutions"
+              ]
+            },
+            {
+              "title": "Filtration, Recrystallisation and Melting Point Determination",
+              "key_points": [],
+              "objectives": [
+                "Perform purification techniques"
+              ]
+            },
+            {
+              "title": "Measurement of Heats of Neutralization and Solutions",
+              "key_points": [],
+              "objectives": [
+                "Determine enthalpy changes"
+              ]
+            },
+            {
+              "title": "Determination of pH Value by Colorimetry",
+              "key_points": [],
+              "objectives": [
+                "Measure pH"
+              ]
+            },
+            {
+              "title": "Determination of Rates of Reaction from Concentration vs Time Curves",
+              "key_points": [],
+              "objectives": [
+                "Determine reaction rates"
+              ]
+            },
+            {
+              "title": "Determination of Equilibrium Constants",
+              "key_points": [],
+              "objectives": [
+                "Calculate K"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "J2",
+          "title": "Quantitative Analysis",
+          "subtopics": [
+            {
+              "title": "Acid-Base Titrations",
+              "key_points": [
+                "Use of acids/alkalis and indicators (methyl orange, methyl red, phenolphthalein)",
+                "Determine concentrations, molar masses, water of crystallization, solubility, % purity, analysis of Na2CO3/NaHCO3, stoichiometry"
+              ],
+              "objectives": [
+                "Perform acid-base titrations and calculations"
+              ]
+            },
+            {
+              "title": "Redox Titrations",
+              "key_points": [
+                "Systems: acidic MnO4- with Fe2+, C2O4^2-; I2 in KI vs S2O3^2-"
+              ],
+              "objectives": [
+                "Solve problems using redox titrations"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "J3",
+          "title": "Qualitative Analysis",
+          "subtopics": [
+            {
+              "title": "Characteristic Tests of Cations",
+              "key_points": [
+                "With dilute NaOH(aq), NH3(aq): NH4+, Ca2+, Pb2+, Cu2+, Fe2+, Fe3+, Al3+, Zn2+",
+                "Confirmatory tests for cations"
+              ],
+              "objectives": [
+                "Identify cations"
+              ]
+            },
+            {
+              "title": "Characteristic Reaction of Dilute HCl on Solids/Aqueous and Conc. H2SO4 on Solids",
+              "key_points": [
+                "For Cl-, SO3^2-, CO3^2-, NO3-, SO4^2-"
+              ],
+              "objectives": [
+                "Perform tests for anions"
+              ]
+            },
+            {
+              "title": "Confirmatory Tests for Anions",
+              "key_points": [],
+              "objectives": [
+                "Confirm anions"
+              ]
+            },
+            {
+              "title": "Comparative Study of Halogens",
+              "key_points": [
+                "Displacement reactions"
+              ],
+              "objectives": [
+                "Demonstrate halogen displacements"
+              ]
+            },
+            {
+              "title": "Characteristic Tests for Gases",
+              "key_points": [
+                "H2, NH3, CO2, HCl, SO2"
+              ],
+              "objectives": [
+                "Test for gases"
+              ]
+            },
+            {
+              "title": "Characteristic Test Tube Reactions of Functional Groups",
+              "key_points": [
+                "Alkenes, alkanols, alkanoic acids, sugars (Fehling's, Benedict's), starch (iodine), proteins (Ninhydrin, Xanthoproteic, Biuret, Millon's)"
+              ],
+              "objectives": [
+                "Identify organic functional groups"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "K",
+      "title": "Country-Specific Topics",
+      "description": "Additional topics for specific countries.",
+      "topics": [
+        {
+          "id": "K1",
+          "title": "Section B - Ghana Only",
+          "subtopics": [
+            {
+              "title": "Structure of the Atom",
+              "key_points": [
+                "Elementary treatment of mass spectrometer: principles, operations, use for isotopes, relative atomic/molecular masses",
+                "Wave nature of electrons",
+                "Quantum numbers importance",
+                "Nuclear chemistry: nucleons, nuclide",
+                "Types/nature of radiations: alpha, beta, gamma; charges, mass, penetrating power",
+                "Radioactivity: induced/stimulated, natural/artificial, detection by Geiger-Muller",
+                "Nuclear reactions: fission/fusion, balanced equations, electricity generation, atomic bombs",
+                "Effects/application: carbon dating, agriculture/medicine/industries, hazards",
+                "Factors affecting nuclide stability: binding energy, neutron-proton ratio, half-life; calculations"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Periodic Chemistry",
+              "key_points": [
+                "Reactions between acids and metals/oxides/trioxocarbonates (IV): period 3 (Na, Mg, Al), period 4 (K, Ca), equations, pH",
+                "Acidic properties of non-metal oxides: carbon, nitrogen, sulphur, phosphorus, chlorine; pH of solutions, equations",
+                "Physical/chemical properties of period 3 elements/compounds: comparison of hydrides/oxides/hydroxides/chlorides, thermal stability of CO3^2-/NO3- of Li/Na/K/Mg/Ca, experiment compare Na2CO3/Li2CO3/CuSO4",
+                "Silicon: structures SiO2/CO2 account for differences, uses of silicon/compounds (ceramics, glass, silica gel, microchips)",
+                "Periodic gradation group 7 halogens: inter-atomic bond energies, hydrides/acid strength (Ka values), variable oxidation states",
+                "Bonding in complex compounds: ligands, central ions, examples (Cl-, F-, I-, NO3-, NH3, H2O, SO4^2-), formation, nomenclature [Fe(CN)6]^3-, [Cu(NH3)4]^2+, [Ag(NH3)2]+, [Cu(CN)4]^2-",
+                "Shapes of complex compounds: tetrahedral, square planar, octahedral e.g. [Fe(CN)6]^3-, [Cu(NH3)4]^2+, [Ag(NH3)2]+ [Cu(CN)4]^2-",
+                "Elements first transition series: reactivity with air/water/acids, comparison s-block"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Chemical Bonds",
+              "key_points": [
+                "Formation ionic bonds: factors lattice energy",
+                "Covalent character in ionic bond: polarity based on electronegativity, effects on solubility/thermal stability/boiling points",
+                "Polar covalent bonds",
+                "Hybridization atomic orbitals: definition, sp/sp2/sp3, shapes limited to CH4/H2O/NH3/BCl3/C2H2/BeCl2/C2H4/SF6",
+                "Formation sigma/pi bonds: using C2H2/C6H6"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Solutions",
+              "key_points": [
+                "Preparation from liquid solutes by dilution: steps, determination concentration given density/w/v/w/w/specific gravity/relative molecular mass/molar mass/% purity, primary/secondary/standardized solution"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Energy and Energy Changes",
+              "key_points": [
+                "Energy changes physical/isolated systems: terms systems/surroundings/open/closed, enthalpy in combustion/atomization/sublimation/hydration/solvation/dissolution",
+                "Hess's law heat summation/Born-Haber cycle: explanation, use difference cycles"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Bond Energy",
+              "key_points": [
+                "Explanation bond energy/dissociation energy, average value, differences, use in bond strength/energy content/enthalpy reaction, calculations summation in reactants/products"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Acids, Bases and Salts",
+              "key_points": [
+                "Definitions: Bronsted-Lowry/Lewis, conjugate acid-base pair equilibrium",
+                "pH, pOH, pKw: Kw=[H+][OH-]=1.0x10^-14 mol2 dm-6, pH=-log[H3O+], pH/pOH measure acidity/alkalinity, pH scale, calculation [H+]/[OH-]/pH/pOH",
+                "Partial ionization weak acids/bases: Ka/pKa/Kb/pKb measurements strength",
+                "Buffer solutions: qualitative definition, lab examples, preparation"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Acid Base Titrations",
+              "key_points": [
+                "Double indicator (continuous/discontinuous)/back titration, calculations concentration/composition/% purity, graphs strong acid/base, strong acid/weak base, weak acid/strong base"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Solubility of Substances",
+              "key_points": [
+                "Solubility/solubility product: explanation Ksp sparingly soluble, calculations, factors affecting",
+                "Crystallization/recrystallization: effect lattice/hydration energy"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Chemical Kinetics and Equilibrium Systems",
+              "key_points": [
+                "Rate law/order reaction: deduction from data, relation rates/concentration zero/first/second order, graphical representation, half-life first order/significance, general rate law R=k[A]^x[B]^y",
+                "Rate determining step multi-step reaction",
+                "Equilibrium law mass action: mathematical expression K, constant at constant temp, relation Kp/Kc, calculation from data, difference homogeneous/heterogeneous"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Chemistry of Carbon Compounds",
+              "key_points": [
+                "Separation/purification: solvent extraction, melting point determinations",
+                "Determination empirical/molecular formulae: detection N/S/halogens, estimation C/H/O",
+                "Reactivity organic compounds: inductive/mesomeric effect, resonance benzene, terms nucleophiles/electrophiles/free radicals/ions, homolytic/heterolytic fission",
+                "Alkanes: halogenation free radical mechanism",
+                "Reactions benzene: mono-substituted toluene/phenol/aniline/benzoic acid/nitrobenzene (IUPAC/trivial names)",
+                "Comparison reactions benzene/alkenes: differences reactivity, uses hexachlorocyclohexane/BHC"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Chemical Industry and Environment",
+              "key_points": [
+                "Sources raw materials: location mineral deposits/nature",
+                "Mining mineral as ore: metals gold/bauxite/manganese/iron, precious stone diamond, industrial mining limestone CaCO3/clay kaolin/solar salt, processing Au/Al/Fe main products, uses metals",
+                "Cement/uses: sources raw materials, processes production, uses, environmental impact"
+              ],
+              "objectives": []
+            }
+          ]
+        },
+        {
+          "id": "K2",
+          "title": "Section C - Nigeria, Sierra Leone, Liberia, The Gambia",
+          "subtopics": [
+            {
+              "title": "Non Metals and Their Compounds",
+              "key_points": [
+                "Carbon: allotropes graphite/diamond/amorphous, structures/properties/uses, combustion",
+                "Coal: types anthracite/peat/lignite, destructive distillation/uses products",
+                "Coke: classification/uses, manufacture synthetic gas/uses",
+                "Oxides carbon: CO2 lab prep/properties/uses/test, CO properties/uses, trioxocarbonate (IV) salts properties (solubility/heat/dilute acid)/uses",
+                "Oxygen: lab/industrial prep, properties/uses, test, binary oxides acidic/basic/amphoteric/neutral",
+                "Hydrogen: lab prep, properties/uses, test",
+                "Water/solution: composition water, test, reference electrolysis acidified water, solvent, hardness causes/removal (advantages/disadvantages soft/hard), experiments compare hardness, treatment town supply",
+                "Halogens: redox properties, displacement one halogen another",
+                "Chlorine: lab prep, properties/reactions (variable oxidation states, water/alkali balanced equations)",
+                "Uses halogen compounds: silver halide photography, sodium oxochlorate (I) bleaching",
+                "Nitrogen: lab/industrial prep liquefied air, properties/uses, compounds",
+                "Ammonia: lab/industrial prep, properties/uses, test, fountain experiment",
+                "Trioxonitrate (V) acid: lab prep, properties/uses",
+                "Trioxonitrate (V) salts: action heat, test ions",
+                "Sulphur: allotropes/uses, compounds",
+                "Trioxosulphate (IV) acids/salts",
+                "Tetraoxosulphate (VI) acid: industrial prep Contact process, reactions/uses",
+                "Noble gases: properties/uses"
+              ],
+              "objectives": []
+            },
+            {
+              "title": "Metals and Their Compounds",
+              "key_points": [
+                "Extraction metals: Al, Fe, Sn raw materials/processing/main/by-products, uses",
+                "Alloys: common Cu/Al/Pb/Fe/Sn, uses",
+                "Properties/uses sodium/compounds: limited to NaCl/NaOH/Na2CO3/NaNO3/Na2SO4/NaClO",
+                "Properties/uses calcium/compounds: limited to CaCO3/CaO/CaSO4/CaCl2/Ca(OH)2",
+                "Reactivity iron/aluminium air/water/acids",
+                "Properties/uses copper/compounds: limited to CuSO4/CuO/CuCl2"
+              ],
+              "objectives": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

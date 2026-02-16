@@ -13,15 +13,6 @@
           "subtopics": [
             {
               "title": "Characteristics of Living Things",
-              "key_points": [
-                "Movement",
-                "Respiration",
-                "Sensitivity",
-                "Growth",
-                "Reproduction",
-                "Excretion",
-                "Nutrition"
-              ],
               "objectives": [
                 "Differentiate between living and non-living things",
                 "Identify life processes in organisms"
@@ -29,11 +20,6 @@
             },
             {
               "title": "Cell Structure and Functions",
-              "key_points": [
-                "Plant cell structure",
-                "Animal cell structure",
-                "Functions of cell organelles"
-              ],
               "objectives": [
                 "Identify parts of plant and animal cells",
                 "Relate structure of organelles to their functions",
@@ -42,13 +28,6 @@
             },
             {
               "title": "Levels of Organization",
-              "key_points": [
-                "Cell",
-                "Tissue",
-                "Organ",
-                "System",
-                "Organism"
-              ],
               "examples": [
                 "Euglena (cell)",
                 "Hydra (tissue)",
@@ -132,24 +111,13 @@
             },
             {
               "title": "Photosynthesis",
-              "key_points": [
-                "Light reaction",
-                "Dark reaction",
-                "Importance of chlorophyll",
-                "Raw materials"
-              ],
               "objectives": [
                 "Explain photosynthesis",
                 "Identify conditions necessary for photosynthesis"
               ]
             },
             {
-              "title": "Animal Nutrition",
-              "key_points": [
-                "Classes of food",
-                "Digestive enzymes",
-                "Alimentary canal"
-              ]
+              "title": "Animal Nutrition"
             }
           ]
         },
@@ -158,12 +126,7 @@
           "title": "Respiration",
           "subtopics": [
             {
-              "title": "Aerobic Respiration",
-              "key_points": [
-                "Glycolysis",
-                "Krebs cycle",
-                "ATP production"
-              ]
+              "title": "Aerobic Respiration"
             },
             {
               "title": "Anaerobic Respiration",
@@ -183,12 +146,7 @@
           "title": "Ecosystem",
           "subtopics": [
             {
-              "title": "Food Chain and Food Web",
-              "key_points": [
-                "Producers",
-                "Consumers",
-                "Decomposers"
-              ]
+              "title": "Food Chain and Food Web"
             },
             {
               "title": "Nutrient Cycles",
@@ -217,13 +175,7 @@
         },
         {
           "id": "D2",
-          "title": "Genetics",
-          "key_points": [
-            "Chromosomes",
-            "DNA",
-            "Inheritance",
-            "Sex-linked traits"
-          ]
+          "title": "Genetics"
         }
       ]
     },

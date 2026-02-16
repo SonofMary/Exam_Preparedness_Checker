@@ -20,6 +20,7 @@ const {isLoading, error, data} = useQuery({
     queryFn: async ()=>{ 
         const res = await fetch(`${import.meta.env.VITE_API_URL_BACKEND}/subjects/allSubjects`)
         if (!res.ok) {
+              console.error("Fetch error:", res.status, res.statusText)
             throw new Error('Network response was not ok');
           }
         return res.json()
