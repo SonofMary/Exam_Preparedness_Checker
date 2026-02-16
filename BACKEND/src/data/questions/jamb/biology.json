@@ -1,0 +1,1512 @@
+{
+  "2010": [
+    {
+      "number": "1",
+      "theory_question": "What Biology Question Paper Type is given to you?",
+      "theory_answer": "Type C",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "What characterizes a mature plant cell?",
+      "theory_answer": "the cell wall is made up of cellulose",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "What is NOT a function of the nucleus of a cell?",
+      "theory_answer": "it is reservoir of energy for the cell",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "What is the dominant phase in the life cycle of a fern?",
+      "theory_answer": "sporophyte",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "What exhibits parental care?",
+      "theory_answer": "birds",
+      "difficulty": "easy"
+    },
+    {
+      "number": "6",
+      "theory_question": "With respect to their decreasing dependence on aquatic conditions for reproduction, what is the correct arrangement of the animals represented?",
+      "theory_answer": "IV, III, II and I",
+      "difficulty": "hard"
+    },
+    {
+      "number": "7",
+      "theory_question": "What animal represents the oldest creatures in terms of evolutionary history?",
+      "theory_answer": "IV",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_answer": "viruses",
+      "difficulty": "easy"
+    },
+    {
+      "number": "9",
+      "theory_question": "What is the main function of the feathers covering the part labelled I?",
+      "theory_answer": "serve as insulator to maintain body heat",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "Based on the shape and structure of the beak and feet, what is the bird represented likely to feed mainly on?",
+      "theory_answer": "flesh",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "What is true of the transverse section of a dicot system?",
+      "theory_answer": "the xylem is more interiorly located than the phloem",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "The movement of material in the xylem and phloem tissues of the plant are represented by the arrows labelled what?",
+      "theory_answer": "III and IV respectively",
+      "difficulty": "hard"
+    },
+    {
+      "number": "13",
+      "theory_question": "During photosynthesis, the arrow labelled II represents what?",
+      "theory_answer": "release of oxygen as a by-product",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "What is lacking in the diet of a person with kwashiorkor?",
+      "theory_answer": "proteins",
+      "difficulty": "easy"
+    },
+    {
+      "number": "15",
+      "theory_question": "The mode of nutrition of sun dew and bladder wort can be described as what?",
+      "theory_answer": "holozoic",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "When the mixture of a food substance and Benedict's solution was warmed, the solution changed from blue to black-red. This indicates the presence of what?",
+      "theory_answer": "reducing sugar",
+      "difficulty": "medium"
+    },
+    {
+      "number": "17",
+      "theory_question": "What is the primary structure responsible for pumping blood for circulation through the mammalian circulatory systems?",
+      "theory_answer": "left ventricle",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "Circulation of blood to all parts of the body except the lungs is through what?",
+      "theory_answer": "systemic circulation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "19",
+      "theory_question": "Yeast respires anaerobically to convert simple sugar to carbon (IV) oxide and what?",
+      "theory_answer": "alcohol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "What is the sheet of muscle that separates the thoracic and the abdominal cavities?",
+      "theory_answer": "diaphragm",
+      "difficulty": "easy"
+    },
+    {
+      "number": "21",
+      "theory_question": "What is the oily substance that lubricates the mammalian hair to keep it flexible and water repellent secreted by?",
+      "theory_answer": "sebaceous glands",
+      "difficulty": "easy"
+    },
+    {
+      "number": "22",
+      "theory_question": "The outer layer of the kidney where the Bowman's capsules are found is the what?",
+      "theory_answer": "cortex",
+      "difficulty": "easy"
+    },
+    {
+      "number": "23",
+      "theory_question": "Which of the following stimuli is likely to elicit a nastic response in an organism?",
+      "theory_answer": "Chemical substances",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "In the male reproductive system of a mammal, sperm is stored in the what?",
+      "theory_answer": "epididymis",
+      "difficulty": "easy"
+    },
+    {
+      "number": "25",
+      "theory_question": "Chemosynthetic organisms are capable of manufacturing their food from simple inorganic substances through the process of what?",
+      "theory_answer": "phosphorylation",
+      "difficulty": "hard"
+    },
+    {
+      "number": "26",
+      "theory_question": "The part of the human gut that has an acidic content is the what?",
+      "theory_answer": "stomach",
+      "difficulty": "easy"
+    },
+    {
+      "number": "27",
+      "theory_question": "Which of the structures is correctly matched with the organisms in which it is found? I. Stomata → Spirogyro II. Alveoli → Earthworm III. Malpighian tubule → Mammal IV. Contractile vacuole → Protozoa.",
+      "theory_answer": "IV",
+      "difficulty": "hard"
+    },
+    {
+      "number": "28",
+      "theory_question": "A food chain always begins with a what?",
+      "theory_answer": "producer",
+      "difficulty": "easy"
+    },
+    {
+      "number": "29",
+      "theory_question": "Mycorrhizae promote plant growth by what?",
+      "theory_answer": "absorbing inorganic ions from the soil",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "The barrier between maternal and foetal blood is the what?",
+      "theory_answer": "placenta",
+      "difficulty": "easy"
+    },
+    {
+      "number": "31",
+      "theory_question": "The blood component that has the greatest affinity for oxygen is the what?",
+      "theory_answer": "erythrocytes",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "Which of the following organisms is mainly found in the marine habitat?",
+      "theory_answer": "Dog fish",
+      "difficulty": "easy"
+    },
+    {
+      "number": "33",
+      "theory_question": "The two halves of the pelvic girdle are joined together at the what?",
+      "theory_answer": "public symphysis",
+      "difficulty": "easy"
+    },
+    {
+      "number": "34",
+      "theory_question": "Which of the ways are ways in which desert animals adapt to extreme heat of the environment? I. Adoption of appropriate nocturnal habits II. Burrowing III. Adjusting their internal body temperature. IV. Possession of many sweat pores.",
+      "theory_answer": "I and II only",
+      "difficulty": "medium"
+    },
+    {
+      "number": "35",
+      "theory_question": "Low annual rainfall, sparse vegetation, high diurnal temperatures and cold nights are characteristic features of the what?",
+      "theory_answer": "guinea savanna",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "The activity of an organism which affects the survival of another organism in the same habitat constitutes what?",
+      "theory_answer": "an edaphic factor",
+      "difficulty": "medium"
+    },
+    {
+      "number": "37",
+      "theory_question": "The average number of individuals of a species per unit area of the habitat is the what?",
+      "theory_answer": "population size",
+      "difficulty": "medium"
+    },
+    {
+      "number": "38",
+      "theory_question": "The vector for yellow fever is what?",
+      "theory_answer": "Anopheles mosquito",
+      "difficulty": "easy"
+    },
+    {
+      "number": "39",
+      "theory_question": "The loss of soil through erosion can be reduced by what?",
+      "theory_answer": "watering",
+      "difficulty": "medium"
+    },
+    {
+      "number": "40",
+      "theory_question": "The protozoan plasmodium falciparum is transmitted by what?",
+      "theory_answer": "female Anopheles mosquitoes",
+      "difficulty": "easy"
+    },
+    {
+      "number": "41",
+      "theory_question": "A dilute solution of phenylthiocarbamide tastes bitter to some people and is tasteless to others. This is an example of what?",
+      "theory_answer": "discontinuous variation",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "In which plantation are all the trees between the height of 2-4m?",
+      "theory_answer": "III",
+      "difficulty": "hard"
+    },
+    {
+      "number": "43",
+      "theory_question": "What is a true feature of plantation II?",
+      "theory_answer": "it has the highest number of trees of about 2m high.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "44",
+      "theory_question": "Thyroxine and adrenalin are examples of hormones which control what?",
+      "theory_answer": "behavioural patterns",
+      "difficulty": "medium"
+    },
+    {
+      "number": "45",
+      "theory_question": "A pair of genes that control a trait is referred to as what?",
+      "theory_answer": "an allele",
+      "difficulty": "easy"
+    },
+    {
+      "number": "46",
+      "theory_question": "The chromosome number of a cell before and after the process of meiosis is conventionally represented as what?",
+      "theory_answer": "2n → n",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "If both parents are heterozygous for a trait, the probability that an offspring will be recessive for that trait is what?",
+      "theory_answer": "1/4",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "At what stage in the life history of a mammal is the sex of an individual set?",
+      "theory_answer": "at puberty",
+      "difficulty": "medium"
+    },
+    {
+      "number": "49",
+      "theory_question": "The main distinguishing features between the soldier termite and other members of the caste are the what?",
+      "theory_answer": "absence of wings, possession of strong mandibles and a large head",
+      "difficulty": "hard"
+    },
+    {
+      "number": "50",
+      "theory_question": "The flippers of a whale and the fins of a fish are examples of what?",
+      "theory_answer": "divergent evolution",
+      "difficulty": "medium"
+    }
+  ],
+  "2011": [
+    {
+      "number": "1",
+      "theory_question": "What Question Paper Type of Biology is given to you?",
+      "theory_answer": "Type C",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The function of the red head in male Agama lizards is to what?",
+      "theory_answer": "scare other males from the territory",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "In which of the following species is the biomass of an individual the smallest?",
+      "theory_answer": "Spirogyra sp.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "Seed plants are divided into what?",
+      "theory_answer": "angiosperms and gymnosperms",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "In which of the following groups of vertebrates is parental care mostly exhibited?",
+      "theory_answer": "Mammalia",
+      "difficulty": "easy"
+    },
+    {
+      "number": "6",
+      "theory_question": "Which of the organisms represented are notable agricultural pests?",
+      "theory_answer": "II and IV",
+      "difficulty": "hard"
+    },
+    {
+      "number": "7",
+      "theory_question": "An economic importance of the organism represented by IV is that what?",
+      "theory_answer": "it is destructive to farm crops",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "The adult form of iii is a vector of what?",
+      "theory_answer": "river blindness",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "The adaptive importance of nuptial flight from termite colonies is to what?",
+      "theory_answer": "disperse the reproductives in order to establish new colonies",
+      "difficulty": "hard"
+    },
+    {
+      "number": "10",
+      "theory_question": "The gas evolved in the process is what?",
+      "theory_answer": "carbon (IV) oxide",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "The experimental set-up above is used to demonstrate the process of what?",
+      "theory_answer": "fermentation",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "Which of the following can cause shrinkage of living cells?",
+      "theory_answer": "Hypertonic solution",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "What is true of leucocytes?",
+      "theory_answer": "they are most numerous and ramify all cells",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "The conversion of a nutrient into a molecule in the body of a consumer is referred to as what?",
+      "theory_answer": "assimilation",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "The ability of living organism to detect and respond to changes in the environment is referred to as what?",
+      "theory_answer": "irritability",
+      "difficulty": "easy"
+    },
+    {
+      "number": "16",
+      "theory_question": "In mammals, the exchange of nutrients and metabolic products occurs in the what?",
+      "theory_answer": "lymph",
+      "difficulty": "medium"
+    },
+    {
+      "number": "17",
+      "theory_question": "An example of an endospermous seed is what?",
+      "theory_answer": "maize gain",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "Which of the modes of nutrition is correctly matched with the organism that exhibits it? I. Parasitism → Sundew. II. Autotrophism → Amoeba. III. Saprophytism → Alga. IV. Heterotrophism → Agama.",
+      "theory_answer": "III",
+      "difficulty": "hard"
+    },
+    {
+      "number": "19",
+      "theory_question": "In which of the test tubes will glucose be detected after complete hydrolysis?",
+      "theory_answer": "II and III only",
+      "difficulty": "hard"
+    },
+    {
+      "number": "20",
+      "theory_question": "The enzyme involved in the hydrolysis is what?",
+      "theory_answer": "sucrase",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "The part of the mammalian ear responsible for the maintenance of balance is the what?",
+      "theory_answer": "cochlea",
+      "difficulty": "easy"
+    },
+    {
+      "number": "22",
+      "theory_question": "The path followed by air as it passes through the lungs in mammals is what?",
+      "theory_answer": "trachea → bronchi → bronchioles → alveoli",
+      "difficulty": "easy"
+    },
+    {
+      "number": "23",
+      "theory_question": "The movement response of a cockroach away from a light source can be described as what?",
+      "theory_answer": "negative phototaxis",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "The vascular tissues in higher plants are responsible for what?",
+      "theory_answer": "the movement of food and water",
+      "difficulty": "medium"
+    },
+    {
+      "number": "25",
+      "theory_question": "Which of the following organs regulates the levels of water, salts, hydrogen ions and urea in the mammalian blood?",
+      "theory_answer": "Kidney",
+      "difficulty": "easy"
+    },
+    {
+      "number": "26",
+      "theory_question": "The sequence of the one-way gaseous exchange mechanism in a fish is what?",
+      "theory_answer": "mouth → gills → operculum",
+      "difficulty": "medium"
+    },
+    {
+      "number": "27",
+      "theory_question": "The type of asexual reproduction that is common to both Paramecium and protists is what?",
+      "theory_answer": "fission",
+      "difficulty": "medium"
+    },
+    {
+      "number": "28",
+      "theory_question": "In nature, plants and animals are perpetually engaged in mutualism because what?",
+      "theory_answer": "all animals rely on food produced by plants",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "In an experiment to determine the percentage of humus and water in a soil sample, the following results were obtained: Weight of the evaporating basin alone = 80.5g Weight of basin and soil = 101.5g Weight after drying the soil in the oven = 99.0g Weight of basin and roasted soil = 95.5g The percentage of humus in the soil sample is what?",
+      "theory_answer": "17.6%",
+      "difficulty": "hard"
+    },
+    {
+      "number": "30",
+      "theory_question": "An example of a filter-feeding animal is what?",
+      "theory_answer": "whale",
+      "difficulty": "easy"
+    },
+    {
+      "number": "31",
+      "theory_question": "What is a feature of the population pyramid of a developing country?",
+      "theory_answer": "short lifespan",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "The interaction of a community of organisms with its abiotic environment constitutes what?",
+      "theory_answer": "an ecosystem",
+      "difficulty": "easy"
+    },
+    {
+      "number": "33",
+      "theory_question": "The vector of the malaria parasite is what?",
+      "theory_answer": "female Anopheles mosquito",
+      "difficulty": "easy"
+    },
+    {
+      "number": "34",
+      "theory_question": "Which of the following instruments is used to measure relative humidity?",
+      "theory_answer": "Hygrometer",
+      "difficulty": "easy"
+    },
+    {
+      "number": "35",
+      "theory_question": "Exo-erythrocytic phase of the life cycle of malaria parasite occurs in the what?",
+      "theory_answer": "liver of humans",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "Habitats are generally classified into what?",
+      "theory_answer": "aquatic and terrestrial",
+      "difficulty": "easy"
+    },
+    {
+      "number": "37",
+      "theory_question": "Dracunculiasis can be contacted through what?",
+      "theory_answer": "drinking contaminated water",
+      "difficulty": "easy"
+    },
+    {
+      "number": "38",
+      "theory_question": "Which of the following groups of environmental factors are density-dependent?",
+      "theory_answer": "Food predation, disease and accumulation of metabolites",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "Millet, sorghum, maize and onions are common crops growth in Nigeria in the what?",
+      "theory_answer": "Sudan savanna",
+      "difficulty": "medium"
+    },
+    {
+      "number": "40",
+      "theory_question": "In which of the following biomes is the south western part of Nigeria located?",
+      "theory_answer": "Tropical rainforest",
+      "difficulty": "easy"
+    },
+    {
+      "number": "41",
+      "theory_question": "The inheritable characters that are determined by a gene located on the X-chromosome is what?",
+      "theory_answer": "sex-linked",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "Lack of space in a population could lead to an increase in what?",
+      "theory_answer": "birth rate",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "If the cross of a red-flowered plant with a white-flowered plant produces a pink-flowered plant, it is an example of what?",
+      "theory_answer": "incomplete dominance",
+      "difficulty": "medium"
+    },
+    {
+      "number": "44",
+      "theory_question": "Which of the following theories was NOT considered by Darwin in his evolutionary theory?",
+      "theory_answer": "Variation",
+      "difficulty": "hard"
+    },
+    {
+      "number": "45",
+      "theory_question": "The crossing of individuals of the same species with different genetic characters is what?",
+      "theory_answer": "cross breeding",
+      "difficulty": "medium"
+    },
+    {
+      "number": "46",
+      "theory_question": "The number of alleles controlling blood groups in humans is what?",
+      "theory_answer": "3",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "During blood transfusion, agglutination may occur as a result of the reaction between what?",
+      "theory_answer": "contrasting antigens and antibodies",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "The fallacy in Lamarck's evolutionary theory was the assumption that what?",
+      "theory_answer": "acquired traits are heritable",
+      "difficulty": "hard"
+    },
+    {
+      "number": "49",
+      "theory_question": "The bright coloured eye spots on the wings of moth are an example of what?",
+      "theory_answer": "mimicry",
+      "difficulty": "medium"
+    },
+    {
+      "number": "50",
+      "theory_question": "The wings of a bat and those of a bird are examples of what?",
+      "theory_answer": "divergent evolution",
+      "difficulty": "medium"
+    }
+  ],
+  "2012": [
+    {
+      "number": "1",
+      "theory_question": "What Question Paper Type of Biology is given to you?",
+      "theory_answer": "Type Red",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The organelle responsible for heredity is labelled what?",
+      "theory_answer": "II",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "The part labelled IV is the what?",
+      "theory_answer": "cell wall",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "What is most advanced in the evolutionary trend of animals?",
+      "theory_answer": "Cockroach",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "What is the lowest category of classification?",
+      "theory_answer": "Species",
+      "difficulty": "easy"
+    },
+    {
+      "number": "6",
+      "theory_question": "Plants that show secondary growth are usually found among the what?",
+      "theory_answer": "dicotyledons",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "The fungi are distinct group of eukaryotes mainly because they have what?",
+      "theory_answer": "no chlorophyll",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "An arthropod that is destructive at early stage of its life cycle is what?",
+      "theory_answer": "butterfly",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "An animal body that can be cut along its axis in any plane to give two identical parts is said to be what?",
+      "theory_answer": "radially symmetrical",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "What possesses mammary gland?",
+      "theory_answer": "whale",
+      "difficulty": "easy"
+    },
+    {
+      "number": "11",
+      "theory_question": "The feature that links birds to reptiles in evolution is the possession of what?",
+      "theory_answer": "scales",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "Countershading is an adaptive feature that enables animals to what?",
+      "theory_answer": "remain undetected",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "What plant structures lacks a waterproof cuticle?",
+      "theory_answer": "root",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "In the mammalian male reproductive system, the part that serves as a passage for both urine and semen is the what?",
+      "theory_answer": "urethra",
+      "difficulty": "easy"
+    },
+    {
+      "number": "15",
+      "theory_question": "In plants what is required in minute quantities for growth?",
+      "theory_answer": "Copper",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "What organism is both parasitic and autotrophic?",
+      "theory_answer": "Sundew",
+      "difficulty": "medium"
+    },
+    {
+      "number": "17",
+      "theory_question": "A function of the hydrochloric acid produced in the human stomach during digestion is to what?",
+      "theory_answer": "stop the action of ptyalin",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "What is a polysaccharide?",
+      "theory_answer": "Cellulose",
+      "difficulty": "easy"
+    },
+    {
+      "number": "19",
+      "theory_question": "Arrows represent directional movement materials. Transportation in the xylem is represented by what?",
+      "theory_answer": "IV",
+      "difficulty": "hard"
+    },
+    {
+      "number": "20",
+      "theory_question": "The arrow labelled II represents the what?",
+      "theory_answer": "release of oxygen",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "In the kidney of mammals, the site of ultrafiltration is the what?",
+      "theory_answer": "Bowman's capsule",
+      "difficulty": "medium"
+    },
+    {
+      "number": "22",
+      "theory_question": "What is involved in secondary thickening in plants?",
+      "theory_answer": "Vascular cambium and cork cambium",
+      "difficulty": "medium"
+    },
+    {
+      "number": "23",
+      "theory_question": "An example of a fruit that develops from a single carpel is what?",
+      "theory_answer": "bean",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "The developing embryo is usually contained in the part labelled what?",
+      "theory_answer": "II",
+      "difficulty": "hard"
+    },
+    {
+      "number": "25",
+      "theory_question": "The function of the part labelled III is to what?",
+      "theory_answer": "produce egg cells",
+      "difficulty": "medium"
+    },
+    {
+      "number": "26",
+      "theory_question": "Plant growth can be artificially stimulated by the addition of what?",
+      "theory_answer": "gibberellin",
+      "difficulty": "medium"
+    },
+    {
+      "number": "27",
+      "theory_question": "The autonomic nervous system consists of neurons that control the what?",
+      "theory_answer": "heart beat",
+      "difficulty": "medium"
+    },
+    {
+      "number": "28",
+      "theory_question": "Plants of temperate origin can be grown in tropical areas in the vegetation zones of the what?",
+      "theory_answer": "Guinea savanna",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "The water cycle is maintained mainly by what?",
+      "theory_answer": "evaporation and condensation of water in the environment",
+      "difficulty": "easy"
+    },
+    {
+      "number": "30",
+      "theory_question": "Organisms living in an estuarine habitat are adapted to what?",
+      "theory_answer": "withstand wide fluctuations in salinity",
+      "difficulty": "medium"
+    },
+    {
+      "number": "31",
+      "theory_question": "The presence of stilt roots, pneumatophores, sunken stomata and salt glands are adaptive features of plants found in the what?",
+      "theory_answer": "mangrove swamps",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "Which of the following animals can exist solely on the water they get from food and metabolic reactions?",
+      "theory_answer": "Desert dwellers",
+      "difficulty": "medium"
+    },
+    {
+      "number": "33",
+      "theory_question": "The most likely first colonizers of a bare rock are what?",
+      "theory_answer": "lichen",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "The carrying capacity of a habitat is reached when the population growth begins to what?",
+      "theory_answer": "slow down",
+      "difficulty": "medium"
+    },
+    {
+      "number": "35",
+      "theory_question": "The abiotic factors that control human population include what?",
+      "theory_answer": "temperature and disease",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "An indigenous method of renewing and maintaining soil fertility is by what?",
+      "theory_answer": "crop rotation and shifting cultivation",
+      "difficulty": "medium"
+    },
+    {
+      "number": "37",
+      "theory_question": "The diseases caused by water-borne pathogens include what?",
+      "theory_answer": "typhoid and cholera",
+      "difficulty": "easy"
+    },
+    {
+      "number": "38",
+      "theory_question": "The graph illustrates what?",
+      "theory_answer": "a continuously varying character",
+      "difficulty": "hard"
+    },
+    {
+      "number": "39",
+      "theory_question": "The largest number of cassava plants has an approximate height of what?",
+      "theory_answer": "1.6m",
+      "difficulty": "hard"
+    },
+    {
+      "number": "40",
+      "theory_question": "What is true in blood transfusion?",
+      "theory_answer": "person of blood group AB can donate blood only to another person of blood group AB",
+      "difficulty": "medium"
+    },
+    {
+      "number": "41",
+      "theory_question": "A yellow maize is planted and all the fruits obtained are of yellow seeds. When they are cross-bred, yellow seeds and white seeds are obtained in a ratio 3:1. The yellow seed is said to be what?",
+      "theory_answer": "non-heritable",
+      "difficulty": "hard"
+    },
+    {
+      "number": "42",
+      "theory_question": "When a colour-blind man marries a carrier woman. What is the probability of their offspring being colour blind?",
+      "theory_answer": "50%",
+      "difficulty": "hard"
+    },
+    {
+      "number": "43",
+      "theory_question": "The correct base pairing for DNA is what?",
+      "theory_answer": "adenine → thymine and guanine → cytosine",
+      "difficulty": "easy"
+    },
+    {
+      "number": "44",
+      "theory_question": "The type of interaction shown is referred to as what?",
+      "theory_answer": "interspecific competition",
+      "difficulty": "hard"
+    },
+    {
+      "number": "45",
+      "theory_question": "What is true of the interaction?",
+      "theory_answer": "P. aurelia is better adapted for obtaining food than P. caudatum",
+      "difficulty": "hard"
+    },
+    {
+      "number": "46",
+      "theory_question": "The short thick beak in birds is an adaptation for what?",
+      "theory_answer": "crushing seeds",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "The basking of Agama lizards in the sun is to what?",
+      "theory_answer": "attract the female for courtship",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "The significance of a very large number of termites involved in nuptial swarming is to what?",
+      "theory_answer": "provide birds with plenty of food",
+      "difficulty": "hard"
+    },
+    {
+      "number": "49",
+      "theory_question": "The use and disuse of body parts and the inheritance of acquired traits were used to explain what?",
+      "theory_answer": "Lamarck's theory",
+      "difficulty": "medium"
+    },
+    {
+      "number": "50",
+      "theory_question": "From his study of Galapagos finches, Darwin derived his theory of evolution from what?",
+      "theory_answer": "comparative embryology",
+      "difficulty": "hard"
+    }
+  ],
+  "2013": [
+    {
+      "number": "1",
+      "theory_question": "What Question Paper Type of Biology is given to you?",
+      "theory_answer": "Type B",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The process in which complex substances are broken down into simpler ones is referred to as what?",
+      "theory_answer": "catabolism",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "The organ which is sensitive to light in Euglena is the what?",
+      "theory_answer": "eyespot",
+      "difficulty": "easy"
+    },
+    {
+      "number": "4",
+      "theory_question": "The organelles present in cells that are actively respiring and photosynthesizing are what?",
+      "theory_answer": "mitochondria and chloroplast",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "Taenia solium can be found in what?",
+      "theory_answer": "pig",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "The structure labelled II is the what?",
+      "theory_answer": "clitellum",
+      "difficulty": "medium"
+    },
+    {
+    
+      "number": "7",
+      "theory_question": "The organism is found in soils rich in what?",
+      "theory_answer": "humus",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "What describes a characteristic of arthropods?",
+      "theory_answer": "the organism has a pair of jointed appendages",
+      "difficulty": "easy"
+    },
+    {
+      "number": "9",
+      "theory_question": "What distinguishes a butterfly from a moth?",
+      "theory_answer": "the wings of butterfly rest horizontally but those of moth rest vertically",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "What types of feathers is used for flight in birds?",
+      "theory_answer": "Quill",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "The plants that grow in deserts or very dry areas are referred to as what?",
+      "theory_answer": "xerophytes",
+      "difficulty": "easy"
+    },
+    {
+      "number": "12",
+      "theory_question": "What is the simplest living organism?",
+      "theory_answer": "Virus",
+      "difficulty": "easy"
+    },
+    {
+      "number": "13",
+      "theory_question": "Proboscis is a structure that is mostly found in what?",
+      "theory_answer": "insects",
+      "difficulty": "easy"
+    },
+    {
+      "number": "14",
+      "theory_question": "The structural adaptation of desert plants for water conservation is for what?",
+      "theory_answer": "spiny leaves",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "The long and sharp clawed feet of birds is an adaptation for what?",
+      "theory_answer": "grasping prey",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "During the manufacture of food by plants, which of the following organism use energy from the sun?",
+      "theory_answer": "anabaena",
+      "difficulty": "hard"
+    },
+    {
+      "number": "17",
+      "theory_question": "Movement of minerals and chemical compounds with a plant occurs during what?",
+      "theory_answer": "translocation",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "The enzyme that is present in the saliva is what?",
+      "theory_answer": "ptyalin",
+      "difficulty": "easy"
+    },
+    {
+      "number": "19",
+      "theory_question": "Plants that have special devices for trapping and digesting insects are what?",
+      "theory_answer": "carnivorous",
+      "difficulty": "easy"
+    },
+    {
+      "number": "20",
+      "theory_question": "The process of transforming the chemical energy of cellular fuels into the high energy bonds of ATP in plants is what?",
+      "theory_answer": "respiration",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "Fungi are referred to as hetotrophs because they what?",
+      "theory_answer": "lack chlorophyll",
+      "difficulty": "medium"
+    },
+    {
+      "number": "22",
+      "theory_question": "An example of a parasitic protozoan is what?",
+      "theory_answer": "Plasmodium",
+      "difficulty": "easy"
+    },
+    {
+      "number": "23",
+      "theory_question": "Which blood cell are involved in the immune response of vertebrates?",
+      "theory_answer": "lymphocytes",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "The blood circulatory system of vertebrates consists of what?",
+      "theory_answer": "heart, arteries, capillaries and veins",
+      "difficulty": "easy"
+    },
+    {
+      "number": "25",
+      "theory_question": "A plant tissue that carries water and mineral salts is the what?",
+      "theory_answer": "xylem",
+      "difficulty": "easy"
+    },
+    {
+      "number": "26",
+      "theory_question": "What helps in the clotting of blood?",
+      "theory_answer": "Platelets",
+      "difficulty": "easy"
+    },
+    {
+      "number": "27",
+      "theory_question": "What forms about 55% of the volume of the blood in man?",
+      "theory_answer": "plasma",
+      "difficulty": "medium"
+    },
+    {
+      "number": "28",
+      "theory_question": "The part of the mammalian skin involved in excretion is the what?",
+      "theory_answer": "sweat glands",
+      "difficulty": "easy"
+    },
+    {
+      "number": "29",
+      "theory_question": "What is a waste product of an insect?",
+      "theory_answer": "Uric acid",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "The main structure in vertebrates that supports and protects the body is the what?",
+      "theory_answer": "skeleton",
+      "difficulty": "easy"
+    },
+    {
+      "number": "31",
+      "theory_question": "The chitin in the exoskeleton of many arthropods is strengthened by what?",
+      "theory_answer": "calcium compounds",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "The transfer of pollen grains from the anther to a sigma is what?",
+      "theory_answer": "pollination",
+      "difficulty": "easy"
+    },
+    {
+      "number": "33",
+      "theory_question": "The male reproductive organ of a flower is the what?",
+      "theory_answer": "stamen",
+      "difficulty": "easy"
+    },
+    {
+      "number": "34",
+      "theory_question": "The gland that is found just below the hypothalamus is the what?",
+      "theory_answer": "pituitary",
+      "difficulty": "easy"
+    },
+    {
+      "number": "35",
+      "theory_question": "The most important plant hormone is what?",
+      "theory_answer": "auxin",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "The sensory cell that responds to dim light is referred to as the what?",
+      "theory_answer": "rod",
+      "difficulty": "medium"
+    },
+    {
+      "number": "37",
+      "theory_question": "The absence of anti-diuretic hormone in humans results in what?",
+      "theory_answer": "drastic dehydration",
+      "difficulty": "medium"
+    },
+    {
+      "number": "38",
+      "theory_question": "Oestrogen is a hormone that is synthesized in the what?",
+      "theory_answer": "ovaries",
+      "difficulty": "easy"
+    },
+    {
+      "number": "39",
+      "theory_question": "The eye defect that arises because the cornea is not curved smoothly is what?",
+      "theory_answer": "astigmatism",
+      "difficulty": "medium"
+    },
+    {
+      "number": "40",
+      "theory_question": "A pollutant that is biodegradable is what?",
+      "theory_answer": "sewage",
+      "difficulty": "easy"
+    },
+    {
+      "number": "41",
+      "theory_question": "A tropical disease caused by Trypanosoma is what?",
+      "theory_answer": "sleeping sickness",
+      "difficulty": "easy"
+    },
+    {
+      "number": "42",
+      "theory_question": "The solid part of the ecosystem is referred to as the what?",
+      "theory_answer": "lithosphere",
+      "difficulty": "easy"
+    },
+    {
+      "number": "43",
+      "theory_question": "What is caused by Treponema palladium?",
+      "theory_answer": "Syphilis",
+      "difficulty": "medium"
+    },
+    {
+      "number": "44",
+      "theory_question": "To which blood group do universal recipients belong?",
+      "theory_answer": "AB",
+      "difficulty": "easy"
+    },
+    {
+      "number": "45",
+      "theory_question": "The clumping together of red blood cells is what?",
+      "theory_answer": "agglutination",
+      "difficulty": "medium"
+    },
+    {
+      "number": "46",
+      "theory_question": "Physiological adaptation to very dry conditions in animals demonstrates what?",
+      "theory_answer": "aestivation",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "One of adaptation of Cactus opuntia to conserve water is the reduction of what?",
+      "theory_answer": "leaves to spine",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "What structure is adapted for feeding in a bird of prey?",
+      "theory_answer": "Hooked beak and sharp claws",
+      "difficulty": "medium"
+    },
+    {
+      "number": "49",
+      "theory_question": "The special pigment for colour change in chameleon is what?",
+      "theory_answer": "chromatophore",
+      "difficulty": "medium"
+    },
+    {
+      "number": "50",
+      "theory_question": "The behavioural adaptation in social insects could best be described as what?",
+      "theory_answer": "symbiosis",
+      "difficulty": "hard"
+    }
+  ],
+  "2014": [
+    {
+      "number": "1",
+      "theory_question": "What Question Paper Type of Biology is given to you?",
+      "theory_answer": "Type L",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The part labelled II is the what?",
+      "theory_answer": "contractile vacuole",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "The part responsible for photosynthesis is labelled what?",
+      "theory_answer": "I",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "The lowest level of organization in living organisms is what?",
+      "theory_answer": "cell",
+      "difficulty": "easy"
+    },
+    {
+      "number": "5",
+      "theory_question": "What is the most complex according to their cellular level of organization?",
+      "theory_answer": "Heart",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "The organs for attachments to the lining of the host's intestine are labelled what?",
+      "theory_answer": "I and III",
+      "difficulty": "hard"
+    },
+    {
+      "number": "7",
+      "theory_question": "The young proglottid is represented by what?",
+      "theory_answer": "I",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "What organism is multi-cellular?",
+      "theory_answer": "Spirogyra",
+      "difficulty": "easy"
+    },
+    {
+      "number": "9",
+      "theory_question": "In bryophytes, sex organs are produced in the what?",
+      "theory_answer": "gametophyte",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "Seed plants are the most dominant vegetation on land because of what?",
+      "theory_answer": "efficient seed dispersal",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "What is an arboreal organism?",
+      "theory_answer": "Bird",
+      "difficulty": "easy"
+    },
+    {
+      "number": "12",
+      "theory_question": "The part labelled I is the what?",
+      "theory_answer": "root hairs",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "The diagram is the transverse section of a what?",
+      "theory_answer": "monocotyledonous root",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "The general formula above represents that of what?",
+      "theory_answer": "a herbivore",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "A circulatory system is very essential in mammals but not in smaller organisms like Amoeba because what?",
+      "theory_answer": "diffusion is sufficient to transport materials in Amoeba",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "In vascular plants, the sieve tubes and companion cells are present in the what?",
+      "theory_answer": "phloem",
+      "difficulty": "medium"
+    },
+    {
+      "number": "17",
+      "theory_question": "The stomata of leaves are similar in function to the what?",
+      "theory_answer": "spiracle of insects",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "The use of moist skin for respiration in amphibians is known as what?",
+      "theory_answer": "cutaneous respiration",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "Water in plants is removed as water vapour through the process of what?",
+      "theory_answer": "transpiration",
+      "difficulty": "easy"
+    },
+    {
+      "number": "20",
+      "theory_question": "An example of an organ of perennation in plants is what?",
+      "theory_answer": "rhizome",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "Alternation of generation is a feature shown in what?",
+      "theory_answer": "mosses",
+      "difficulty": "medium"
+    },
+    {
+      "number": "22",
+      "theory_question": "Coordination and regulation of body activities in mammals are achieved by the what?",
+      "theory_answer": "nerves and hormones",
+      "difficulty": "easy"
+    },
+    {
+      "number": "23",
+      "theory_question": "The Cerebellum of the Brain controls what?",
+      "theory_answer": "muscular activity",
+      "difficulty": "easy"
+    },
+    {
+      "number": "24",
+      "theory_question": "The part of the brain responsible for peristalsis is the what?",
+      "theory_answer": "Medulla Oblongata",
+      "difficulty": "medium"
+    },
+    {
+      "number": "25",
+      "theory_question": "What instrument is used for measuring atmospheric pressure?",
+      "theory_answer": "Barometer",
+      "difficulty": "easy"
+    },
+    {
+      "number": "26",
+      "theory_question": "The influence of soil on organisms in a habitat is referred to as what?",
+      "theory_answer": "edaphic",
+      "difficulty": "medium"
+    },
+    {
+      "number": "27",
+      "theory_question": "The genetic make-up of an organism is described as what?",
+      "theory_answer": "genotype",
+      "difficulty": "easy"
+    },
+    {
+      "number": "28",
+      "theory_question": "The major limiting factor of productivity in the aquatic habitat is what?",
+      "theory_answer": "sunlight",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "What group of organisms feeds directly on green plants?",
+      "theory_answer": "Primary Consumers",
+      "difficulty": "easy"
+    },
+    {
+      "number": "30",
+      "theory_question": "A characteristic feature of tropical rainforest is that it what?",
+      "theory_answer": "Contains large number of plant species",
+      "difficulty": "easy"
+    },
+    {
+      "number": "31",
+      "theory_question": "The study of how and why population size change over time is what?",
+      "theory_answer": "Population dynamics",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "A severe and long dry season is a characteristic feature of what?",
+      "theory_answer": "Sudan savanna",
+      "difficulty": "medium"
+    },
+    {
+      "number": "33",
+      "theory_question": "What is a nitrogen-fixing blue-green algae of soil?",
+      "theory_answer": "Anabaena",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "The soil with highest water-retaining capacity is what?",
+      "theory_answer": "Clayey Soil",
+      "difficulty": "easy"
+    },
+    {
+      "number": "35",
+      "theory_question": "The causative agent of Poliomyelitis is what?",
+      "theory_answer": "Virus",
+      "difficulty": "easy"
+    },
+    {
+      "number": "36",
+      "theory_question": "One of the ways of controlling noise pollution in urban areas is what?",
+      "theory_answer": "by siting industries away from residential areas",
+      "difficulty": "easy"
+    },
+    {
+      "number": "37",
+      "theory_question": "A constituent of the exhaust fumes from electricity generating sets which causes serious pollution is what?",
+      "theory_answer": "Carbon (II) Oxide",
+      "difficulty": "medium"
+    },
+    {
+      "number": "38",
+      "theory_question": "What is true of small pox?",
+      "theory_answer": "It can effectively be controlled by vaccination",
+      "difficulty": "easy"
+    },
+    {
+      "number": "39",
+      "theory_question": "A pollutant that is mostly associated with acid rain is what?",
+      "theory_answer": "Nitrogen (IV) Oxide",
+      "difficulty": "medium"
+    },
+    {
+      "number": "40",
+      "theory_question": "When the adults have reach a certain degree of weakness, the process of binary fission is replaced by conjugation in what?",
+      "theory_answer": "Paramecium",
+      "difficulty": "medium"
+    },
+    {
+      "number": "41",
+      "theory_question": "Whorls, arches, loops and compounds are types of variation in what?",
+      "theory_answer": "Finger prints",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "Beriberi results from a deficiency of what?",
+      "theory_answer": "vitamin B",
+      "difficulty": "easy"
+    },
+    {
+      "number": "43",
+      "theory_question": "Bacteria which add atmospheric nitrogen to the soil are what?",
+      "theory_answer": "nitrogen fixing bacteria",
+      "difficulty": "easy"
+    },
+    {
+      "number": "44",
+      "theory_question": "The spines of the hedgehog is an adaptive feature for what?",
+      "theory_answer": "defence",
+      "difficulty": "easy"
+    },
+    {
+      "number": "45",
+      "theory_question": "The dental formula of carnivores is represented by what?",
+      "theory_answer": "I 3 3, C 1 1, pm 4 4, m 2 3",
+      "difficulty": "medium"
+    },
+    {
+      "number": "46",
+      "theory_question": "What instrument is used to measure temperature?",
+      "theory_answer": "Thermometer",
+      "difficulty": "easy"
+    },
+    {
+      "number": "47",
+      "theory_question": "In human, puffiness and water retention in the body is a possible symptom of what?",
+      "theory_answer": "kidney malfunction",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "The theory of evolution which postulates that all living organisms have a common ancestor was proposed by what?",
+      "theory_answer": "Darwin",
+      "difficulty": "easy"
+    },
+    {
+      "number": "49",
+      "theory_question": "Mammals requires roughage in their food to what?",
+      "theory_answer": "ease digestion",
+      "difficulty": "easy"
+    },
+    {
+      "number": "50",
+      "theory_question": "Variation can occur among offspring of living organism because what?",
+      "theory_answer": "zygotes are produced by cross fertilisation",
+      "difficulty": "medium"
+    }
+  ]
+}

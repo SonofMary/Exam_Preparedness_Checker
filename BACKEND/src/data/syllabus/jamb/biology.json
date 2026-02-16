@@ -1,0 +1,255 @@
+{
+  "subject": "Biology",
+  "exam": ["JAMB", "WAEC"],
+  "sections": [
+    {
+      "id": "A",
+      "title": "Variety of Organisms",
+      "description": "Study of living organisms, their characteristics, classification, evolution and adaptations.",
+      "topics": [
+        {
+          "id": "A1",
+          "title": "Living Organisms",
+          "subtopics": [
+            {
+              "title": "Characteristics of Living Things",
+              "key_points": [
+                "Movement",
+                "Respiration",
+                "Sensitivity",
+                "Growth",
+                "Reproduction",
+                "Excretion",
+                "Nutrition"
+              ],
+              "objectives": [
+                "Differentiate between living and non-living things",
+                "Identify life processes in organisms"
+              ]
+            },
+            {
+              "title": "Cell Structure and Functions",
+              "key_points": [
+                "Plant cell structure",
+                "Animal cell structure",
+                "Functions of cell organelles"
+              ],
+              "objectives": [
+                "Identify parts of plant and animal cells",
+                "Relate structure of organelles to their functions",
+                "Compare plant and animal cells"
+              ]
+            },
+            {
+              "title": "Levels of Organization",
+              "key_points": [
+                "Cell",
+                "Tissue",
+                "Organ",
+                "System",
+                "Organism"
+              ],
+              "examples": [
+                "Euglena (cell)",
+                "Hydra (tissue)",
+                "Onion bulb (organ)",
+                "Digestive system",
+                "Chlamydomonas (organism)"
+              ],
+              "objectives": [
+                "Trace the hierarchy of organization in living organisms"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "A2",
+          "title": "Evolution and Classification",
+          "subtopics": [
+            {
+              "title": "Monera",
+              "examples": ["Bacteria", "Blue-green algae"],
+              "key_features": [
+                "Prokaryotic",
+                "No true nucleus"
+              ]
+            },
+            {
+              "title": "Protista",
+              "examples": ["Amoeba", "Euglena", "Paramecium"],
+              "key_features": [
+                "Unicellular",
+                "Eukaryotic"
+              ]
+            },
+            {
+              "title": "Fungi",
+              "examples": ["Mushroom", "Rhizopus"],
+              "key_features": [
+                "Saprophytic nutrition",
+                "Spore reproduction"
+              ]
+            },
+            {
+              "title": "Plantae",
+              "subgroups": [
+                "Thallophyta",
+                "Bryophyta",
+                "Pteridophyta",
+                "Spermatophyta"
+              ]
+            },
+            {
+              "title": "Animalia",
+              "groups": [
+                "Invertebrates",
+                "Vertebrates"
+              ]
+            }
+          ],
+          "objectives": [
+            "Trace evolutionary trends",
+            "Relate complexity to advancement"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "B",
+      "title": "Form and Functions",
+      "topics": [
+        {
+          "id": "B1",
+          "title": "Nutrition",
+          "subtopics": [
+            {
+              "title": "Modes of Nutrition",
+              "types": [
+                "Autotrophic",
+                "Heterotrophic"
+              ]
+            },
+            {
+              "title": "Photosynthesis",
+              "key_points": [
+                "Light reaction",
+                "Dark reaction",
+                "Importance of chlorophyll",
+                "Raw materials"
+              ],
+              "objectives": [
+                "Explain photosynthesis",
+                "Identify conditions necessary for photosynthesis"
+              ]
+            },
+            {
+              "title": "Animal Nutrition",
+              "key_points": [
+                "Classes of food",
+                "Digestive enzymes",
+                "Alimentary canal"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "B2",
+          "title": "Respiration",
+          "subtopics": [
+            {
+              "title": "Aerobic Respiration",
+              "key_points": [
+                "Glycolysis",
+                "Krebs cycle",
+                "ATP production"
+              ]
+            },
+            {
+              "title": "Anaerobic Respiration",
+              "examples": ["Yeast fermentation"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "C",
+      "title": "Ecology",
+      "topics": [
+        {
+          "id": "C1",
+          "title": "Ecosystem",
+          "subtopics": [
+            {
+              "title": "Food Chain and Food Web",
+              "key_points": [
+                "Producers",
+                "Consumers",
+                "Decomposers"
+              ]
+            },
+            {
+              "title": "Nutrient Cycles",
+              "types": [
+                "Carbon cycle",
+                "Nitrogen cycle",
+                "Water cycle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "D",
+      "title": "Heredity and Variation",
+      "topics": [
+        {
+          "id": "D1",
+          "title": "Variation",
+          "types": [
+            "Continuous variation",
+            "Discontinuous variation"
+          ]
+        },
+        {
+          "id": "D2",
+          "title": "Genetics",
+          "key_points": [
+            "Chromosomes",
+            "DNA",
+            "Inheritance",
+            "Sex-linked traits"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "E",
+      "title": "Evolution",
+      "topics": [
+        {
+          "title": "Theories of Evolution",
+          "theories": [
+            "Lamarck",
+            "Darwin",
+            "Modern evolutionary theory"
+          ]
+        },
+        {
+          "title": "Evidence of Evolution",
+          "evidence": [
+            "Fossil records",
+            "Comparative anatomy",
+            "Embryology",
+            "Genetics"
+          ]
+        }
+      ]
+    }
+  ]
+}
