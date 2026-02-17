@@ -1,0 +1,3138 @@
+{
+  "1983": [
+    {
+      "number": "1",
+      "theory_question": "X is a crystalline salt of sodium. Solution of X in water turns litmus red and produces a gas which turns lime water milky when added to sodium carbonate. With barium chloride solution, X gives a white precipitate which is insoluble in dilute hydrochloric acid. What is X?",
+      "theory_answer": "NaHSO₄",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "The alkanol obtained from the production of soap is what?",
+      "theory_answer": "glycerol",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The flame used by welders in cutting metals is what?",
+      "theory_answer": "oxy-acetylene flame",
+      "difficulty": "easy"
+    },
+    {
+      "number": "4",
+      "theory_question": "Consecutive members of an alkane homologous series differ by what?",
+      "theory_answer": "CH₂",
+      "difficulty": "easy"
+    },
+    {
+      "number": "5",
+      "theory_question": "If an element has the electronic configuration 1s² 2s² 2p⁶ 3s² 3p², it is what?",
+      "theory_answer": "a p-block element",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "Some copper(II) sulphate pentahydrate (CuSO₄·5H₂O) was heated at 120°C. Weight of crucible = 10.00 g; weight of crucible + CuSO₄·5H₂O = 14.98 g; weight of crucible + residue = 13.54 g. How many molecules of water of crystallization were lost? [H=1, Cu=63.5, O=16, S=32]",
+      "theory_answer": "4",
+      "difficulty": "hard"
+    },
+    {
+      "number": "7",
+      "theory_question": "The three-dimensional shape of methane is what?",
+      "theory_answer": "tetrahedral",
+      "difficulty": "easy"
+    },
+    {
+      "number": "8",
+      "theory_question": "Compound W formed from the reaction of Y with ethanoic acid is what?",
+      "theory_answer": "an ester",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "The molecular formula of X is what?",
+      "theory_answer": "C₆H₁₂O₆",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "The reaction of X with yeast forms the basis of what industry?",
+      "theory_answer": "brewing industry",
+      "difficulty": "easy"
+    },
+    {
+      "number": "11",
+      "theory_question": "A mixture of common salt, ammonium chloride and barium sulphate can best be separated by what?",
+      "theory_answer": "sublimation followed by addition of water then filtration",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "Which of the following relationships between the pressure P, the volume V and the temperature T represents ideal gas behaviour?",
+      "theory_answer": "P ∝ V/T",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "In the experiment with the solid ammonium chloride and damp litmus papers, the litmus paper will initially do what?",
+      "theory_answer": "turn red",
+      "difficulty": "easy"
+    },
+    {
+      "number": "14",
+      "theory_question": "The colour imparted to a flame by calcium ion is what?",
+      "theory_answer": "brick-red",
+      "difficulty": "easy"
+    },
+    {
+      "number": "15",
+      "theory_question": "In the reaction M + N ⇌ P; ΔH = +Q kJ, which of the following would increase the concentration of the product?",
+      "theory_answer": "Decreasing the temperature",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "In which of the following processes is iron being oxidized? 1. Fe + H₂SO₄ → H₂ + FeSO₄ 2. FeSO₄ + H₂S → FeS + H₂SO₄ 3. FeCl₂ + Cl₂ → 2FeCl₃ 4. FeCl₃ + SnCl₂ → 2FeCl₂ + SnCl₄",
+      "theory_answer": "1 and 3",
+      "difficulty": "hard"
+    },
+    {
+      "number": "17",
+      "theory_question": "A current was passed for 10 minutes and 0.63 g of copper was deposited on the cathode of a CuSO₄ cell. The weight of silver deposited in the AgNO₃ cell during the same period would be what? [Cu=63, Ag=108]",
+      "theory_answer": "1.62 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "18",
+      "theory_question": "In the reaction Fe + Cu²⁺ → Fe²⁺ + Cu, iron displaces copper ions to form copper. This is due to the fact that what?",
+      "theory_answer": "iron is higher in the electrochemical series than copper",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "The correct name of the compound with the structural formula CH₃-CH₂-C(CH₃)=CH₂ is what?",
+      "theory_answer": "2-methylbut-1-ene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "How many isomeric forms are there for the molecular formula C₄H₈Br₂?",
+      "theory_answer": "3",
+      "difficulty": "hard"
+    },
+    {
+      "number": "21",
+      "theory_question": "A piece of burning sulphur will continue to burn in a gas jar of oxygen to give misty fumes which readily dissolve in water. The resulting liquid is what?",
+      "theory_answer": "tetraoxosulphate(VI) acid",
+      "difficulty": "medium"
+    },
+    {
+      "number": "22",
+      "theory_question": "Sodium decahydrate (Na₂SO₄·10H₂O) on exposure to air loses all its water of crystallization. The process of loss is known as what?",
+      "theory_answer": "efflorescence",
+      "difficulty": "easy"
+    },
+    {
+      "number": "23",
+      "theory_question": "Which of the following happens during the electrolysis of molten sodium chloride?",
+      "theory_answer": "chloride ion is oxidized",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "Crude petroleum pollutant usually seen on some Nigerian creeks and waterways can be dispersed or removed by what?",
+      "theory_answer": "spraying the water with detergents",
+      "difficulty": "medium"
+    },
+    {
+      "number": "25",
+      "theory_question": "An element is electronegative if what?",
+      "theory_answer": "it has a tendency to gain electrons",
+      "difficulty": "easy"
+    },
+    {
+      "number": "26",
+      "theory_question": "Solution X, Y, and Z have pH values 3.0, 5.0 and 9.0 respectively. Which of the following statements is correct?",
+      "theory_answer": "Z is the least acidic",
+      "difficulty": "medium"
+    },
+    {
+      "number": "27",
+      "theory_question": "In the reactions (I) H₂(g) + ½O₂(g) → H₂O(l); ΔH = -286 kJ (II) C(s) + O₂(g) → CO₂(g); ΔH = -406 kJ the equations imply that what?",
+      "theory_answer": "more heat is evolved in (II)",
+      "difficulty": "hard"
+    },
+    {
+      "number": "28",
+      "theory_question": "Which of these metals, Mg, Fe, Pb, and Cu will dissolve in dilute HCl?",
+      "theory_answer": "Mg and Fe only",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "Stainless steel is an alloy of what?",
+      "theory_answer": "carbon, iron and chromium",
+      "difficulty": "easy"
+    },
+    {
+      "number": "30",
+      "theory_question": "What volume of 0.50 M H₂SO₄ will exactly neutralize 20 cm³ of 0.1 M NaOH solution?",
+      "theory_answer": "10.4 cm³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "31",
+      "theory_question": "Which of the following pair of gases will NOT react further with oxygen at a temperature between 30°C and 400°C?",
+      "theory_answer": "CO and H₂",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "Some metals are extracted from their ores after some preliminary treatments by electrolysis (L), some by thermal reaction (T) and some by a combination of both processes (TL). Which set-up is correct for the extraction of iron, copper and aluminium?",
+      "theory_answer": "Iron (L), copper (T), aluminium (T)",
+      "difficulty": "hard"
+    },
+    {
+      "number": "33",
+      "theory_question": "In the preparation of some pure crystals of Cu(NO₃)₂ starting with CuO, a student gave the following statements as steps he employed. Which of these shows a flaw in his report?",
+      "theory_answer": "Some CuO was reacted with excess dilute H₂SO₄",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "Which of the following separation processes is most likely to yield high quality ethanol (>95%) from palm wine?",
+      "theory_answer": "Fractional distillation with a dehydrant",
+      "difficulty": "medium"
+    },
+    {
+      "number": "35",
+      "theory_question": "Increasing the pressure of a gas does what?",
+      "theory_answer": "increases the density of the gas",
+      "difficulty": "easy"
+    },
+    {
+      "number": "36",
+      "theory_question": "2.5 g of a hydrated barium salt gave on heating 2.13 g of the anhydrous salt. Given that the relative molecular mass of the anhydrous salt is 208, the number of molecules of water of crystallization of the barium salt is what?",
+      "theory_answer": "2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "37",
+      "theory_question": "3.06 g of a sample of potassium trioxochlorate(V) (KClO₃) was required to make a saturated solution with 10 cm³ of water at 25°C. The solubility of the salt at 25°C is what? [K=39, Cl=35.5, O=16]",
+      "theory_answer": "3.0 moles dm⁻³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "38",
+      "theory_question": "The cracking process is very important in the petroleum industry because it does what?",
+      "theory_answer": "yields more engine fuels",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "A gas that can behave as a reducing agent towards chlorine and as an oxidizing agent toward hydrogen sulphide is what?",
+      "theory_answer": "SO₂",
+      "difficulty": "medium"
+    },
+    {
+      "number": "40",
+      "theory_question": "Which of the following solution will give a white precipitate with barium chloride solution and a green flame test?",
+      "theory_answer": "CuSO₄",
+      "difficulty": "medium"
+    },
+    {
+      "number": "41",
+      "theory_question": "The mass of an atom is determined by what?",
+      "theory_answer": "the number of neutrons and protons",
+      "difficulty": "easy"
+    },
+    {
+      "number": "42",
+      "theory_question": "Which of the following is a neutralization reaction?",
+      "theory_answer": "Addition of trioxonitrate(V) acid (nitric acid) to potassium hydroxide solution",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "A jet plane carrying 3,000 kg of ethane burns off all the gas forming water and carbon dioxide. If all the carbon dioxide is expelled and the water formed is condensed and kept on board the plane, then the gain in weight is what?",
+      "theory_answer": "900 kg",
+      "difficulty": "hard"
+    },
+    {
+      "number": "44",
+      "theory_question": "Liquid X reacts with sodium trioxocarbonate(IV) (Na₂CO₃) to give a gas which turns calcium chloride solution milky. X is what?",
+      "theory_answer": "an acid",
+      "difficulty": "easy"
+    },
+    {
+      "number": "45",
+      "theory_question": "Which of the following statements is FALSE?",
+      "theory_answer": "Sodium metal dissolves in water giving oxygen",
+      "difficulty": "medium"
+    },
+    {
+      "number": "46",
+      "theory_question": "When sodium dioxonitrate(III) (NaNO₂) dissolves in water, the process is what?",
+      "theory_answer": "endothermic",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "The equilibrium reaction between copper(I) chloride and chlorine at 25°C and 1 atmosphere is represented by the equation 2CuCl + Cl₂ ⇌ 2CuCl₂, ΔH = -166 kJ. Which of the following statements is TRUE for the reaction, pressure remaining constant?",
+      "theory_answer": "More CuCl₂ is formed at 40°C",
+      "difficulty": "hard"
+    },
+    {
+      "number": "48",
+      "theory_question": "Zn + H₂SO₄ → ZnSO₄ + H₂. The rate of the above reaction will be greatly increased if what?",
+      "theory_answer": "the zinc is in the powdered form",
+      "difficulty": "medium"
+    },
+    {
+      "number": "49",
+      "theory_question": "Zn + H₂SO₄ → ZnSO₄ + H₂. In the above reaction how much zinc will be left undissolved if 2.00 g of zinc is treated with 10 cm³ of 1.0 M H₂SO₄? [Zn=65, S=32, O=16, H=1]",
+      "theory_answer": "0.06 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "50",
+      "theory_question": "30 cm³ of 0.1 M Al(NO₃)₃ solution is reacted with 100 cm³ of 0.15 M NaOH solution. Which is in excess and by how much?",
+      "theory_answer": "NaOH solution, by 60 cm³",
+      "difficulty": "hard"
+    }
+  ],
+  "1984": [
+    {
+      "number": "1",
+      "theory_question": "Sodium chloride may be obtained from brine by what?",
+      "theory_answer": "evaporation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "20 cm³ of hydrogen gas are sparked with 20 cm³ of oxygen gas in an eudiometer at 373 K (100°C) and 1 atmosphere. The resulting mixture is cooled to 298 K (25°C) and passed over calcium chloride. The volume of the residual gas is what?",
+      "theory_answer": "10 cm³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "3",
+      "theory_question": "For the reaction NH₄NO₂ → N₂ + 2H₂O calculate the volume of nitrogen that would be produced at S.T.P. from 3.20 g of the trioxonitrate(III) salt.",
+      "theory_answer": "2.24 dm³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "4",
+      "theory_question": "Manganese(IV) oxide reacts with concentrated hydrochloric acid according to the equation MnO₂ + xHCl → MnCl₂ + Cl₂ + yH₂O. x and y are what?",
+      "theory_answer": "4 and 2 respectively",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "A molar solution of caustic soda is prepared by dissolving what?",
+      "theory_answer": "40 g NaOH in 1000 g of water",
+      "difficulty": "medium"
+    }
+  ],
+  "1985": [
+    {
+      "number": "1",
+      "theory_question": "Figure shows part of the periodic Table. Which of the elements belongs to the p-block?",
+      "theory_answer": "V, W and X",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "Which of the following conducts electricity?",
+      "theory_answer": "Graphite",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "An organic compound contains 72% carbon, 12% hydrogen and 16% oxygen by mass. The empirical formula of the compound is what?",
+      "theory_answer": "C₃H₆O",
+      "difficulty": "hard"
+    },
+    {
+      "number": "4",
+      "theory_question": "0.499 g of CuSO₄·xH₂O when heated to constant weight gave a residue of 0.346 g. The value of x is what?",
+      "theory_answer": "5",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "In an experiment which of the following observation would suggest that a solid sample is a mixture?",
+      "theory_answer": "The solid absorbs moisture from the atmosphere and turns into a liquid",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "Hydrogen diffuses through a porous plug how many times as fast as oxygen?",
+      "theory_answer": "four times",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "Given the molecular mass of iron is 56 and that of oxygen is 16, how many moles of Iron (III) oxide will be contained in 1 kg of the compound?",
+      "theory_answer": "6.25 moles",
+      "difficulty": "hard"
+    },
+    {
+      "number": "8",
+      "theory_question": "3.0 g of a mixture of potassium carbonate and potassium chloride were dissolved in a 250 cm³ standard flask. 25 cm³ of this solution required 40.00 cm³ of 0.1 M HCl for neutralization. What is the percentage by weight of K₂CO₃ in the mixture?",
+      "theory_answer": "60",
+      "difficulty": "hard"
+    },
+    {
+      "number": "9",
+      "theory_question": "At room temperature (300 K), from the solubility curves of salts X and Y, which is twice as soluble as the other?",
+      "theory_answer": "Y is twice as soluble as X",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "If 80 g each of X and Y are taken up in 100 g of water at 353 K, we shall have what?",
+      "theory_answer": "only 16 g of Y undissolved",
+      "difficulty": "hard"
+    },
+    {
+      "number": "11",
+      "theory_question": "If the molar mass of X is 36 g, the number of moles of X dissolved at 343 K is what?",
+      "theory_answer": "2.0 moles",
+      "difficulty": "hard"
+    },
+    {
+      "number": "12",
+      "theory_question": "Some properties of chemical substances are mentioned below: (i) sour taste (ii) slippery to touch (iii) yields alkaline gas with ammonium salts (iv) has pH less than 7 (v) turns phenolphthalein pink. Which of the above are NOT typical properties of alkalis?",
+      "theory_answer": "(i), (iv) and (v)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "A certain volume of a gas at 298 K is heated such that its volume and pressure are now four times the original values. What is the new temperature?",
+      "theory_answer": "1192.0 K",
+      "difficulty": "hard"
+    },
+    {
+      "number": "14",
+      "theory_question": "Hydrogen is not liberated when trioxonitrate(V) acid reacts with zinc because what?",
+      "theory_answer": "oxides of nitrogen are produced",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "The boiling points of water, ethanol, toluene and butan-2-ol are 373.0 K, 351.3 K, 383.6 K and 372.5 K respectively. Which liquid has the highest vapour pressure at 323.0 K?",
+      "theory_answer": "ethanol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "In what respect will two dry samples of nitrogen gas differ from each other if sample 1 is prepared by completely removing CO₂ and O₂ from air and sample 2 is prepared by passing purified nitrogen(I) oxide over heated copper? Sample 1 is what?",
+      "theory_answer": "slightly denser than sample 2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "17",
+      "theory_question": "Copper sulphate solution is electrolyzed using platinum electrodes. A current of 0.193 amperes is passed for 2 hrs. How many grams of copper are deposited?",
+      "theory_answer": "0.914 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "18",
+      "theory_question": "X + Y ⇌ Z is an equilibrium reaction. The addition of a catalyst does what?",
+      "theory_answer": "increases the rate of change in concentrations of X, Y and Z",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "What is the formula of sodium gallate if gallium (Ga) shows an oxidation number of +3?",
+      "theory_answer": "NaGaO₂",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "If the ONLY pollutants found in the atmosphere over a city are oxides of nitrogen, suspended lead compounds, carbon monoxide and high level of methane, the probable source(s) of the pollution must be what?",
+      "theory_answer": "automobile exhaust and biological decomposition",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "A correct electrochemical series can be obtained from K, Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging what?",
+      "theory_answer": "Zn and Pb",
+      "difficulty": "hard"
+    },
+    {
+      "number": "22",
+      "theory_question": "A certain industrial process is represented by the chemical equation 2A(g) + B(g) ⇌ 3D(g) + H = X kJ mol⁻¹. Which of the following conditions will favour the yield of the product?",
+      "theory_answer": "Decrease in temperature, increase in pressure",
+      "difficulty": "hard"
+    },
+    {
+      "number": "23",
+      "theory_question": "2MnO₄⁻ + 10Cl⁻ + 16H⁺ → 2Mn²⁺ + 5Cl₂ + 8H₂O, which of the substances serves as an oxidizing agent?",
+      "theory_answer": "MnO₄⁻",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "In the reaction H₂(g) + ½O₂(g) → H₂O(l) ΔH = -286 kJ, which of the following has no effect on the equilibrium position?",
+      "theory_answer": "Adding argon to the system",
+      "difficulty": "medium"
+    },
+    {
+      "number": "25",
+      "theory_question": "Which of the following metals will displace iron from a solution of iron(II) tetraoxosulphate(VI)?",
+      "theory_answer": "Zinc",
+      "difficulty": "easy"
+    },
+    {
+      "number": "26",
+      "theory_question": "Complete hydrogenation of ethyne yields what?",
+      "theory_answer": "ethane",
+      "difficulty": "easy"
+    },
+    {
+      "number": "27",
+      "theory_question": "Which of the following is used in the manufacture of bleaching powder?",
+      "theory_answer": "chlorine",
+      "difficulty": "easy"
+    },
+    {
+      "number": "28",
+      "theory_question": "A man suspected to be drunk is made to pass his breath into acidified potassium dichromate solution. If his breath carries a significant level of ethanol, the final colour of the solution is what?",
+      "theory_answer": "green",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "When pollen grains are suspended in water and viewed through a microscope, they appear to be in a state of constant but erratic motion. This is due to what?",
+      "theory_answer": "the bombardment of the pollen grains by molecules of water",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "The energy change (ΔH) for the reaction CO(g) + ½O₂(g) → CO₂(g) is what?",
+      "theory_answer": "-283 kJ",
+      "difficulty": "hard"
+    },
+    {
+      "number": "31",
+      "theory_question": "The product formed on hydrolysis of CH₃COOCH₂CH₃ in acid (HCl) is what?",
+      "theory_answer": "CH₃COOH + CH₃CH₂OH",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "The neutralization reaction between NaOH solution and nitrogen(IV) oxide (NO₂) produces water and what?",
+      "theory_answer": "NaNO₂ and NaNO₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "33",
+      "theory_question": "The oxidation of CH₃CH=CHCHO gives what?",
+      "theory_answer": "butanoic acid",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "Tetraoxosulphate(VI) ions are finally tested using what?",
+      "theory_answer": "acidified barium chloride",
+      "difficulty": "easy"
+    },
+    {
+      "number": "35",
+      "theory_question": "The IUPAC name for the compound CH₃CH₂CH=C(CH₃)CH₃ is what?",
+      "theory_answer": "2-methylpent-2-ene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "Mixing of aqueous solution of barium hydroxide and sodium tetraoxocarbonate(IV) yields a white precipitate of what?",
+      "theory_answer": "barium tetraoxocarbonate(IV)",
+      "difficulty": "easy"
+    },
+    {
+      "number": "37",
+      "theory_question": "An organic compound decolorized acidified KMnO₄ solution but failed to react with ammoniacal silver nitrate solution. The organic compound is likely to be what?",
+      "theory_answer": "an alkene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "38",
+      "theory_question": "Solid sodium hydroxide on exposure to air absorbs a gas and ultimately gives another alkaline substance with the molecular formula what?",
+      "theory_answer": "Na₂CO₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "Which of the following is the functional group of carboxylic acids?",
+      "theory_answer": "-COOH",
+      "difficulty": "easy"
+    },
+    {
+      "number": "40",
+      "theory_question": "Which of the following substances is the most abundant in the universe?",
+      "theory_answer": "Hydrogen",
+      "difficulty": "easy"
+    },
+    {
+      "number": "41",
+      "theory_question": "A colourless organic compound X was burnt in excess air to give two colourless and odourless gases, Y and Z, as products. X does not decolorize bromine vapour; Y turns lime milky while Z gives a blue colour with copper(II) tetraoxosulphate(VI). Compound X is what?",
+      "theory_answer": "an alkane",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "Y and Z are respectively what?",
+      "theory_answer": "CO₂ and H₂O",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "Which of the following compounds is NOT the correct product formed when the parent metal is heated in air?",
+      "theory_answer": "Sodium oxide (Na₂O)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "44",
+      "theory_question": "The atomic number of an element whose cation, X²⁺, has the ground state electronic configuration 1s² 2s² 2p⁶ 3s² 3p⁶ is what?",
+      "theory_answer": "20",
+      "difficulty": "medium"
+    },
+    {
+      "number": "45",
+      "theory_question": "When marble is heated to 1473 K, another whiter solid is obtained which reacts vigorously with water to give an alkaline solution. The solution contains what?",
+      "theory_answer": "Ca(OH)₂",
+      "difficulty": "easy"
+    },
+    {
+      "number": "46",
+      "theory_question": "Addition of dilute hydrochloric acid to an aqueous solution of a crystalline salt yielded a yellow precipitate and a gas which turned dichromate paper green. The crystalline salt was probably what?",
+      "theory_answer": "Na₂S",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "The process involved in the conversion of an oil into margarine is known as what?",
+      "theory_answer": "hydrogenation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "48",
+      "theory_question": "An aqueous solution of an inorganic salt gave white precipitate (i) soluble in excess aqueous NaOH (ii) insoluble in excess aqueous NH₃ (iii) with dilute HCl. The cation present in the inorganic salt is what?",
+      "theory_answer": "Pb²⁺",
+      "difficulty": "hard"
+    },
+    {
+      "number": "49",
+      "theory_question": "Which of the following roles does sodium chloride play in soap preparation? It what?",
+      "theory_answer": "separates the soap from the glycerol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "50",
+      "theory_question": "The function of sulphur during the vulcanization of rubber is to what?",
+      "theory_answer": "form chains which bind rubber molecules together",
+      "difficulty": "medium"
+    }
+  ],
+  "1986": [
+    {
+      "number": "1",
+      "theory_question": "The movement of liquid molecules from the surface of the liquid to the gaseous phase above it is known as what?",
+      "theory_answer": "evaporation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "What mass of a divalent metal M (atomic mass = 40) would react with excess hydrochloric acid to liberate 22 cm³ of dry hydrogen gas measured at S.T.P.? [G.M.V = 22.4 dm³]",
+      "theory_answer": "0.4 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "3",
+      "theory_question": "10 cm³ of hydrogen fluoride gas reacts with 5 cm³ of dinitrogen difluoride gas (N₂F₂) to form 10 cm³ of a single gas. Which of the following is the most likely equation to the reaction?",
+      "theory_answer": "2HF + N₂F₂ → N₂H₂F₄",
+      "difficulty": "hard"
+    },
+    {
+      "number": "4",
+      "theory_question": "The number of atoms of chlorine present in 5.85 g of NaCl is what? [Na=23, Cl=35.5, Avogadro's Number = 6.02 × 10²³]",
+      "theory_answer": "6.02 × 10²²",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "How much of magnesium is required to react with 250 cm³ of 0.5 M HCl? [Mg=24]",
+      "theory_answer": "3.0 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "6",
+      "theory_question": "200 cm³ of oxygen diffuse through a porous plug in 50 seconds. How long will 80 cm³ of methane (CH₄) take to diffuse through the same porous plug under the same conditions? [C=12, O=16, H=1]",
+      "theory_answer": "20 sec",
+      "difficulty": "hard"
+    },
+    {
+      "number": "7",
+      "theory_question": "The relationship between the velocity (U) of gas molecules and their relative molecular mass (M) is shown by the equation what?",
+      "theory_answer": "U = (k/M)¹/²",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "An element with atomic number twelve is likely to be what?",
+      "theory_answer": "electrovalent with a valency of 2",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "Which of the following group of physical properties increases from left to right of the periodic table? 1. Ionization energy 2. Atomic radius 3. Electronegativity 4. Electron affinity",
+      "theory_answer": "1, 3 and 4",
+      "difficulty": "hard"
+    },
+    {
+      "number": "10",
+      "theory_question": "When 50 cm³ of a saturated solution of sugar (molar mass 342.0 g) at 40°C was evaporated to dryness, 34.2 g dry of solid was obtained. The solubility of sugar at 40°C is what?",
+      "theory_answer": "2.0 moles dm⁻³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "11",
+      "theory_question": "In the solubility curve above, water at 98°C is saturated with KCl. What impurity in the crystals formed when the solution is cooled to 30°C?",
+      "theory_answer": "NaHSO₄, pH < 5",
+      "difficulty": "hard"
+    },
+    {
+      "number": "12",
+      "theory_question": "Some properties of chemical substances are mentioned below (i) sour taste (ii) slippery to touch (iii) yields alkaline gas with ammonium salts (iv) has pH less than 7 (v) turns phenolphthalein pink. Which of the above are NOT typical properties of alkalis?",
+      "theory_answer": "(i), (iv) and (v)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "A certain volume of a gas at 298 K is heated such that its volume and pressure are now four times the original values. What is the new temperature?",
+      "theory_answer": "1192.0 K",
+      "difficulty": "hard"
+    },
+    {
+      "number": "14",
+      "theory_question": "Hydrogen is not liberated when trioxonitrate(V) acid reacts with zinc because what?",
+      "theory_answer": "oxides of nitrogen are produced",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "The boiling points of water, ethanol, toluene and butan-2-ol are 373.0 K, 351.3 K, 383.6 K and 372.5 K respectively. Which liquid has the highest vapour pressure at 323.0 K?",
+      "theory_answer": "ethanol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "In what respect will two dry samples of nitrogen gas differ from each other if sample 1 is prepared by completely removing CO₂ and O₂ from air and sample 2 is prepared by passing purified nitrogen(I) oxide over heated copper? Sample 1 is what?",
+      "theory_answer": "slightly denser than sample 2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "17",
+      "theory_question": "Copper sulphate solution is electrolyzed using platinum electrodes. A current of 0.193 amperes is passed for 2 hrs. How many grams of copper are deposited?",
+      "theory_answer": "0.914 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "18",
+      "theory_question": "X + Y ⇌ Z is an equilibrium reaction. The addition of a catalyst does what?",
+      "theory_answer": "increases the rate of change in concentrations of X, Y and Z",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "What is the formula of sodium gallate if gallium (Ga) shows an oxidation number of +3?",
+      "theory_answer": "NaGaO₂",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "If the ONLY pollutants found in the atmosphere over a city are oxides of nitrogen, suspended lead compounds, carbon monoxide and high level of methane, the probable source(s) of the pollution must be what?",
+      "theory_answer": "automobile exhaust and biological decomposition",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "A correct electrochemical series can be obtained from K, Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging what?",
+      "theory_answer": "Zn and Pb",
+      "difficulty": "hard"
+    },
+    {
+      "number": "22",
+      "theory_question": "A certain industrial process is represented by the chemical equation 2A(g) + B(g) ⇌ 3D(g) + H = X kJ mol⁻¹. Which of the following conditions will favour the yield of the product?",
+      "theory_answer": "Decrease in temperature, increase in pressure",
+      "difficulty": "hard"
+    },
+    {
+      "number": "23",
+      "theory_question": "2MnO₄⁻ + 10Cl⁻ + 16H⁺ → 2Mn²⁺ + 5Cl₂ + 8H₂O, which of the substances serves as an oxidizing agent?",
+      "theory_answer": "MnO₄⁻",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "In the reaction H₂(g) + ½O₂(g) → H₂O(l) ΔH = -286 kJ, which of the following has no effect on the equilibrium position?",
+      "theory_answer": "Adding argon to the system",
+      "difficulty": "medium"
+    },
+    {
+      "number": "25",
+      "theory_question": "Which of the following metals will displace iron from a solution of iron(II) tetraoxosulphate(VI)?",
+      "theory_answer": "Zinc",
+      "difficulty": "easy"
+    },
+    {
+      "number": "26",
+      "theory_question": "Complete hydrogenation of ethyne yields what?",
+      "theory_answer": "ethane",
+      "difficulty": "easy"
+    },
+    {
+      "number": "27",
+      "theory_question": "Which of the following is used in the manufacture of bleaching powder?",
+      "theory_answer": "chlorine",
+      "difficulty": "easy"
+    },
+    {
+      "number": "28",
+      "theory_question": "A man suspected to be drunk is made to pass his breath into acidified potassium dichromate solution. If his breath carries a significant level of ethanol, the final colour of the solution is what?",
+      "theory_answer": "green",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "When pollen grains are suspended in water and viewed through a microscope, they appear to be in a state of constant but erratic motion. This is due to what?",
+      "theory_answer": "the bombardment of the pollen grains by molecules of water",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "The energy change (ΔH) for the reaction CO(g) + ½O₂(g) → CO₂(g) is what?",
+      "theory_answer": "-283 kJ",
+      "difficulty": "hard"
+    },
+    {
+      "number": "31",
+      "theory_question": "The product formed on hydrolysis of CH₃COOCH₂CH₃ in acid (HCl) is what?",
+      "theory_answer": "CH₃COOH + CH₃CH₂OH",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "The neutralization reaction between NaOH solution and nitrogen(IV) oxide (NO₂) produces water and what?",
+      "theory_answer": "NaNO₂ and NaNO₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "33",
+      "theory_question": "The oxidation of CH₃CH=CHCHO gives what?",
+      "theory_answer": "butanoic acid",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "Tetraoxosulphate(VI) ions are finally tested using what?",
+      "theory_answer": "acidified barium chloride",
+      "difficulty": "easy"
+    },
+    {
+      "number": "35",
+      "theory_question": "The IUPAC name for the compound CH₃CH₂CH=C(CH₃)CH₃ is what?",
+      "theory_answer": "2-methylpent-2-ene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "Mixing of aqueous solution of barium hydroxide and sodium tetraoxocarbonate(IV) yields a white precipitate of what?",
+      "theory_answer": "barium tetraoxocarbonate(IV)",
+      "difficulty": "easy"
+    },
+    {
+      "number": "37",
+      "theory_question": "An organic compound decolorized acidified KMnO₄ solution but failed to react with ammoniacal silver nitrate solution. The organic compound is likely to be what?",
+      "theory_answer": "an alkene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "38",
+      "theory_question": "Solid sodium hydroxide on exposure to air absorbs a gas and ultimately gives another alkaline substance with the molecular formula what?",
+      "theory_answer": "Na₂CO₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "Which of the following is the functional group of carboxylic acids?",
+      "theory_answer": "-COOH",
+      "difficulty": "easy"
+    },
+    {
+      "number": "40",
+      "theory_question": "Which of the following substances is the most abundant in the universe?",
+      "theory_answer": "Hydrogen",
+      "difficulty": "easy"
+    },
+    {
+      "number": "41",
+      "theory_question": "A colourless organic compound X was burnt in excess air to give two colourless and odourless gases, Y and Z, as products. X does not decolorize bromine vapour; Y turns lime milky while Z gives a blue colour with copper(II) tetraoxosulphate(VI). Compound X is what?",
+      "theory_answer": "an alkane",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "Y and Z are respectively what?",
+      "theory_answer": "CO₂ and H₂O",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "Which of the following compounds is NOT the correct product formed when the parent metal is heated in air?",
+      "theory_answer": "Sodium oxide (Na₂O)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "44",
+      "theory_question": "The atomic number of an element whose cation, X²⁺, has the ground state electronic configuration 1s² 2s² 2p⁶ 3s² 3p⁶ is what?",
+      "theory_answer": "20",
+      "difficulty": "medium"
+    },
+    {
+      "number": "45",
+      "theory_question": "When marble is heated to 1473 K, another whiter solid is obtained which reacts vigorously with water to give an alkaline solution. The solution contains what?",
+      "theory_answer": "Ca(OH)₂",
+      "difficulty": "easy"
+    },
+    {
+      "number": "46",
+      "theory_question": "Addition of dilute hydrochloric acid to an aqueous solution of a crystalline salt yielded a yellow precipitate and a gas which turned dichromate paper green. The crystalline salt was probably what?",
+      "theory_answer": "Na₂S",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "The process involved in the conversion of an oil into margarine is known as what?",
+      "theory_answer": "hydrogenation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "48",
+      "theory_question": "An aqueous solution of an inorganic salt gave white precipitate (i) soluble in excess aqueous NaOH (ii) insoluble in excess aqueous NH₃ (iii) with dilute HCl. The cation present in the inorganic salt is what?",
+      "theory_answer": "Pb²⁺",
+      "difficulty": "hard"
+    },
+    {
+      "number": "49",
+      "theory_question": "Which of the following roles does sodium chloride play in soap preparation? It what?",
+      "theory_answer": "separates the soap from the glycerol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "50",
+      "theory_question": "The function of sulphur during the vulcanization of rubber is to what?",
+      "theory_answer": "form chains which bind rubber molecules together",
+      "difficulty": "medium"
+    }
+  ],
+  "1987": [
+    {
+      "number": "1",
+      "theory_question": "A brand of ink containing cobalt(II), copper(II) and iron can best be separated into its various components by what?",
+      "theory_answer": "chromatography",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "Which of the following substances is a mixture?",
+      "theory_answer": "Sea-water",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The number of molecules of carbon(IV) oxide produced when 10.0 g CaCO₃ is treated with 0.2 dm³ of 1 M HCl in the equation CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂ is what?",
+      "theory_answer": "6.02 × 10²²",
+      "difficulty": "hard"
+    },
+    {
+      "number": "4",
+      "theory_question": "In the reaction CaC₂(s) + 2H₂O(g) → Ca(OH)₂(s) + C₂H₂(g) what is the mass of solid acetylene gas at S.T.P.? [C=12, Ca=40, G.M.V=22400 cm³]",
+      "theory_answer": "2.0 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "If the quantity of oxygen occupying a 2.76 litre container at a pressure of 0.825 atmosphere and 300 K is reduced by one-half, what is the pressure exerted by the remaining gas?",
+      "theory_answer": "0.413 atm",
+      "difficulty": "hard"
+    },
+    {
+      "number": "6",
+      "theory_question": "Which of the following substances has the lowest vapour density?",
+      "theory_answer": "Ethanol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "If d represents the density of a gas and K is a constant, the rate of gaseous diffusion is related to the equation what?",
+      "theory_answer": "r = k / √d",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "An isotope has an atomic number of 17 and a mass number of 36. Which of the following gives the correct number of neutrons and protons in an atom of the isotope?",
+      "theory_answer": "19 neutrons and 17 protons",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "The atomic numbers of two elements X and Y are 12 and 9 respectively. The bond in the compound formed between the atoms of these two elements is what?",
+      "theory_answer": "ionic",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "An element Z, contained 90% of ¹⁶₈Z and 10% of ¹⁸₈Z. Its relative atomic mass is what?",
+      "theory_answer": "16.2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "11",
+      "theory_question": "The greater the difference in electronegativity between bonded atoms, the what?",
+      "theory_answer": "higher the polarity of the bond",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "A stream of air was successively passed through three tubes X, Y, and Z containing a concentrated aqueous solution of KOH, red hot copper powder and fused calcium chloride respectively. What was the composition of gas emanating from tube Z?",
+      "theory_answer": "N₂ and the inert gases",
+      "difficulty": "hard"
+    },
+    {
+      "number": "13",
+      "theory_question": "In the purification of town water supply, alum is used principally to what?",
+      "theory_answer": "coagulate small particles of mud",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "Which of the following water samples will have the highest titer value when titrated for the Ca²⁺ ions using soap solution?",
+      "theory_answer": "Permanently hard water after boiling",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "Oil spillage in ponds and creeks can be cleaned up by what?",
+      "theory_answer": "spraying with detergent",
+      "difficulty": "easy"
+    },
+    {
+      "number": "16",
+      "theory_question": "The solubility of Na₃AsO₄·12H₂O is 38.9 g per 100 g H₂O. What is the percentage of Na₃AsO₄ in the saturated solution? [As=75, Na=23, O=16, H=1]",
+      "theory_answer": "13.7%",
+      "difficulty": "hard"
+    },
+    {
+      "number": "17",
+      "theory_question": "Which is the correct set results for tests conducted respectively on fresh lime juice and ethanol?",
+      "theory_answer": "Add crystals of NaHCO₃: Gas evolve / No gas evolved",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "In which of the following are the aqueous solutions of each of the substances correctly arranged in order of decreasing acidity?",
+      "theory_answer": "Hydrochloric acid, ethanoic acid, sodium chloride, milk of magnesia and sodium hydroxide",
+      "difficulty": "hard"
+    },
+    {
+      "number": "19",
+      "theory_question": "The basicity of tetraoxophosphate(V) acid is what?",
+      "theory_answer": "3",
+      "difficulty": "easy"
+    },
+    {
+      "number": "20",
+      "theory_question": "If 24.83 cm³ of 0.15 M NaOH is titrated to its end point with 39.45 cm³ of HCl, what is the molarity of the HCl?",
+      "theory_answer": "0.094 M",
+      "difficulty": "hard"
+    },
+    {
+      "number": "21",
+      "theory_question": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity?",
+      "theory_answer": "1.2 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "22",
+      "theory_question": "Which of the following statements is CORRECT if 1 Faraday of electricity is passed through 1 M CuSO₄ solution for 1 minute?",
+      "theory_answer": "The pH of the solution at the anode decreases",
+      "difficulty": "hard"
+    },
+    {
+      "number": "23",
+      "theory_question": "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hrs. 30 mins through molten magnesium chloride? [1 faraday = 96500 coulombs, Mg=24]",
+      "theory_answer": "2.24 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "24",
+      "theory_question": "In the reaction 3CuO + 2NH₃ → 3Cu + 3H₂O + N₂ how many electrons are transferred for each mole of copper produced?",
+      "theory_answer": "2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "25",
+      "theory_question": "Z is a solid substance, which liberates carbon(IV) oxide on treatment with concentrated H₂SO₄ and KMnO₄. The solid substance, Z is what?",
+      "theory_answer": "ethanedioic acid (oxalic acid)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "26",
+      "theory_question": "5 g of ammonium trioxonitrate(V) on dissolution in water cooled its surrounding water and container by 1.6 kJ. What is the heat of solution of NH₄NO₃? [N=14, O=16, H=1]",
+      "theory_answer": "+25.6 kJ mol⁻¹",
+      "difficulty": "hard"
+    },
+    {
+      "number": "27",
+      "theory_question": "Tetraoxosulphate(IV) acid is prepared using the chemical reaction SO₂(g) + H₂O(l) → H₂SO₃(l). Given the heat of formation for SO₂(g), H₂O(l) and H₂SO₃(l) as -395 kJ mol⁻¹, -286 kJ mol⁻¹ and -811 kJ mol⁻¹ respectively, the enthalpy change is what?",
+      "theory_answer": "+130 kJ",
+      "difficulty": "hard"
+    },
+    {
+      "number": "28",
+      "theory_question": "The times taken for iodine to be liberated in the reaction between sodium thiosulphate and hydrochloric acid at various temperatures are as follows: 25°C: 72 s, 35°C: 36 s, 45°C: 18 s. These results suggest that what?",
+      "theory_answer": "for a 10° rise in temperature, rate of reaction is doubled",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "The reaction between sulphur(IV) oxide and oxygen is represented by the equilibrium reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = -196 kJ. What factor would influence increased production of SO₃(g)?",
+      "theory_answer": "Decrease in the temperature of the reaction",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "Which of the following equations correctly represents the action of hot concentrated alkaline solution on chlorine?",
+      "theory_answer": "3Cl₂(g) + 6OH⁻(aq) → ClO₃⁻(aq) + 5Cl⁻(aq) + 3H₂O(l)",
+      "difficulty": "hard"
+    },
+    {
+      "number": "31",
+      "theory_question": "Magnesium ribbon was allowed to burn inside a given gas P leaving a white solid residue Q. Addition of water to Q liberated a gas which produced dense white fumes with a drop of hydrochloric acid. The gas P was what?",
+      "theory_answer": "nitrogen",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "The best treatment for a student who accidentally poured concentrated tetraoxosulphate(VI) acid on his skin in the laboratory is to wash the skin with what?",
+      "theory_answer": "sodium trioxocarbonate(IV) solution",
+      "difficulty": "medium"
+    },
+    {
+      "number": "33",
+      "theory_question": "In which of the following pairs of elements is allotropy exhibited by each element?",
+      "theory_answer": "Oxygen and sulphur",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "Which of the following gases can best be used for demonstrating the fountain experiment? (i) Nitrogen (ii) Ammonia (iii) Nitrogen(I) oxide (iv) Hydrogen chloride",
+      "theory_answer": "(ii) and (iv)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "35",
+      "theory_question": "When calcium hydroxide is heated with ammonium tetraoxosulphate(VI), the gas given off may be collected by what?",
+      "theory_answer": "Passing it directly through calcium oxide",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "Which of the following elements will form oxide which will dissolve both dilute HNO₃ and NaOH solution to form salts?",
+      "theory_answer": "Al",
+      "difficulty": "medium"
+    },
+    {
+      "number": "37",
+      "theory_question": "Stainless steel is an alloy of what?",
+      "theory_answer": "iron, carbon and chromium",
+      "difficulty": "easy"
+    },
+    {
+      "number": "38",
+      "theory_question": "Alloys are best prepared by what?",
+      "theory_answer": "cooling a molten mixture of the necessary elements",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "Corrosion is exhibited by what?",
+      "theory_answer": "all metals",
+      "difficulty": "easy"
+    },
+    {
+      "number": "40",
+      "theory_question": "Inspite of the electronic configuration, 1s²2s²2p², carbon is tetravalent because what?",
+      "theory_answer": "both the 2s and 2p orbitals hybridize",
+      "difficulty": "medium"
+    },
+    {
+      "number": "41",
+      "theory_question": "Which of the following compounds will give a precipitate with an aqueous ammoniacal solution of copper(I) chloride?",
+      "theory_answer": "CH≡C-CH₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "The efficiency of petrol as a fuel in high compression internal combustion engines improves with an increase in the amount of what?",
+      "theory_answer": "branched chain alkanes",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "A palm wine seller stoppered a bottle of his palm wine in his stall and after a few hours the bottle represents the reaction that occurred?",
+      "theory_answer": "C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "44",
+      "theory_question": "Ethanol reacts with aqueous sodium mono-oxidoiodate(I) to give a bright yellow solid with a characteristic smell. The product is what?",
+      "theory_answer": "triiodomethane",
+      "difficulty": "medium"
+    },
+    {
+      "number": "45",
+      "theory_question": "The most volatile fraction obtained from fractional distillation of crude petroleum contains what?",
+      "theory_answer": "ethane, methane and propane",
+      "difficulty": "medium"
+    },
+    {
+      "number": "46",
+      "theory_question": "Local black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the what?",
+      "theory_answer": "alkali",
+      "difficulty": "easy"
+    },
+    {
+      "number": "47",
+      "theory_question": "Synthetic rubber is made by polymerization of what?",
+      "theory_answer": "2-methylbuta-1,3-diene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "Complete oxidation of propan-1-ol gives what?",
+      "theory_answer": "propanoic acid",
+      "difficulty": "easy"
+    },
+    {
+      "number": "49",
+      "theory_question": "When water drops are added to calcium carbide in a container and the gas produced is passed and called, the flame is what?",
+      "theory_answer": "oxyacetylene flame",
+      "difficulty": "easy"
+    },
+    {
+      "number": "50",
+      "theory_question": "The structure of benzoic acid is what?",
+      "theory_answer": "C₆H₅COOH",
+      "difficulty": "easy"
+    }
+  ],
+ 
+  "1988": [
+    {
+      "number": "1",
+      "theory_question": "In the experiment with ammonium chloride heated in a tube, ammonium chloride crystals deposit on the walls of the tube as a result of what?",
+      "theory_answer": "sublimation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The formula of the compound formed in a reaction between a trivalent metal M and a tetravalent non-metal X is what?",
+      "theory_answer": "M₄X₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "2.25 g of a sample of an oxide of copper and 2.50 g of another oxide of copper on reduction gave 2.0 g of copper. These results are in accordance with the law of what?",
+      "theory_answer": "multiple proportions",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "One mole of propane is mixed with five moles of oxygen. The mixture is ignited and the propane burns completely. What is the volume of the products at s.t.p.? [G.M.V = 22.4 dm³ mol⁻¹]",
+      "theory_answer": "112.0 dm³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "0.9 dm³ of a gas at s.t.p. was subjected by means of a movable piston to two times the original pressure with the temperature being now kept at 364 K. What is the volume of the gas in dm³ at this pressure?",
+      "theory_answer": "4.5",
+      "difficulty": "hard"
+    },
+    {
+      "number": "6",
+      "theory_question": "Which of the gas laws does the graph (volume vs temperature) illustrate?",
+      "theory_answer": "Charles",
+      "difficulty": "easy"
+    },
+    {
+      "number": "7",
+      "theory_question": "An increase in temperature causes an increase in the pressure of a gas due to an increase in what?",
+      "theory_answer": "average velocity of the molecules",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "The forces holding naphthalene crystals together can be overcome when naphthalene is heated to a temperature of 354 K resulting in the crystals melting. These forces are known as what?",
+      "theory_answer": "van der Waals",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "A metallic ion X²⁺ with an inert gas structure contains 18 electrons. How many protons are there in this ion?",
+      "theory_answer": "20",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "Which of the following physical properties decreases across the periodic table?",
+      "theory_answer": "Atomic radius",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "What are the possible oxidation numbers for an element if its atomic number is 17?",
+      "theory_answer": "-1 and +7",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "The energy change accompanying the addition of an electron to a gaseous atom is called what?",
+      "theory_answer": "electron affinity",
+      "difficulty": "easy"
+    },
+    {
+      "number": "13",
+      "theory_question": "The molar ratio of oxygen to nitrogen in dissolved air is 2:1 whereas the ratio is 4:1 in atmospheric air because what?",
+      "theory_answer": "nitrogen is less soluble than oxygen",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "An eruption polluted an environment with a gas suspected to be H₂S, a poisonous gas. A rescue team should spray the environment with what?",
+      "theory_answer": "water, acidified KMnO₄ and oxygen",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "1.34 g of hydrated sodium tetraoxosulphate(VI) was heated to give an anhydrous salt weighing 0.71 g. The formula of the hydrated salt is what? [Na=23, S=32, O=16, H=1]",
+      "theory_answer": "Na₂SO₄·7H₂O",
+      "difficulty": "hard"
+    },
+    {
+      "number": "16",
+      "theory_question": "The ion that may be assumed to have negligible concentration in a sample of water that lathers readily with soap is what?",
+      "theory_answer": "Mg²⁺",
+      "difficulty": "medium"
+    },
+    {
+      "number": "17",
+      "theory_question": "A substance S is isomorphous with another substance R. When a tiny crystal of R is added to a saturated solution of S, what happens?",
+      "theory_answer": "crystals of R are precipitated",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "Which of the following dilute solutions has the lowest pH value?",
+      "theory_answer": "hydrochloric acid",
+      "difficulty": "easy"
+    },
+    {
+      "number": "19",
+      "theory_question": "Which of the following in aqueous solution neutralizes litmus?",
+      "theory_answer": "Na₂CO₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "What volume of a 0.1 M H₃PO₄ will be required to neutralize 45.0 cm³ of a 0.2 M NaOH?",
+      "theory_answer": "30.0 cm³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "21",
+      "theory_question": "Which of the following substances is a basic salt?",
+      "theory_answer": "Mg(OH)Cl",
+      "difficulty": "medium"
+    },
+    {
+      "number": "22",
+      "theory_question": "Which of the following acts both as a reducing and an oxidizing agent?",
+      "theory_answer": "SO₂",
+      "difficulty": "medium"
+    },
+    {
+      "number": "23",
+      "theory_question": "Which of the following reactions takes place in the cathode compartment during the electrolysis of copper(II) chloride solution?",
+      "theory_answer": "Cu²⁺(aq) + 2e⁻ → Cu(s)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "The mass of a substance, M liberated at an electrode during electrolysis is proportional to the quantity of electricity, Q passing through the electrolyte. This is represented graphically by what?",
+      "theory_answer": "straight line through origin with positive slope",
+      "difficulty": "medium"
+    },
+    {
+      "number": "25",
+      "theory_question": "A mixture of starch solution and potassium iodide was placed in a test tube. On adding dilute tetraoxosulphate(VI) acid and then K₂Cr₂O₇ solutions, a blue-black colour was produced. In this reaction, the what?",
+      "theory_answer": "iodide ion is oxidized",
+      "difficulty": "medium"
+    },
+    {
+      "number": "26",
+      "theory_question": "Which of the following statements is TRUE?",
+      "theory_answer": "The heat of solution of NaOH(s) is negative",
+      "difficulty": "medium"
+    },
+    {
+      "number": "27",
+      "theory_question": "Which of the following will produce the greatest increase in the rate of the chemical reaction represented by the equation Na₂S₂O₃(aq) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + SO₂(g) + S(s)?",
+      "theory_answer": "An increase in the temperature and an increase in the concentrations of the reactants",
+      "difficulty": "medium"
+    },
+    {
+      "number": "28",
+      "theory_question": "Which property of reversible reaction is affected by a catalyst?",
+      "theory_answer": "energy of activation",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "Which of the following is used in fire extinguishers?",
+      "theory_answer": "Carbon(IV) oxide",
+      "difficulty": "easy"
+    },
+    {
+      "number": "30",
+      "theory_question": "When H₂S gas is passed into a solution of iron(III) chloride, the colour changes from yellow to green. This is because what?",
+      "theory_answer": "Fe³⁺ ions are reduced to Fe²⁺ ions",
+      "difficulty": "medium"
+    },
+    {
+      "number": "31",
+      "theory_question": "Carbon(II) oxide may be collected as shown because it what?",
+      "theory_answer": "is less dense than air",
+      "difficulty": "easy"
+    },
+    {
+      "number": "32",
+      "theory_question": "In the reaction C₁₂H₂₂O₁₁(s) → 12C(s) + 11H₂O concentrated H₂SO₄ is acting as what?",
+      "theory_answer": "a dehydrating agent",
+      "difficulty": "easy"
+    },
+    {
+      "number": "33",
+      "theory_question": "Suitable reagents for the laboratory preparation of nitrogen are what?",
+      "theory_answer": "sodium trioxonitrate(V) and ammonium chloride",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "The thermal decomposition of copper(II) trioxonitrate(V) yields copper(II) oxide, oxygen and what?",
+      "theory_answer": "nitrogen(IV) oxide",
+      "difficulty": "medium"
+    },
+    {
+      "number": "35",
+      "theory_question": "Chlorine is produced commercially by what?",
+      "theory_answer": "electrolysis of brine",
+      "difficulty": "easy"
+    },
+    {
+      "number": "36",
+      "theory_question": "Which of the following is used in the manufacture of glass?",
+      "theory_answer": "Sodium trioxocarbonate(IV)",
+      "difficulty": "easy"
+    },
+    {
+      "number": "37",
+      "theory_question": "Aluminium is extracted commercially from its ore by what?",
+      "theory_answer": "the electrolysis of fused aluminium oxide in cryolite",
+      "difficulty": "medium"
+    },
+    {
+      "number": "38",
+      "theory_question": "Given the reactions (i) Fe(s) + Cu(NO₃)₂(aq) → Fe(NO₃)₂(aq) + Cu(s) (ii) H₂(g) + XO(s) → X(s) + H₂O(g), X is likely to be what?",
+      "theory_answer": "copper",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "Crude copper can be purified by the electrolysis of CuSO₄(aq) if what?",
+      "theory_answer": "the crude copper is made the anode of the cell",
+      "difficulty": "medium"
+    },
+    {
+      "number": "40",
+      "theory_question": "The IUPAC name for CH₃CH₂CH₂CH(OH)CH₃ is what?",
+      "theory_answer": "pentan-2-ol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "41",
+      "theory_question": "Alkanoates are formed by the reaction of alkanoic acids with what?",
+      "theory_answer": "alkanols",
+      "difficulty": "easy"
+    },
+    {
+      "number": "42",
+      "theory_question": "The acidic hydrogen in the compound H-C≡C-CH=CH-CH₃ is the hydrogen attached to carbon number what?",
+      "theory_answer": "1",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "The four classes of hydrocarbons are what?",
+      "theory_answer": "alkanes, alkenes, alkynes and aromatics",
+      "difficulty": "easy"
+    },
+    {
+      "number": "44",
+      "theory_question": "Alkanes → smaller alkanes + hydrogen. The above reaction is known as what?",
+      "theory_answer": "cracking",
+      "difficulty": "easy"
+    },
+    {
+      "number": "45",
+      "theory_question": "Which of the structural formula for pent-2-enoic acid?",
+      "theory_answer": "CH₃CH₂CH=CHCOOH",
+      "difficulty": "medium"
+    },
+    {
+      "number": "46",
+      "theory_question": "When ethanol is heated with excess concentrated sulphuric acid, the ethanol is what?",
+      "theory_answer": "dehydrated to ethene",
+      "difficulty": "easy"
+    },
+    {
+      "number": "47",
+      "theory_question": "Which of the following compounds is NOT formed by the action of chlorine on methane?",
+      "theory_answer": "C₂H₅Cl",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "The general formula of an alkyl halide (where X represent the halide) is what?",
+      "theory_answer": "CₙH₂ₙ₊₁X",
+      "difficulty": "easy"
+    },
+    {
+      "number": "49",
+      "theory_question": "Which of the following are made by the process of polymerization?",
+      "theory_answer": "Nylon and rubber",
+      "difficulty": "easy"
+    },
+    {
+      "number": "50",
+      "theory_question": "Starch can be converted to ethyl alcohol by what?",
+      "theory_answer": "fermentation",
+      "difficulty": "easy"
+    }
+  ],
+  "1989": [
+    {
+      "number": "1",
+      "theory_question": "The movement of liquid molecules from the surface of the liquid to the gaseous phase above it is known as what?",
+      "theory_answer": "evaporation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "What mass of a divalent metal M (atomic mass = 40) would react with excess hydrochloric acid to liberate 22 cm³ of dry hydrogen gas measured at S.T.P.? [G.M.V = 22.4 dm³]",
+      "theory_answer": "0.4 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "3",
+      "theory_question": "10 cm³ of hydrogen fluoride gas reacts with 5 cm³ of dinitrogen difluoride gas (N₂F₂) to form 10 cm³ of a single gas. Which of the following is the most likely equation to the reaction?",
+      "theory_answer": "2HF + N₂F₂ → N₂H₂F₄",
+      "difficulty": "hard"
+    },
+    {
+      "number": "4",
+      "theory_question": "The number of atoms of chlorine present in 5.85 g of NaCl is what? [Na=23, Cl=35.5, Avogadro's Number = 6.02 × 10²³]",
+      "theory_answer": "6.02 × 10²²",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "How much of magnesium is required to react with 250 cm³ of 0.5 M HCl? [Mg=24]",
+      "theory_answer": "3.0 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "6",
+      "theory_question": "200 cm³ of oxygen diffuse through a porous plug in 50 seconds. How long will 80 cm³ of methane (CH₄) take to diffuse through the same porous plug under the same conditions? [C=12, O=16, H=1]",
+      "theory_answer": "20 sec",
+      "difficulty": "hard"
+    },
+    {
+      "number": "7",
+      "theory_question": "The relationship between the velocity (U) of gas molecules and their relative molecular mass (M) is shown by the equation what?",
+      "theory_answer": "U = (k/M)¹/²",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "An element with atomic number twelve is likely to be what?",
+      "theory_answer": "electrovalent with a valency of 2",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "Which of the following group of physical properties increases from left to right of the periodic table? 1. Ionization energy 2. Atomic radius 3. Electronegativity 4. Electron affinity",
+      "theory_answer": "1, 3 and 4",
+      "difficulty": "hard"
+    },
+    {
+      "number": "10",
+      "theory_question": "When 50 cm³ of a saturated solution of sugar (molar mass 342.0 g) at 40°C was evaporated to dryness, 34.2 g dry of solid was obtained. The solubility of sugar at 40°C is what?",
+      "theory_answer": "2.0 moles dm⁻³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "11",
+      "theory_question": "In the solubility curve above, water at 98°C is saturated with KCl. What impurity in the crystals formed when the solution is cooled to 30°C?",
+      "theory_answer": "NaHSO₄, pH < 5",
+      "difficulty": "hard"
+    },
+    {
+      "number": "12",
+      "theory_question": "Some properties of chemical substances are mentioned below: (i) sour taste (ii) slippery to touch (iii) yields alkaline gas with ammonium salts (iv) has pH less than 7 (v) turns phenolphthalein pink. Which of the above are NOT typical properties of alkalis?",
+      "theory_answer": "(i), (iv) and (v)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "A certain volume of a gas at 298 K is heated such that its volume and pressure are now four times the original values. What is the new temperature?",
+      "theory_answer": "1192.0 K",
+      "difficulty": "hard"
+    },
+    {
+      "number": "14",
+      "theory_question": "Hydrogen is not liberated when trioxonitrate(V) acid reacts with zinc because what?",
+      "theory_answer": "oxides of nitrogen are produced",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "The boiling points of water, ethanol, toluene and butan-2-ol are 373.0 K, 351.3 K, 383.6 K and 372.5 K respectively. Which liquid has the highest vapour pressure at 323.0 K?",
+      "theory_answer": "ethanol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "In what respect will two dry samples of nitrogen gas differ from each other if sample 1 is prepared by completely removing CO₂ and O₂ from air and sample 2 is prepared by passing purified nitrogen(I) oxide over heated copper? Sample 1 is what?",
+      "theory_answer": "slightly denser than sample 2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "17",
+      "theory_question": "Copper sulphate solution is electrolyzed using platinum electrodes. A current of 0.193 amperes is passed for 2 hrs. How many grams of copper are deposited?",
+      "theory_answer": "0.914 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "18",
+      "theory_question": "X + Y ⇌ Z is an equilibrium reaction. The addition of a catalyst does what?",
+      "theory_answer": "increases the rate of change in concentrations of X, Y and Z",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "What is the formula of sodium gallate if gallium (Ga) shows an oxidation number of +3?",
+      "theory_answer": "NaGaO₂",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "If the ONLY pollutants found in the atmosphere over a city are oxides of nitrogen, suspended lead compounds, carbon monoxide and high level of methane, the probable source(s) of the pollution must be what?",
+      "theory_answer": "automobile exhaust and biological decomposition",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "A correct electrochemical series can be obtained from K, Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging what?",
+      "theory_answer": "Zn and Pb",
+      "difficulty": "hard"
+    },
+    {
+      "number": "22",
+      "theory_question": "A certain industrial process is represented by the chemical equation 2A(g) + B(g) ⇌ 3D(g) + H = X kJ mol⁻¹. Which of the following conditions will favour the yield of the product?",
+      "theory_answer": "Decrease in temperature, increase in pressure",
+      "difficulty": "hard"
+    },
+    {
+      "number": "23",
+      "theory_question": "2MnO₄⁻ + 10Cl⁻ + 16H⁺ → 2Mn²⁺ + 5Cl₂ + 8H₂O, which of the substances serves as an oxidizing agent?",
+      "theory_answer": "MnO₄⁻",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "In the reaction H₂(g) + ½O₂(g) → H₂O(l) ΔH = -286 kJ, which of the following has no effect on the equilibrium position?",
+      "theory_answer": "Adding argon to the system",
+      "difficulty": "medium"
+    },
+    {
+      "number": "25",
+      "theory_question": "Which of the following metals will displace iron from a solution of iron(II) tetraoxosulphate(VI)?",
+      "theory_answer": "Zinc",
+      "difficulty": "easy"
+    },
+    {
+      "number": "26",
+      "theory_question": "Complete hydrogenation of ethyne yields what?",
+      "theory_answer": "ethane",
+      "difficulty": "easy"
+    },
+    {
+      "number": "27",
+      "theory_question": "Which of the following is used in the manufacture of bleaching powder?",
+      "theory_answer": "chlorine",
+      "difficulty": "easy"
+    },
+    {
+      "number": "28",
+      "theory_question": "A man suspected to be drunk is made to pass his breath into acidified potassium dichromate solution. If his breath carries a significant level of ethanol, the final colour of the solution is what?",
+      "theory_answer": "green",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "When pollen grains are suspended in water and viewed through a microscope, they appear to be in a state of constant but erratic motion. This is due to what?",
+      "theory_answer": "the bombardment of the pollen grains by molecules of water",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "The energy change (ΔH) for the reaction CO(g) + ½O₂(g) → CO₂(g) is what?",
+      "theory_answer": "-283 kJ",
+      "difficulty": "hard"
+    },
+    {
+      "number": "31",
+      "theory_question": "The product formed on hydrolysis of CH₃COOCH₂CH₃ in acid (HCl) is what?",
+      "theory_answer": "CH₃COOH + CH₃CH₂OH",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "The neutralization reaction between NaOH solution and nitrogen(IV) oxide (NO₂) produces water and what?",
+      "theory_answer": "NaNO₂ and NaNO₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "33",
+      "theory_question": "The oxidation of CH₃CH=CHCHO gives what?",
+      "theory_answer": "butanoic acid",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "Tetraoxosulphate(VI) ions are finally tested using what?",
+      "theory_answer": "acidified barium chloride",
+      "difficulty": "easy"
+    },
+    {
+      "number": "35",
+      "theory_question": "The IUPAC name for the compound CH₃CH₂CH=C(CH₃)CH₃ is what?",
+      "theory_answer": "2-methylpent-2-ene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "Mixing of aqueous solution of barium hydroxide and sodium tetraoxocarbonate(IV) yields a white precipitate of what?",
+      "theory_answer": "barium tetraoxocarbonate(IV)",
+      "difficulty": "easy"
+    },
+    {
+      "number": "37",
+      "theory_question": "An organic compound decolorized acidified KMnO₄ solution but failed to react with ammoniacal silver nitrate solution. The organic compound is likely to be what?",
+      "theory_answer": "an alkene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "38",
+      "theory_question": "Solid sodium hydroxide on exposure to air absorbs a gas and ultimately gives another alkaline substance with the molecular formula what?",
+      "theory_answer": "Na₂CO₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "Which of the following is the functional group of carboxylic acids?",
+      "theory_answer": "-COOH",
+      "difficulty": "easy"
+    },
+    {
+      "number": "40",
+      "theory_question": "Which of the following substances is the most abundant in the universe?",
+      "theory_answer": "Hydrogen",
+      "difficulty": "easy"
+    },
+    {
+      "number": "41",
+      "theory_question": "A colourless organic compound X was burnt in excess air to give two colourless and odourless gases, Y and Z, as products. X does not decolorize bromine vapour; Y turns lime milky while Z gives a blue colour with copper(II) tetraoxosulphate(VI). Compound X is what?",
+      "theory_answer": "an alkane",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "Y and Z are respectively what?",
+      "theory_answer": "CO₂ and H₂O",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "Which of the following compounds is NOT the correct product formed when the parent metal is heated in air?",
+      "theory_answer": "Sodium oxide (Na₂O)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "44",
+      "theory_question": "The atomic number of an element whose cation, X²⁺, has the ground state electronic configuration 1s² 2s² 2p⁶ 3s² 3p⁶ is what?",
+      "theory_answer": "20",
+      "difficulty": "medium"
+    },
+    {
+      "number": "45",
+      "theory_question": "When marble is heated to 1473 K, another whiter solid is obtained which reacts vigorously with water to give an alkaline solution. The solution contains what?",
+      "theory_answer": "Ca(OH)₂",
+      "difficulty": "easy"
+    },
+    {
+      "number": "46",
+      "theory_question": "Addition of dilute hydrochloric acid to an aqueous solution of a crystalline salt yielded a yellow precipitate and a gas which turned dichromate paper green. The crystalline salt was probably what?",
+      "theory_answer": "Na₂S",
+      "difficulty": "medium"
+    },
+    {
+      "number": "47",
+      "theory_question": "The process involved in the conversion of an oil into margarine is known as what?",
+      "theory_answer": "hydrogenation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "48",
+      "theory_question": "An aqueous solution of an inorganic salt gave white precipitate (i) soluble in excess aqueous NaOH (ii) insoluble in excess aqueous NH₃ (iii) with dilute HCl. The cation present in the inorganic salt is what?",
+      "theory_answer": "Pb²⁺",
+      "difficulty": "hard"
+    },
+    {
+      "number": "49",
+      "theory_question": "Which of the following roles does sodium chloride play in soap preparation? It what?",
+      "theory_answer": "separates the soap from the glycerol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "50",
+      "theory_question": "The function of sulphur during the vulcanization of rubber is to what?",
+      "theory_answer": "form chains which bind rubber molecules together",
+      "difficulty": "medium"
+    }
+  ],
+  "1990": [
+    {
+      "number": "1",
+      "theory_question": "A brand of ink containing cobalt(II), copper(II) and iron can best be separated into its various components by what?",
+      "theory_answer": "chromatography",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "Which of the following substances is a mixture?",
+      "theory_answer": "Sea-water",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The number of molecules of carbon(IV) oxide produced when 10.0 g CaCO₃ is treated with 0.2 dm³ of 1 M HCl in the equation CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂ is what?",
+      "theory_answer": "6.02 × 10²²",
+      "difficulty": "hard"
+    },
+    {
+      "number": "4",
+      "theory_question": "In the reaction CaC₂(s) + 2H₂O(g) → Ca(OH)₂(s) + C₂H₂(g) what is the mass of solid acetylene gas at S.T.P.? [C=12, Ca=40, G.M.V=22400 cm³]",
+      "theory_answer": "2.0 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "If the quantity of oxygen occupying a 2.76 litre container at a pressure of 0.825 atmosphere and 300 K is reduced by one-half, what is the pressure exerted by the remaining gas?",
+      "theory_answer": "0.413 atm",
+      "difficulty": "hard"
+    },
+    {
+      "number": "6",
+      "theory_question": "Which of the following substances has the lowest vapour density?",
+      "theory_answer": "Ethanol",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "If d represents the density of a gas and K is a constant, the rate of gaseous diffusion is related to the equation what?",
+      "theory_answer": "r = k / √d",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "An isotope has an atomic number of 17 and a mass number of 36. Which of the following gives the correct number of neutrons and protons in an atom of the isotope?",
+      "theory_answer": "19 neutrons and 17 protons",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "The atomic numbers of two elements X and Y are 12 and 9 respectively. The bond in the compound formed between the atoms of these two elements is what?",
+      "theory_answer": "ionic",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "An element Z, contained 90% of ¹⁶₈Z and 10% of ¹⁸₈Z. Its relative atomic mass is what?",
+      "theory_answer": "16.2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "11",
+      "theory_question": "The greater the difference in electronegativity between bonded atoms, the what?",
+      "theory_answer": "higher the polarity of the bond",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "A stream of air was successively passed through three tubes X, Y, and Z containing a concentrated aqueous solution of KOH, red hot copper powder and fused calcium chloride respectively. What was the composition of gas emanating from tube Z?",
+      "theory_answer": "N₂ and the inert gases",
+      "difficulty": "hard"
+    },
+    {
+      "number": "13",
+      "theory_question": "In the purification of town water supply, alum is used principally to what?",
+      "theory_answer": "coagulate small particles of mud",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "Which of the following water samples will have the highest titer value when titrated for the Ca²⁺ ions using soap solution?",
+      "theory_answer": "Permanently hard water after boiling",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "Oil spillage in ponds and creeks can be cleaned up by what?",
+      "theory_answer": "spraying with detergent",
+      "difficulty": "easy"
+    },
+    {
+      "number": "16",
+      "theory_question": "The solubility of Na₃AsO₄·12H₂O is 38.9 g per 100 g H₂O. What is the percentage of Na₃AsO₄ in the saturated solution? [As=75, Na=23, O=16, H=1]",
+      "theory_answer": "13.7%",
+      "difficulty": "hard"
+    },
+    {
+      "number": "17",
+      "theory_question": "Which is the correct set results for tests conducted respectively on fresh lime juice and ethanol?",
+      "theory_answer": "Add crystals of NaHCO₃: Gas evolve / No gas evolved",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "In which of the following are the aqueous solutions of each of the substances correctly arranged in order of decreasing acidity?",
+      "theory_answer": "Hydrochloric acid, ethanoic acid, sodium chloride, milk of magnesia and sodium hydroxide",
+      "difficulty": "hard"
+    },
+    {
+      "number": "19",
+      "theory_question": "The basicity of tetraoxophosphate(V) acid is what?",
+      "theory_answer": "3",
+      "difficulty": "easy"
+    },
+    {
+      "number": "20",
+      "theory_question": "If 24.83 cm³ of 0.15 M NaOH is titrated to its end point with 39.45 cm³ of HCl, what is the molarity of the HCl?",
+      "theory_answer": "0.094 M",
+      "difficulty": "hard"
+    },
+    {
+      "number": "21",
+      "theory_question": "A quantity of electricity liberates 3.6 g of silver from its salt. What mass of aluminium will be liberated from its salt by the same quantity of electricity?",
+      "theory_answer": "1.2 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "22",
+      "theory_question": "Which of the following statements is CORRECT if 1 Faraday of electricity is passed through 1 M CuSO₄ solution for 1 minute?",
+      "theory_answer": "The pH of the solution at the anode decreases",
+      "difficulty": "hard"
+    },
+    {
+      "number": "23",
+      "theory_question": "What mass of magnesium would be obtained by passing a current of 2 amperes for 2 hrs. 30 mins through molten magnesium chloride? [1 faraday = 96500 coulombs, Mg=24]",
+      "theory_answer": "2.24 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "24",
+      "theory_question": "In the reaction 3CuO + 2NH₃ → 3Cu + 3H₂O + N₂ how many electrons are transferred for each mole of copper produced?",
+      "theory_answer": "2",
+      "difficulty": "hard"
+    },
+    {
+      "number": "25",
+      "theory_question": "Z is a solid substance, which liberates carbon(IV) oxide on treatment with concentrated H₂SO₄ and KMnO₄. The solid substance, Z is what?",
+      "theory_answer": "ethanedioic acid (oxalic acid)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "26",
+      "theory_question": "5 g of ammonium trioxonitrate(V) on dissolution in water cooled its surrounding water and container by 1.6 kJ. What is the heat of solution of NH₄NO₃? [N=14, O=16, H=1]",
+      "theory_answer": "+25.6 kJ mol⁻¹",
+      "difficulty": "hard"
+    },
+    {
+      "number": "27",
+      "theory_question": "Tetraoxosulphate(IV) acid is prepared using the chemical reaction SO₂(g) + H₂O(l) → H₂SO₃(l). Given the heat of formation for SO₂(g), H₂O(l) and H₂SO₃(l) as -395 kJ mol⁻¹, -286 kJ mol⁻¹ and -811 kJ mol⁻¹ respectively, the enthalpy change is what?",
+      "theory_answer": "+130 kJ",
+      "difficulty": "hard"
+    },
+    {
+      "number": "28",
+      "theory_question": "The times taken for iodine to be liberated in the reaction between sodium thiosulphate and hydrochloric acid at various temperatures are as follows: 25°C: 72 s, 35°C: 36 s, 45°C: 18 s. These results suggest that what?",
+      "theory_answer": "for a 10° rise in temperature, rate of reaction is doubled",
+      "difficulty": "medium"
+    },
+    {
+      "number": "29",
+      "theory_question": "The reaction between sulphur(IV) oxide and oxygen is represented by the equilibrium reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH = -196 kJ. What factor would influence increased production of SO₃(g)?",
+      "theory_answer": "Decrease in the temperature of the reaction",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "Which of the following equations correctly represents the action of hot concentrated alkaline solution on chlorine?",
+      "theory_answer": "3Cl₂(g) + 6OH⁻(aq) → ClO₃⁻(aq) + 5Cl⁻(aq) + 3H₂O(l)",
+      "difficulty": "hard"
+    },
+    {
+      "number": "31",
+      "theory_question": "Magnesium ribbon was allowed to burn inside a given gas P leaving a white solid residue Q. Addition of water to Q liberated a gas which produced dense white fumes with a drop of hydrochloric acid. The gas P was what?",
+      "theory_answer": "nitrogen",
+      "difficulty": "medium"
+    },
+    {
+      "number": "32",
+      "theory_question": "The best treatment for a student who accidentally poured concentrated tetraoxosulphate(VI) acid on his skin in the laboratory is to wash the skin with what?",
+      "theory_answer": "sodium trioxocarbonate(IV) solution",
+      "difficulty": "medium"
+    },
+    {
+      "number": "33",
+      "theory_question": "In which of the following pairs of elements is allotropy exhibited by each element?",
+      "theory_answer": "Oxygen and sulphur",
+      "difficulty": "medium"
+    },
+    {
+      "number": "34",
+      "theory_question": "Which of the following gases can best be used for demonstrating the fountain experiment? (i) Nitrogen (ii) Ammonia (iii) Nitrogen(I) oxide (iv) Hydrogen chloride",
+      "theory_answer": "(ii) and (iv)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "35",
+      "theory_question": "When calcium hydroxide is heated with ammonium tetraoxosulphate(VI), the gas given off may be collected by what?",
+      "theory_answer": "Passing it directly through calcium oxide",
+      "difficulty": "medium"
+    },
+    {
+      "number": "36",
+      "theory_question": "Which of the following elements will form oxide which will dissolve both dilute HNO₃ and NaOH solution to form salts?",
+      "theory_answer": "Al",
+      "difficulty": "medium"
+    },
+    {
+      "number": "37",
+      "theory_question": "Stainless steel is an alloy of what?",
+      "theory_answer": "iron, carbon and chromium",
+      "difficulty": "easy"
+    },
+    {
+      "number": "38",
+      "theory_question": "Alloys are best prepared by what?",
+      "theory_answer": "cooling a molten mixture of the necessary elements",
+      "difficulty": "medium"
+    },
+    {
+      "number": "39",
+      "theory_question": "Corrosion is exhibited by what?",
+      "theory_answer": "all metals",
+      "difficulty": "easy"
+    },
+    {
+      "number": "40",
+      "theory_question": "Inspite of the electronic configuration, 1s²2s²2p², carbon is tetravalent because what?",
+      "theory_answer": "both the 2s and 2p orbitals hybridize",
+      "difficulty": "medium"
+    },
+    {
+      "number": "41",
+      "theory_question": "Which of the following compounds will give a precipitate with an aqueous ammoniacal solution of copper(I) chloride?",
+      "theory_answer": "CH≡C-CH₃",
+      "difficulty": "medium"
+    },
+    {
+      "number": "42",
+      "theory_question": "The efficiency of petrol as a fuel in high compression internal combustion engines improves with an increase in the amount of what?",
+      "theory_answer": "branched chain alkanes",
+      "difficulty": "medium"
+    },
+    {
+      "number": "43",
+      "theory_question": "A palm wine seller stoppered a bottle of his palm wine in his stall and after a few hours the bottle represents the reaction that occurred?",
+      "theory_answer": "C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "44",
+      "theory_question": "Ethanol reacts with aqueous sodium mono-oxidoiodate(I) to give a bright yellow solid with a characteristic smell. The product is what?",
+      "theory_answer": "triiodomethane",
+      "difficulty": "medium"
+    },
+    {
+      "number": "45",
+      "theory_question": "The most volatile fraction obtained from fractional distillation of crude petroleum contains what?",
+      "theory_answer": "ethane, methane and propane",
+      "difficulty": "medium"
+    },
+    {
+      "number": "46",
+      "theory_question": "Local black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the what?",
+      "theory_answer": "alkali",
+      "difficulty": "easy"
+    },
+    {
+      "number": "47",
+      "theory_question": "Synthetic rubber is made by polymerization of what?",
+      "theory_answer": "2-methylbuta-1,3-diene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "48",
+      "theory_question": "Complete oxidation of propan-1-ol gives what?",
+      "theory_answer": "propanoic acid",
+      "difficulty": "easy"
+    },
+    {
+      "number": "49",
+      "theory_question": "When water drops are added to calcium carbide in a container and the gas produced is passed and called, the flame is what?",
+      "theory_answer": "oxyacetylene flame",
+      "difficulty": "easy"
+    },
+    {
+      "number": "50",
+      "theory_question": "The structure of benzoic acid is what?",
+      "theory_answer": "C₆H₅COOH",
+      "difficulty": "easy"
+    }
+  ],
+  "1991": [
+    {
+      "number": "1",
+      "theory_question": "The addition of water to calcium oxide leads to what?",
+      "theory_answer": "a chemical change",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The compound formed when X reacts with CuSO₄(aq) is what?",
+      "theory_answer": "XSO₄(aq) + Cu(s)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "The correct order of increasing oxidation number of the transition metal ions for the compounds K₂Cr₂O₇, V₂O₅ and KMnO₄ is what?",
+      "theory_answer": "V₂O₅ < K₂Cr₂O₇ < KMnO₄",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "The solubility product of Cu(IO₃)₂ is 1.08 × 10⁻⁷. Assuming that neither ions react appreciably with water to form H⁺ and OH⁻, what is the solubility of this salt?",
+      "theory_answer": "1.44 × 10⁻⁴ mol dm⁻³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "The entropy and enthalpy of a system are a measure of what?",
+      "theory_answer": "disorder and heat content",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is what type of reaction?",
+      "theory_answer": "reversible exothermic reaction",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "200 cm³ each of 0.1 M solutions of lead(II) trioxonitrate(V) and hydrochloric acid were mixed. Assuming that lead(II) chloride is completely insoluble, calculate the mass of lead(II) chloride that will be precipitated.",
+      "theory_answer": "2.78 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "8",
+      "theory_question": "The correct IUPAC name for the compound CH₃CH₂CH₂COOH is what?",
+      "theory_answer": "butanoic acid",
+      "difficulty": "easy"
+    },
+    {
+      "number": "9",
+      "theory_question": "Which of the following is a physical change?",
+      "theory_answer": "Evaporation of water",
+      "difficulty": "easy"
+    },
+    {
+      "number": "10",
+      "theory_question": "The oxidation number of chromium in K₂Cr₂O₇ is what?",
+      "theory_answer": "+6",
+      "difficulty": "easy"
+    }
+  ],
+  "1992": [
+    {
+      "number": "1",
+      "theory_question": "Which of the following is an example of a physical change?",
+      "theory_answer": "Dissolving sugar in water",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The functional group in carboxylic acids is what?",
+      "theory_answer": "-COOH",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The reaction 2H₂(g) + O₂(g) → 2H₂O(l) is what type of reaction?",
+      "theory_answer": "exothermic combination reaction",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "The pH of a 0.001 M HCl solution is what?",
+      "theory_answer": "3",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "Which gas is produced when dilute HCl reacts with marble chips?",
+      "theory_answer": "Carbon(IV) oxide",
+      "difficulty": "easy"
+    }
+  ],
+  "1993": [
+    {
+      "number": "1",
+      "theory_question": "The compound with the formula C₂H₅OH is what?",
+      "theory_answer": "ethanol",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The process of conversion of vegetable oil to margarine is called what?",
+      "theory_answer": "hydrogenation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The oxidation number of sulphur in H₂SO₄ is what?",
+      "theory_answer": "+6",
+      "difficulty": "easy"
+    },
+    {
+      "number": "4",
+      "theory_question": "Which of the following is a greenhouse gas?",
+      "theory_answer": "CO₂",
+      "difficulty": "easy"
+    },
+    {
+      "number": "5",
+      "theory_question": "The reaction between an acid and a base is called what?",
+      "theory_answer": "neutralization",
+      "difficulty": "easy"
+    }
+  ],
+  "1994": [
+    {
+      "number": "1",
+      "theory_question": "The IUPAC name for CH₃COCH₃ is what?",
+      "theory_answer": "propanone",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "Which of the following is an electrolyte?",
+      "theory_answer": "NaCl(aq)",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The shape of methane molecule is what?",
+      "theory_answer": "tetrahedral",
+      "difficulty": "easy"
+    },
+    {
+      "number": "4",
+      "theory_question": "The gas responsible for the brown ring test is what?",
+      "theory_answer": "NO",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "The atomic number of sodium is what?",
+      "theory_answer": "11",
+      "difficulty": "easy"
+    }
+  ],
+  "1995": [
+    {
+      "number": "1",
+      "theory_question": "The functional group in alcohols is what?",
+      "theory_answer": "-OH",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The reaction C + O₂ → CO₂ is what type of reaction?",
+      "theory_answer": "combination",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The pH of pure water at 25°C is what?",
+      "theory_answer": "7",
+      "difficulty": "easy"
+    },
+    {
+      "number": "4",
+      "theory_question": "Which gas turns lime water milky?",
+      "theory_answer": "CO₂",
+      "difficulty": "easy"
+    },
+    {
+      "number": "5",
+      "theory_question": "The valency of oxygen in most compounds is what?",
+      "theory_answer": "2",
+      "difficulty": "easy"
+    }
+  ],
+  "1996": [
+    {
+      "number": "1",
+      "theory_question": "The compound CH₃CH₂COOH is called what?",
+      "theory_answer": "propanoic acid",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The process of separating components of crude oil is called what?",
+      "theory_answer": "fractional distillation",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The oxidation number of chlorine in HClO₄ is what?",
+      "theory_answer": "+7",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "Which of the following is a noble gas?",
+      "theory_answer": "Neon",
+      "difficulty": "easy"
+    },
+    {
+      "number": "5",
+      "theory_question": "The reaction 2Na + Cl₂ → 2NaCl is what?",
+      "theory_answer": "redox reaction",
+      "difficulty": "medium"
+    }
+  ],
+  "1997": [
+    {
+      "number": "1",
+      "theory_question": "The IUPAC name for CH₃CH=CH₂ is what?",
+      "theory_answer": "propene",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "Which of the following is a strong acid?",
+      "theory_answer": "HCl",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "The shape of ammonia molecule is what?",
+      "theory_answer": "pyramidal",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "The gas used in filling balloons is what?",
+      "theory_answer": "helium",
+      "difficulty": "easy"
+    },
+    {
+      "number": "5",
+      "theory_question": "The atomic mass of carbon is what?",
+      "theory_answer": "12",
+      "difficulty": "easy"
+    }
+  ],
+  "1998": [
+    {
+      "number": "1",
+      "theory_question": "The addition of water to calcium oxide leads to what?",
+      "theory_answer": "a chemical change",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "The compound formed when X reacts with CuSO₄(aq) is what?",
+      "theory_answer": "XSO₄(aq) + Cu(s)",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "The correct order of increasing oxidation number of the transition metal ions for the compounds K₂Cr₂O₇, V₂O₅ and KMnO₄ is what?",
+      "theory_answer": "V₂O₅ < K₂Cr₂O₇ < KMnO₄",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "The solubility product of Cu(IO₃)₂ is 1.08 × 10⁻⁷. Assuming that neither ions react appreciably with water to form H⁺ and OH⁻, what is the solubility of this salt?",
+      "theory_answer": "1.44 × 10⁻⁴ mol dm⁻³",
+      "difficulty": "hard"
+    },
+    {
+      "number": "5",
+      "theory_question": "The entropy and enthalpy of a system are a measure of what?",
+      "theory_answer": "disorder and heat content",
+      "difficulty": "medium"
+    }
+  ],
+  "1999": [
+    {
+      "number": "1",
+      "theory_question": "200 cm³ each of 0.1 M solutions of lead(II) trioxonitrate(V) and hydrochloric acid were mixed. Assuming that lead(II) chloride is completely insoluble, calculate the mass of lead(II) chloride that will be precipitated.",
+      "theory_answer": "2.78 g",
+      "difficulty": "hard"
+    },
+    {
+      "number": "2",
+      "theory_question": "The correct IUPAC name for the compound CH₃CH₂CH₂COOH is what?",
+      "theory_answer": "butanoic acid",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "Which of the following is a physical change?",
+      "theory_answer": "Evaporation of water",
+      "difficulty": "easy"
+    },
+    {
+      "number": "4",
+      "theory_question": "The oxidation number of chromium in K₂Cr₂O₇ is what?",
+      "theory_answer": "+6",
+      "difficulty": "easy"
+    },
+    {
+      "number": "5",
+      "theory_question": "The solubility product of Cu(IO₃)₂ is 1.08 × 10⁻⁷. What is the solubility of this salt?",
+      "theory_answer": "1.44 × 10⁻⁴ mol dm⁻³",
+      "difficulty": "hard"
+    }
+  ],
+  
+  "2000": [
+    {
+      "number": "1",
+      "theory_question": "A mixture of iodine and sulphur crystals can be separated by treatment with a suitable solvent. Name the solvent and explain the principle of separation.",
+      "theory_answer": "Carbon (IV) sulphide (carbon disulphide, CS₂) can be used. Iodine is soluble in carbon disulphide, while sulphur is not. The mixture is treated with CS₂ to dissolve the iodine, which is then filtered off to leave sulphur as the residue. The iodine can be recovered by evaporating the solvent.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "Sieving is a technique used to separate mixtures. For what type of solid particles is sieving most effective?",
+      "theory_answer": "Sieving is most effective for separating mixtures containing solid particles of different sizes. The sieve allows smaller particles to pass through its pores while retaining larger particles.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "Which common natural compound is composed of aluminum, silicon, oxygen, and hydrogen?",
+      "theory_answer": "Clay (which contains various aluminosilicate minerals) is composed of aluminum, silicon, oxygen, and hydrogen (as part of water molecules or hydroxyl groups in its structure).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "50 cm³ of carbon(II) oxide was exploded with 150 cm³ of air containing 20% oxygen by volume. Determine which reactant was in excess.",
+      "theory_answer": "Volume of oxygen in air = 20% of 150 cm³ = (20/100) × 150 = 30 cm³. The reaction is: 2CO(g) + O₂(g) → 2CO₂(g). From the stoichiometry, 2 volumes of CO react with 1 volume of O₂. Therefore, for 50 cm³ of CO, the volume of O₂ required = (1/2) × 50 = 25 cm³. Since 30 cm³ of O₂ is available and only 25 cm³ is needed, oxygen is the reactant in excess.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "How many moles of HCl will be required to react with potassium heptaoxodichromate(VI) (K₂Cr₂O₇) to produce 3 moles of chlorine? The unbalanced reaction is: K₂Cr₂O₇ + HCl → KCl + CrCl₃ + Cl₂ + H₂O.",
+      "theory_answer": "First, balance the equation: K₂Cr₂O₇ + 14HCl → 2KCl + 2CrCl₃ + 3Cl₂ + 7H₂O. From the balanced equation, 14 moles of HCl produce 3 moles of Cl₂. Therefore, to produce exactly 3 moles of chlorine, 14 moles of HCl are required.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "6",
+      "theory_question": "The ratio of the initial to the final pressure of a given mass of gas is 1:1.5. Calculate the final volume of the gas if the initial volume was 300 cm³ at the same temperature.",
+      "theory_answer": "Given P₁ : P₂ = 1 : 1.5, so P₁/P₂ = 1/1.5 = 2/3. V₁ = 300 cm³. Temperature is constant, so Boyle's law applies: P₁V₁ = P₂V₂. Therefore, V₂ = (P₁V₁)/P₂ = V₁ × (P₁/P₂) = 300 cm³ × (2/3) = 200 cm³.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "The partial pressure of oxygen in a sample of air is 452 mm Hg and the total pressure is 780 mm Hg. What is the mole fraction of oxygen?",
+      "theory_answer": "Mole fraction of a gas (χ) = Partial pressure / Total pressure. χ_oxygen = 452 mm Hg / 780 mm Hg = 0.579 (or 0.579).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "8",
+      "theory_question": "What is the fundamental difference between the three states of matter (solid, liquid, and gas)?",
+      "theory_answer": "The fundamental difference between the three states of matter is the degree of movement (kinetic energy) of their particles and the strength of the intermolecular forces between them. In solids, particles vibrate about fixed positions. In liquids, particles are close but can move past each other. In gases, particles are far apart and move randomly at high speeds.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "9",
+      "theory_question": "State two correct statements about the periodic table with respect to periods and groups.",
+      "theory_answer": "1. The valence electrons of the elements in the same period increase progressively across the period. 2. Elements in the same group have the same number of valence electrons. (Other correct statements: Non-metallic properties tend to increase across a period; elements in the same group have similar chemical properties).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "Write the electron configuration of the titanium ion, Ti²⁺, given that the atomic number of titanium is 22.",
+      "theory_answer": "The electron configuration of a neutral titanium atom (Z=22) is 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d². When forming the Ti²⁺ ion, the two electrons are removed from the 4s orbital first (as it has higher energy than 3d in ions). Therefore, the electron configuration of Ti²⁺ is 1s² 2s² 2p⁶ 3s² 3p⁶ 3d².",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "Which type of bonding (metallic, covalent, coordinate, or electrovalent) does not involve the formation of a new substance when it is the primary bonding type? Explain.",
+      "theory_answer": "Metallic bonding. Metallic bonding is the electrostatic attraction between a lattice of positive metal ions and delocalized electrons. It is the force that holds metal atoms together in a metallic structure. It doesn't involve the formation of discrete new molecules or ionic compounds; it's the bond that forms a metallic substance from its constituent atoms.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "What practical application does the knowledge of half-life have in science?",
+      "theory_answer": "The knowledge of half-life is used in various applications, including: 1. Radiocarbon dating (using C-14) to determine the age of archaeological and geological samples. 2. In nuclear medicine, to determine the appropriate dosage and timing for radioactive tracers. 3. To manage and predict the decay and storage time of radioactive waste.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "13",
+      "theory_question": "Describe the molecular shapes of CO₂, H₂O, and CH₄ respectively.",
+      "theory_answer": "CO₂ is linear. H₂O is bent (or V-shaped). CH₄ is tetrahedral.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "14",
+      "theory_question": "The distance between the nuclei of two chlorine atoms in a chlorine molecule (Cl₂) is 0.198 nm. What is the atomic radius of a chlorine atom?",
+      "theory_answer": "In a diatomic molecule like Cl₂, the distance between the nuclei is the bond length, which is equal to twice the atomic radius (covalent radius) of the atom. Atomic radius = Bond length / 2 = 0.198 nm / 2 = 0.099 nm.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "15",
+      "theory_question": "Name one important industrial application of the noble gas argon.",
+      "theory_answer": "Argon is used in electric arc welding as an inert shielding gas to protect the weld area from oxidation and contamination by atmospheric gases (oxygen and nitrogen). It is also used in incandescent light bulbs to prevent the tungsten filament from oxidizing.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "16",
+      "theory_question": "What is a potential side effect of using soft water in household plumbing systems?",
+      "theory_answer": "A side effect of soft water is that it can be slightly acidic and may corrode (attack) metal pipes, particularly lead pipes, leaching toxic metal ions into the drinking water.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "17",
+      "theory_question": "Water molecules can act as ligands. To which class of elements do they typically bond to form complex ions?",
+      "theory_answer": "Water molecules typically act as ligands when they are bonded to transition metals to form complex ions (e.g., [Cu(H₂O)₆]²⁺, [Fe(H₂O)₆]³⁺).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "Name an air pollutant that is not found in nature (i.e., it is entirely anthropogenic).",
+      "theory_answer": "DDT (Dichlorodiphenyltrichloroethane) is a synthetic pesticide and an air pollutant that is not known to occur naturally. Other examples include CFCs (chlorofluorocarbons) and many other synthetic organic compounds.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "19",
+      "theory_question": "10 dm³ of distilled water is used to wash 2.0 g of a precipitate of AgCl. If the solubility product (Ksp) of AgCl is 2.0 × 10⁻¹⁰ mol² dm⁻⁶, calculate the quantity (in moles) of silver lost in the washing process.",
+      "theory_answer": "For AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq), Ksp = [Ag⁺][Cl⁻] = s², where s is the molar solubility in mol/dm³. s = √(Ksp) = √(2.0 × 10⁻¹⁰) = 1.414 × 10⁻⁵ mol/dm³. This means 1 dm³ of saturated solution contains 1.414 × 10⁻⁵ moles of Ag⁺ (and thus of Ag lost). For 10 dm³ of wash water, the total moles of Ag lost = solubility × volume = (1.414 × 10⁻⁵ mol/dm³) × 10 dm³ = 1.414 × 10⁻⁴ moles. The question asks for quantity in moles. However, the options provided in the original question (2.029×10⁻³, 1.414×10⁻³, 2.029×10⁻⁵, 1.414×10⁻⁵) suggest they might be asking for the concentration or have a different interpretation. The correct calculation yields 1.414×10⁻⁴ mol. If the question intended the concentration in the wash water, it would be 1.414×10⁻⁵ mol/dm³. Given the options, 1.414×10⁻⁵ is listed, which is the molar solubility. I'll provide the calculated value. The quantity lost in 10 dm³ is 1.414×10⁻⁴ mol.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "20",
+      "theory_question": "Is the hydration of ions in solution associated with the absorption or liberation of heat?",
+      "theory_answer": "The hydration of ions in solution is associated with the liberation of heat (it is an exothermic process). This is because energy is released when ion-dipole bonds form between the ions and water molecules.",
+      "difficulty": "medium"
+    }
+  ],
+  "2001": [
+    {
+      "number": "1",
+      "theory_question": "Define an addition reaction and a substitution reaction. Give one example of each.",
+      "theory_answer": "An addition reaction is a reaction where two or more molecules combine to form a larger molecule, with no other products. It is characteristic of unsaturated compounds like alkenes and alkynes. Example: Ethene reacts with bromine to form 1,2-dibromoethane (CH₂=CH₂ + Br₂ → CH₂BrCH₂Br). A substitution reaction is a reaction where an atom or group of atoms in a molecule is replaced by another atom or group. It is characteristic of saturated compounds like alkanes. Example: Methane reacts with chlorine in the presence of light to form chloromethane (CH₄ + Cl₂ → CH₃Cl + HCl).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "A compound contains 31.91% potassium, 28.93% chlorine, and the rest is oxygen. Determine its empirical formula. (K=39, Cl=35.5, O=16).",
+      "theory_answer": "Assume 100g of the compound. Mass of K = 31.91g, Cl = 28.93g, O = 100 - (31.91+28.93) = 39.16g. Moles of K = 31.91/39 = 0.818 mol. Moles of Cl = 28.93/35.5 = 0.815 mol. Moles of O = 39.16/16 = 2.4475 mol. Divide by the smallest (0.815): K = 0.818/0.815 ≈ 1, Cl = 0.815/0.815 = 1, O = 2.4475/0.815 ≈ 3. The empirical formula is KClO₃.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "What is the most probable boiling point of a mixture containing a small quantity of trichloromethane (b.p. 60°C) and a large quantity of ethanol (b.p. 78°C)?",
+      "theory_answer": "When a small amount of a more volatile liquid (lower boiling point) is added to a large quantity of a less volatile liquid (higher boiling point), the boiling point of the resultant mixture will be lower than that of the pure less volatile liquid. Therefore, the boiling point will be between 60°C and 78°C, likely closer to 78°C but lower. The most probable boiling point would be less than 78°C, e.g., around 70°C.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "Which gas is responsible for the brown coloration observed in the brown ring test for nitrates?",
+      "theory_answer": "Nitrogen(II) oxide (NO) gas is produced, which then reacts with oxygen in the air to form brown fumes of nitrogen(IV) oxide (NO₂). The brown ring itself is formed by the complex [Fe(H₂O)₅(NO)]²⁺.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "Which of the following compounds (NH₄Cl, Na₂CO₃, AlCl₃, CH₃COONa) will give a precipitate when treated with NaOH solution? Explain why.",
+      "theory_answer": "AlCl₃ will give a white gelatinous precipitate of Al(OH)₃ when treated with NaOH solution. Al³⁺(aq) + 3OH⁻(aq) → Al(OH)₃(s). NH₄Cl may react to give ammonia gas (no precipitate). Na₂CO₃ and CH₃COONa are soluble and will not form a precipitate with NaOH.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "The reaction of an alkene with hydrogen in the presence of a catalyst (like Pt, Pd, or Ni) is an example of what type of reaction?",
+      "theory_answer": "It is an addition reaction (specifically, catalytic hydrogenation).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "7",
+      "theory_question": "A rock sample was added to cold dilute HNO₃. The gas evolved was passed into acidified K₂Cr₂O₇ solution, which turned from orange to green. What anion does the rock sample likely contain?",
+      "theory_answer": "The gas evolved that can turn acidified K₂Cr₂O₇ from orange to green is a reducing agent, most likely sulphur(IV) oxide (SO₂). SO₂ reduces dichromate(VI) (Cr₂O₇²⁻, orange) to chromium(III) (Cr³⁺, green). This indicates the rock sample contains a sulphite (SO₃²⁻) or a sulphide (S²⁻) that reacted with the acid to produce SO₂.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "8",
+      "theory_question": "Name the intermediate organic compound formed when ethanol is progressively oxidized to ethanoic acid using acidified potassium heptaoxodichromate(VI) (K₂Cr₂O₇).",
+      "theory_answer": "The intermediate compound is ethanol (acetaldehyde, CH₃CHO).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "9",
+      "theory_question": "Classify the following alcohol as primary, secondary, or tertiary: CH₃CH₂-C(OH)(H)-CH₃.",
+      "theory_answer": "The structure CH₃CH₂-C(OH)(H)-CH₃ is butan-2-ol. The carbon atom bearing the -OH group is bonded to two other carbon atoms (one ethyl group and one methyl group). Therefore, it is a secondary alcohol.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "10",
+      "theory_question": "A red precipitate of copper(I) carbide is formed when ammoniacal copper(I) chloride solution is introduced into which type of hydrocarbon? Give an example.",
+      "theory_answer": "This test is for terminal alkynes (alk-1-ynes), which have a hydrogen atom attached to the triply bonded carbon. The red precipitate is formed with compounds like propyne (CH₃C≡CH) or ethyne (HC≡CH) itself. The reaction is: HC≡CH + 2Cu⁺ + 2NH₃ → CuC≡CCu (copper acetylide, red precipitate) + 2NH₄⁺.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "11",
+      "theory_question": "What is the most important industrial use of hydrogen gas?",
+      "theory_answer": "The most important use of hydrogen is in the manufacture of ammonia via the Haber process (N₂ + 3H₂ ⇌ 2NH₃).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "12",
+      "theory_question": "Which polymer, known for its suitability in packaging and electrical insulation, is produced from ethene?",
+      "theory_answer": "Polyethene (polythene).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "13",
+      "theory_question": "What is the name of the process involving the boiling of fat or oil with aqueous caustic soda (sodium hydroxide) to produce soap?",
+      "theory_answer": "Saponification.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "14",
+      "theory_question": "Ordinary glass is manufactured from silica (SiO₂), calcium carbonate (CaCO₃), and one other key raw material. Name this material.",
+      "theory_answer": "Sodium carbonate (Na₂CO₃, soda ash).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "15",
+      "theory_question": "What is the major product formed when the following compound undergoes dehydration? (Assume the compound is butan-2-ol: CH₃-CH(OH)-CH₂-CH₃).",
+      "theory_answer": "Dehydration of butan-2-ol (a secondary alcohol) can yield two alkenes: but-1-ene and but-2-ene. According to Saytzeff's rule, the more substituted alkene is the major product. Therefore, the major product is but-2-ene (CH₃-CH=CH-CH₃).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "How many structural isomers (excluding stereoisomers) are possible for the alkane with molecular formula C₆H₁₄ (hexane)?",
+      "theory_answer": "C₆H₁₄ has 5 structural isomers: n-hexane, 2-methylpentane, 3-methylpentane, 2,2-dimethylbutane, and 2,3-dimethylbutane.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "17",
+      "theory_question": "Give one example each of a synthetic macromolecule and a natural macromolecule.",
+      "theory_answer": "Synthetic macromolecule: Nylon or Polyethylene. Natural macromolecule: Creatine (in muscles) or Haemoglobin (in blood).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "Name one element, other than carbon, that exhibits the property of catenation (forming chains of atoms).",
+      "theory_answer": "Silicon (though its chains are less stable) and sulphur (forms chains in its plastic and molten forms).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "How is ethanol (ethyl alcohol) produced industrially from starch?",
+      "theory_answer": "Ethanol is produced industrially from starch by fermentation. Starch is first broken down into sugars (like maltose and glucose) by enzymes (e.g., diastase from malt). Then, the sugar (glucose) is fermented by yeast (containing the enzyme zymase) to produce ethanol and carbon dioxide: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "Which of the following metals (Ag, Au, Cu, Na) will readily release hydrogen gas when reacted with dilute hydrochloric acid?",
+      "theory_answer": "Sodium (Na) will react vigorously and readily release hydrogen gas with dilute HCl. Copper (Cu), silver (Ag), and gold (Au) are below hydrogen in the reactivity series and will not react with dilute HCl.",
+      "difficulty": "easy"
+    }
+  ],
+  "2002": [
+    {
+      "number": "1",
+      "theory_question": "What is the general formula for the alkyl group?",
+      "theory_answer": "The general formula for an alkyl group is CₙH₂ₙ₊₁.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "2",
+      "theory_question": "Which of the following gases contains the least number of atoms at s.t.p.: 1 mole of argon, 4 moles of chlorine, 3 moles of ozone, or 1 mole of butane?",
+      "theory_answer": "1. 1 mole of Argon (Ar) contains 1 mole of Ar atoms = 6.02×10²³ atoms. 2. 4 moles of Chlorine (Cl₂) contains 4 × 2 = 8 moles of Cl atoms. 3. 3 moles of Ozone (O₃) contains 3 × 3 = 9 moles of O atoms. 4. 1 mole of Butane (C₄H₁₀) contains (4+10) = 14 moles of atoms. Therefore, 1 mole of argon contains the least number of atoms (1 mole of atoms).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "On what principle does the chromatographic separation of ink components depend?",
+      "theory_answer": "Chromatographic separation depends on the differential migration (or adsorption) of the components between a stationary phase (e.g., paper) and a mobile phase (a solvent). Components with different affinities for the two phases travel at different rates and thus separate.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "4",
+      "theory_question": "A compound contains 31.91% potassium, 28.93% chlorine, and the rest oxygen. Determine its empirical formula. (K=39, Cl=35.5, O=16).",
+      "theory_answer": "Assume 100g. K = 31.91g, Cl = 28.93g, O = 100 - (31.91+28.93) = 39.16g. Moles K = 31.91/39 = 0.818; Cl = 28.93/35.5 = 0.815; O = 39.16/16 = 2.4475. Divide by smallest (0.815): K = 1, Cl = 1, O = 3. Empirical formula = KClO₃.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "A small quantity of trichloromethane (b.p. 60°C) is added to a large quantity of ethanol (b.p. 78°C). What is the most probable boiling point of the resulting mixture?",
+      "theory_answer": "The boiling point will be lower than that of pure ethanol (78°C) due to the presence of the more volatile trichloromethane. It will likely be somewhere between 60°C and 78°C, probably closer to 78°C but reduced, e.g., around 70°C.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "Name the gas responsible for the brown color in the brown ring test for nitrates.",
+      "theory_answer": "Nitrogen(II) oxide (NO), which forms brown nitrogen(IV) oxide (NO₂) upon contact with air.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "Which of these compounds (NH₄Cl, Na₂CO₃, AlCl₃, CH₃COONa) will give a precipitate when treated with NaOH solution?",
+      "theory_answer": "AlCl₃ will give a white gelatinous precipitate of Al(OH)₃.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "The reaction of an alkene with hydrogen in the presence of a catalyst is what type of reaction?",
+      "theory_answer": "An addition reaction (catalytic hydrogenation).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "9",
+      "theory_question": "A rock sample added to cold dilute HNO₃ produces a gas that turns acidified K₂Cr₂O₇ solution green. What anion is likely present in the rock?",
+      "theory_answer": "A sulphite (SO₃²⁻) or a sulphide (S²⁻) that produces SO₂ gas.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "10",
+      "theory_question": "What is the intermediate compound formed when ethanol is oxidized to ethanoic acid with acidified K₂Cr₂O₇?",
+      "theory_answer": "Ethanal (acetaldehyde, CH₃CHO).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "Classify the following alcohol as primary, secondary, or tertiary: CH₃-CH(OH)-CH₂-CH₃.",
+      "theory_answer": "Secondary alcohol (butan-2-ol).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "What type of hydrocarbon gives a red precipitate with ammoniacal copper(I) chloride solution? Give an example.",
+      "theory_answer": "Terminal alkynes (alk-1-ynes). Example: Ethyne (HC≡CH) or Propyne (CH₃C≡CH).",
+      "difficulty": "hard"
+    },
+    {
+      "number": "13",
+      "theory_question": "What is the most important industrial use of hydrogen?",
+      "theory_answer": "Manufacture of ammonia (Haber process).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "14",
+      "theory_question": "Which polymer is suitable for packaging and electrical insulation?",
+      "theory_answer": "Polyethene.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "15",
+      "theory_question": "What is the name of the process for making soap by boiling fat with caustic soda?",
+      "theory_answer": "Saponification.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "16",
+      "theory_question": "Ordinary glass is made from silica, CaCO₃, and which other sodium compound?",
+      "theory_answer": "Sodium carbonate (Na₂CO₃).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "17",
+      "theory_question": "What is the major product of dehydration of butan-2-ol?",
+      "theory_answer": "But-2-ene.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "How many structural isomers does C₆H₁₄ (hexane) have?",
+      "theory_answer": "5.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "Give one example each of a synthetic and a natural macromolecule.",
+      "theory_answer": "Synthetic: Nylon. Natural: Haemoglobin.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "Name one element other than carbon that can catenate.",
+      "theory_answer": "Sulphur or Silicon.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "21",
+      "theory_question": "How is ethanol produced from starch?",
+      "theory_answer": "By fermentation of sugars derived from starch.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "22",
+      "theory_question": "Which metal (Ag, Au, Cu, Na) readily liberates hydrogen with dilute HCl?",
+      "theory_answer": "Sodium (Na).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "23",
+      "theory_question": "State one true statement about the mass of a proton.",
+      "theory_answer": "The mass of a proton is approximately 1.67 × 10⁻²⁷ kg, which is about 1840 times the mass of an electron.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "24",
+      "theory_question": "Identify X in the nuclear equation: ¹⁴₇N + ¹₀n → X + ¹₁H.",
+      "theory_answer": "X is ¹⁴₆C (carbon-14).",
+      "difficulty": "hard"
+    },
+    {
+      "number": "25",
+      "theory_question": "Gas X diffuses twice as fast as gas Y. If the relative molecular mass of X is 28, calculate the relative molecular mass of Y.",
+      "theory_answer": "According to Graham's law, rate of diffusion ∝ 1/√(M). So, r_X / r_Y = √(M_Y / M_X). Given r_X / r_Y = 2. Therefore, 2 = √(M_Y / 28). Squaring both sides: 4 = M_Y / 28. So, M_Y = 28 × 4 = 112.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "26",
+      "theory_question": "Which of the following chlorides (LiCl, MgCl₂, CaCl₂, AlCl₃) would exhibit the least ionic character?",
+      "theory_answer": "AlCl₃ exhibits the least ionic character. It is predominantly covalent due to the high polarizing power (high charge-to-size ratio) of the Al³⁺ ion.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "27",
+      "theory_question": "A fixed mass of gas has a volume of 92 cm³ at 3°C. What will be its volume at 18°C if the pressure remains constant?",
+      "theory_answer": "Using Charles's Law: V₁/T₁ = V₂/T₂. Temperatures must be in Kelvin. T₁ = 3°C + 273 = 276 K. T₂ = 18°C + 273 = 291 K. V₁ = 92 cm³. V₂ = V₁ × (T₂/T₁) = 92 × (291/276) = 92 × 1.0543 = 97.0 cm³.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "28",
+      "theory_question": "List three processes that return carbon(IV) oxide (CO₂) to the atmosphere.",
+      "theory_answer": "Respiration (by plants and animals), decay (decomposition of organic matter), and combustion (burning of fossil fuels and biomass).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "29",
+      "theory_question": "Which postulate of Dalton's atomic theory is still considered valid today?",
+      "theory_answer": "The postulate that atoms of different elements combine in simple whole-number ratios to form compounds is still valid.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "30",
+      "theory_question": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in a vessel with a total pressure of 0.7 atmosphere, what is the partial pressure of oxygen?",
+      "theory_answer": "Total moles = 0.75 + 0.66 = 1.41 moles. Mole fraction of O₂ = moles of O₂ / total moles = 0.66 / 1.41 = 0.468. Partial pressure of O₂ = mole fraction × total pressure = 0.468 × 0.7 atm = 0.328 atm (approximately 0.33 atm).",
+      "difficulty": "medium"
+    }
+  ],
+  "2003": [
+    {
+      "number": "1",
+      "theory_question": "What volume of oxygen at s.t.p. is produced from the decomposition of 0.1 mole of hydrogen peroxide according to the equation 2H₂O₂ → 2H₂O + O₂? (Molar volume at s.t.p. = 22.4 dm³).",
+      "theory_answer": "From the equation, 2 moles of H₂O₂ produce 1 mole of O₂. So, 0.1 mole of H₂O₂ will produce (0.1/2) = 0.05 mole of O₂. Volume at s.t.p. = 0.05 mol × 22.4 dm³/mol = 1.12 dm³.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "Which of the following processes is a physical change: burning kerosene, freezing ice-cream, exposing white phosphorus to air, or dissolving calcium in water?",
+      "theory_answer": "Freezing ice-cream is a physical change. It involves a change of state (liquid to solid) and no new chemical substances are formed.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "3",
+      "theory_question": "In the equation Cu + pHNO₃ → 3Cu(NO₃)₂ + 4H₂O + xNO, find the values of p and x.",
+      "theory_answer": "Balancing the equation: The products show 3Cu, so the reactant must be 3Cu. The products show 3Cu(NO₃)₂, which contains 6 nitrate (NO₃) ions. The nitrogen in NO is from HNO₃ but not as nitrate. So total N atoms from HNO₃ = from Cu(NO₃)₂ + from NO = 6 + x. Total H atoms from HNO₃ = from 4H₂O = 8, so p (the coefficient of HNO₃) must be 8 (since each HNO₃ has 1 H). Then total N atoms from 8HNO₃ = 8. Therefore, 8 = 6 + x, so x = 2. The balanced equation is 3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 4H₂O + 2NO. So p=8 and x=2.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "4",
+      "theory_question": "What is the percentage by mass of oxygen in Al₂(SO₄)₃·2H₂O? (Al=27, S=32, H=1, O=16).",
+      "theory_answer": "Molar mass: Al₂(SO₄)₃ = (2×27) + (3×32) + (12×16) = 54 + 96 + 192 = 342 g/mol. 2H₂O = 2×18 = 36 g/mol. Total molar mass of hydrate = 342 + 36 = 378 g/mol. Total mass of oxygen atoms: From Al₂(SO₄)₃: 12 O atoms = 12×16 = 192. From 2H₂O: 2 O atoms = 2×16 = 32. Total O mass = 192 + 32 = 224 g. % O = (224 / 378) × 100% = 59.26%. The closest option in the original question was 59.25%.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "How does the filter in a cigarette reduce the nicotine content inhaled by the smoker?",
+      "theory_answer": "The filter in a cigarette reduces nicotine content primarily by adsorption. The filter material (often cellulose acetate or activated charcoal) traps some of the tar and nicotine particles from the smoke as it passes through.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "6",
+      "theory_question": "Neutral atoms of neon (atomic number 10) have the same number of electrons as which of the following ions: O²⁺, Ca²⁺, K⁺, or Mg⁺?",
+      "theory_answer": "Neon has 10 electrons. O²⁺ has 8 - 2 = 6 electrons. Ca²⁺ has 20 - 2 = 18 electrons. K⁺ has 19 - 1 = 18 electrons. Mg⁺ has 12 - 1 = 11 electrons. None of these match 10. There might be a typo in the question. However, if the option were O²⁻, that would have 8+2=10 electrons. Based on common JAMB questions, the correct pair is often with O²⁻ or Na⁺ (10 electrons). The provided options don't include a correct match, but O²⁺ is incorrect.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "To what factor do the noble gases owe their chemical inactivity (inertness)?",
+      "theory_answer": "The noble gases owe their inactivity to their stable octet (or duplet for helium) electron configuration. Their outermost electron shell is completely filled, giving them very little tendency to gain, lose, or share electrons.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "8",
+      "theory_question": "According to the kinetic theory of gases, what is the effect of an increase in temperature on the kinetic energy of gas particles?",
+      "theory_answer": "According to the kinetic theory, an increase in temperature causes the average kinetic energy of the gas particles to increase.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "9",
+      "theory_question": "From the given electronic configurations (H=1s¹, N=1s²2s²2p³, O=1s²2s²2p⁴, Zn=1s²2s²2p⁶3s²3p⁶4s²3d¹⁰), which two are likely to be paramagnetic?",
+      "theory_answer": "Paramagnetism is due to the presence of unpaired electrons. H (1s¹) has 1 unpaired electron. N (2p³) has three unpaired electrons (Hund's rule). O (2p⁴) has two unpaired electrons. Zn (3d¹⁰) has all electrons paired. Therefore, H, N, and O are paramagnetic. The question asks for a pair, so H and N, or H and O, or N and O would be correct. The original answer likely points to I and II or I and III.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "10",
+      "theory_question": "Explain why a gas exerts pressure on the walls of its container.",
+      "theory_answer": "A gas exerts pressure on the walls of its container because its molecules are in constant, random motion. They continually collide with the walls of the container. Each collision exerts a tiny force on the wall. The sum of all these forces over the area of the wall results in the gas pressure.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "11",
+      "theory_question": "When cathode rays are deflected onto the electrode of an electrometer, what charge does the electrode acquire?",
+      "theory_answer": "Cathode rays are streams of electrons, which are negatively charged. When they are deflected onto an electrode, the electrode gains electrons and becomes negatively charged.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "12",
+      "theory_question": "What is the name of the weakest attractive forces that can exist between two molecules?",
+      "theory_answer": "Van der Waals forces (also known as London dispersion forces or instantaneous dipole-induced dipole forces).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "13",
+      "theory_question": "Name one major consequence of global warming.",
+      "theory_answer": "A major consequence of global warming is flooding (due to thermal expansion of seawater and melting of glaciers and ice caps, leading to rising sea levels). Other consequences include increased frequency of extreme weather events, habitat loss, and changes in agricultural patterns.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "14",
+      "theory_question": "Which of the following ions (K⁺, NO₃⁻, S²⁻, H₃O⁺) is acidic in aqueous solution?",
+      "theory_answer": "H₃O⁺ (hydronium ion) is acidic. It is the species that donates protons and is responsible for the acidic properties of aqueous solutions.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "15",
+      "theory_question": "What is the structural component of a detergent that makes it dissolve more quickly in water than soap?",
+      "theory_answer": "The structural component is the -SO₃⁻Na⁺ group (sulphonate group) in synthetic detergents, compared to the -COO⁻Na⁺ (carboxylate) group in soaps. The sulphonate group does not react with calcium and magnesium ions in hard water, and it is more soluble.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "16",
+      "theory_question": "Name a common liquid that will dissolve fat.",
+      "theory_answer": "Kerosene (or any other hydrocarbon solvent like petrol or benzene) will dissolve fat. Fats are non-polar and dissolve in non-polar organic solvents.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "17",
+      "theory_question": "What mass of potassium chromate(V) (K₂CrO₄) is contained in 250 mm³ of a 0.2 M solution? (K₂CrO₄ = 194.2 g/mol).",
+      "theory_answer": "Volume in dm³: 250 mm³ = 250 × 10⁻⁶ dm³ = 2.5 × 10⁻⁴ dm³. Moles of K₂CrO₄ = concentration × volume = 0.2 mol/dm³ × 2.5 × 10⁻⁴ dm³ = 5.0 × 10⁻⁵ mol. Mass = moles × molar mass = (5.0 × 10⁻⁵ mol) × 194.2 g/mol = 9.71 × 10⁻³ g = 0.00971 g. This is a very small mass. The options in the original question (0.97g, 9.70g, 19.42g, 97.10g) suggest the volume was likely meant to be 250 cm³ (0.25 dm³). If volume = 0.25 dm³: moles = 0.2 × 0.25 = 0.05 mol; mass = 0.05 × 194.2 = 9.71 g.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "How can farmlands affected by crude-oil spillage be biologically decontaminated?",
+      "theory_answer": "Farmlands can be decontaminated by using aerobic bacteria (a process called bioremediation). These bacteria can metabolize and break down the hydrocarbons in crude oil into less harmful substances like carbon dioxide and water.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "19",
+      "theory_question": "When 10g of sodium hydroxide is dissolved in 100 cm³ of water, what is the approximate concentration of the solution formed in mol/dm³? (Na=23, H=1, O=16).",
+      "theory_answer": "Molar mass NaOH = 40 g/mol. Moles = 10/40 = 0.25 mol. Volume = 100 cm³ = 0.1 dm³. Concentration = 0.25 mol / 0.1 dm³ = 2.5 mol/dm³.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "What equilibrium is disturbed when the temperature of a saturated solution is changed?",
+      "theory_answer": "A change in temperature disturbs the equilibrium between the dissolved solute and the undissolved solute. Solubility is temperature-dependent, so heating or cooling a saturated solution will shift this equilibrium, either causing more solute to dissolve or causing some solute to precipitate out.",
+      "difficulty": "medium"
+    }
+  ],
+  "2004": [
+    {
+      "number": "1",
+      "theory_question": "In the electrolysis of brine (concentrated sodium chloride solution), what material is commonly used for the anode, and why?",
+      "theory_answer": "The anode is typically made of an inert material like titanium coated with a metal oxide, or historically, carbon/graphite. It must be inert because chlorine gas is produced at the anode (2Cl⁻ → Cl₂ + 2e⁻), which would corrode most metals.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "2",
+      "theory_question": "For the endothermic reaction N₂O₄(g) ⇌ 2NO₂(g), will an increase or decrease in pressure favor more product (NO₂) formation? Explain.",
+      "theory_answer": "An decrease in pressure will favor more product formation. According to Le Chatelier's principle, decreasing the pressure favors the side with more moles of gas. The product side (2NO₂) has 2 moles of gas, while the reactant side (N₂O₄) has 1 mole. Therefore, a decrease in pressure shifts the equilibrium to the right, producing more NO₂.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "3",
+      "theory_question": "Determine the oxidation state of chlorine in perchloric acid, HClO₄.",
+      "theory_answer": "Let oxidation state of Cl be x. H is +1, O is -2. (+1) + x + 4(-2) = 0 => 1 + x - 8 = 0 => x = +7.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "4",
+      "theory_question": "Which hydrogen halide (HBr, HF, HI, HCl) has the highest entropy value?",
+      "theory_answer": "Entropy generally increases with molar mass and complexity. HI has the highest molar mass (128) compared to HCl (36.5), HBr (81), and HF (20). Therefore, HI has the highest entropy value.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "5",
+      "theory_question": "Calculate the mass of silver deposited when a current of 10 A is passed through a solution of a silver salt for 4830 s. (Ag=108, F=96500 C/mol).",
+      "theory_answer": "Q = I × t = 10 A × 4830 s = 48300 C. For Ag⁺ + e⁻ → Ag, n=1. Mass = (Q × M) / (n × F) = (48300 × 108) / (1 × 96500) = (48300/96500) × 108 = (0.5) × 108 = 54.0 g.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "6",
+      "theory_question": "Name a common gas that can act as both a reducing agent and an oxidizing agent.",
+      "theory_answer": "Sulphur(IV) oxide (SO₂).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "7",
+      "theory_question": "For which of the following equilibria (2O₃⇌3O₂, H₂+I₂⇌2HI, 2NO₂⇌N₂O₄, PCl₅⇌PCl₃+Cl₂) does a change in pressure have little or no effect?",
+      "theory_answer": "A change in pressure has little or no effect when the total number of moles of gaseous reactants equals the total number of moles of gaseous products. For H₂(g) + I₂(g) ⇌ 2HI(g), the left side has 1+1=2 moles of gas, and the right side has 2 moles of gas. Therefore, pressure change has no effect on this equilibrium.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "8",
+      "theory_question": "Given ΔH_f[CO] = -110.4 kJ/mol and ΔH_f[CO₂] = -393 kJ/mol, calculate the enthalpy change for the reaction: ZnO(s) + CO(g) → Zn(s) + CO₂(g).",
+      "theory_answer": "ΔH_rxn = Σ ΔH_f(products) - Σ ΔH_f(reactants). Note: ZnO and Zn are solids; their standard enthalpies of formation are not zero? The standard enthalpy of formation for an element in its standard state (Zn(s)) is zero. We need ΔH_f for ZnO to solve this completely. The question as provided is incomplete. If we assume the reaction is CO(g) + ½O₂(g) → CO₂(g), then ΔH = ΔH_f(CO₂) - ΔH_f(CO) = (-393) - (-110.4) = -282.6 kJ/mol.",
+      "difficulty": "hard"
+    },
+    {
+      "number": "9",
+      "theory_question": "In the reaction ZnO + CO → Zn + CO₂, what has happened to zinc (oxidized, reduced, displaced, decomposed)?",
+      "theory_answer": "Zinc has been reduced. Its oxidation state decreases from +2 in ZnO to 0 in Zn.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "10",
+      "theory_question": "Calculate the volume of gas evolved at s.t.p. when 2.0 g of calcium trioxocarbonate(IV) (CaCO₃) is added to excess HCl. (Ca=40, C=12, O=16, Molar volume at s.t.p = 22.4 dm³).",
+      "theory_answer": "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. Molar mass CaCO₃ = 100 g/mol. Moles CaCO₃ = 2/100 = 0.02 mol. Moles CO₂ produced = 0.02 mol. Volume at s.t.p. = 0.02 × 22.4 dm³ = 0.448 dm³ = 448 cm³.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "11",
+      "theory_question": "What two changes are always associated with a chemical reaction?",
+      "theory_answer": "A chemical reaction is always associated with the formation of new substances and an energy change (usually heat, but could be light, etc.).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "12",
+      "theory_question": "What is the term for the process when a solid substance disappears completely as a gas on heating?",
+      "theory_answer": "Sublimation.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "13",
+      "theory_question": "Calculate the mass of copper(II) oxide that will react with a solution containing 4.9 g of tetraoxosulphate(VI) acid (H₂SO₄). (Cu=64, O=16, S=32, H=1).",
+      "theory_answer": "Reaction: CuO + H₂SO₄ → CuSO₄ + H₂O. Molar mass H₂SO₄ = 98 g/mol. Moles H₂SO₄ = 4.9/98 = 0.05 mol. From the equation, 1 mol H₂SO₄ reacts with 1 mol CuO. Moles CuO needed = 0.05 mol. Molar mass CuO = 64+16 = 80 g/mol. Mass CuO = 0.05 × 80 = 4.0 g.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "14",
+      "theory_question": "In the vulcanization of rubber, what chemical is added to create cross-links between polymer chains?",
+      "theory_answer": "Sulphur.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "15",
+      "theory_question": "What is the general formula for an alkyl group?",
+      "theory_answer": "CₙH₂ₙ₊₁.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "16",
+      "theory_question": "Identify the product Y in the reaction: C₂H₅OH(aq) --(Conc. H₂SO₄, 180°C)--> Y.",
+      "theory_answer": "Y is ethene (C₂H₄).",
+      "difficulty": "easy"
+    },
+    {
+      "number": "17",
+      "theory_question": "Why is concentrated sodium chloride solution added during the production of soap?",
+      "theory_answer": "It is added to decrease the solubility of the soap and separate it from the glycerol (a process called salting out).",
+      "difficulty": "medium"
+    },
+    {
+      "number": "18",
+      "theory_question": "Why is the oxyacetylene flame used for welding iron?",
+      "theory_answer": "Because it evolves a very high amount of heat (a very high temperature) when acetylene is burnt in oxygen.",
+      "difficulty": "easy"
+    },
+    {
+      "number": "19",
+      "theory_question": "Which reagent can be used to confirm the presence of a triple bond (alkyne) and distinguish it from an alkene?",
+      "theory_answer": "Ammoniacal copper(I) chloride solution. It gives a red precipitate with terminal alkynes but no reaction with alkenes.",
+      "difficulty": "medium"
+    },
+    {
+      "number": "20",
+      "theory_question": "Give the IUPAC name for the compound: CH₃-CH(CH₃)-CH(CH₃)-CH₂-CH₃.",
+      "theory_answer": "The longest continuous carbon chain has 5 carbons (pentane). There are methyl groups on carbons 2 and 3. The correct name is 2,3-dimethylpentane. (The original question's structure was likely 2,3-dimethylpentane).",
+      "difficulty": "hard"
+    }
+  ]
+} 
